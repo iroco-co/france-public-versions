@@ -1,6 +1,6 @@
 # Versions of terms from the *france-public* collection
 
-The terms in this collection are tracked by _ _ _ _ _ ✍️ using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked by Iroco Team using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
