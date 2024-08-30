@@ -3,7 +3,8 @@ run-name: Setup
 
 on:
   # Run when repo is generated from template
-  create:
+  push:
+    branches: main
 
 # Only keep latest run of this workflow
 concurrency:
