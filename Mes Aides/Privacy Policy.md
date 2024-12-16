@@ -20,7 +20,7 @@ Ces données sont conservées pour une durée maximale de 24 mois à compter de 
 
 Au regard de ce traitement, vous disposez d'un droit d'accès, de rectification et de limitation du traitement de vos données à caractère personnel.
 
-Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse[contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr)ou par courrier à l'adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
+Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse [contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr) ou par courrier à l'adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
 
 S'agissant des organismes dépositaires d’offres d’aides, France Travail traite vos données dans le cadre du formulaire de dépôt d'offre d'aides.
 
@@ -32,7 +32,7 @@ Pour les catégories de personnes ci-dessus, sont également collectés un ident
 
 Vous disposez d'un droit d’accès, de rectification et de limitation du traitement de vos données à caractère personnel.
 
-Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse[contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr)ou par courrier à l'adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
+Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse [contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr) ou par courrier à l'adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
 
 S'agissant des conseillers référents de l'utilisateur ou du conseiller France Travail, les données nom, prénom, adresse mél professionnelle, numéro de téléphone professionnel sont traitées.
 
@@ -40,7 +40,7 @@ Ces données sont conservées pour une durée maximale de 24 mois à compter de 
 
 Au regard de ce traitement, vous disposez d'un droit d’accès, de rectification et de limitation du traitement de vos données à caractère personnel.
 
-Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse[contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr)ou par courrier à l’adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
+Vous pouvez adresser toute requête au Délégué à la protection des données de France Travail par courriel à l'adresse [contact-dpd@pole-emploi.fr](mailto:contact-dpd@pole-emploi.fr) ou par courrier à l’adresse 1 avenue du Dr Gley, 75020 Paris. Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle (CNIL).
 
 Cookies
 -------
@@ -55,11 +55,11 @@ Seul l'émetteur d'un cookie est susceptible de lire, enregistrer ou de modifier
 
 ### 4.2 Les cookies déposés sur le site
 
-Sous réserve du choix de l’utilisateur, plusieurs cookies peuvent être utilisés sur le site internet[mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/). Les différentes finalités de ces cookies sont décrites ci-dessous.
+Sous réserve du choix de l’utilisateur, plusieurs cookies peuvent être utilisés sur le site internet [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/).  Les différentes finalités de ces cookies sont décrites ci-dessous.
 
 #### Cookies strictement nécessaires au fonctionnement du site
 
-Des cookies sont utilisés sur le site[mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/)pour permettre le bon fonctionnement du site internet et l'utilisation des principales fonctionnalités du site.
+Des cookies sont utilisés sur le site [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) pour permettre le bon fonctionnement du site internet et l'utilisation des principales fonctionnalités du site.
 
 Ces cookies ne sont pas soumis au consentement de l'utilisateur. Il s'agit des cookies déposés pour permettre la mesure statistique d'audience et de performance du site ainsi que la conservation du choix de l’usager sur le dépôt des cookies.
 
@@ -69,7 +69,7 @@ L'utilisateur peut cependant s'opposer à leur dépôt en suivant les indication
 
 #### Cookies statistiques ou de mesure d'audience
 
-Des cookies sont utilisés sur le site[mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/)afin d'effectuer de la mesure d'audience, des analyses statistiques dans le but d'améliorer l'expérience utilisateur et la performance du site internet. Ces cookies sont déposés par des tiers pour le compte de France Travail.
+Des cookies sont utilisés sur le site [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) afin d'effectuer de la mesure d'audience, des analyses statistiques dans le but d'améliorer l'expérience utilisateur et la performance du site internet. Ces cookies sont déposés par des tiers pour le compte de France Travail.
 
 L'utilisateur peut paramétrer le dépôt des cookies en suivant les indications données au point 4.3.
 
@@ -79,7 +79,7 @@ Pour plus d'informations sur les cookies notamment sur le type de cookies dépos
 
 #### Cookies de formulaire d'avis
 
-Des cookies sont utilisés sur le site[mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/)afin d'effectuer le recueil d’avis concernant le site et les aides proposées auprès des utilisateurs.
+Des cookies sont utilisés sur le site [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) afin d'effectuer le recueil d’avis concernant le site et les aides proposées auprès des utilisateurs.
 
 L'utilisateur peut paramétrer le dépôt des cookies en suivant les indications données au point 4.3.
 
@@ -89,7 +89,7 @@ Pour plus d'informations sur les cookies notamment sur le type de cookies dépos
 
 ### 4.3 Accepter ou refuser les cookies
 
-L'utilisateur dispose de différents moyens pour gérer ses choix en matière de cookies. Les modalités de gestion diffèrent selon que le cookie est soumis ou non à consentement préalable. L'utilisateur peut modifier ses choix à tout moment. Pour information, le paramétrage des cookies est susceptible de modifier les conditions de navigation sur le site internet[mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/), ainsi que les conditions d'accès à certains services et d'entrainer des dysfonctionnements de certaines fonctionnalités.
+L'utilisateur dispose de différents moyens pour gérer ses choix en matière de cookies. Les modalités de gestion diffèrent selon que le cookie est soumis ou non à consentement préalable. L'utilisateur peut modifier ses choix à tout moment. Pour information, le paramétrage des cookies est susceptible de modifier les conditions de navigation sur le site internet [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/),  ainsi que les conditions d'accès à certains services et d'entrainer des dysfonctionnements de certaines fonctionnalités.
 
 #### La plateforme de gestion du consentement
 
@@ -99,11 +99,11 @@ Pour les cookies donnant lieu à consentement préalable, l'utilisateur peut acc
 
 L'utilisateur peut accepter ou refuser le dépôt de tout ou partie des cookies, à tout moment, en modifiant les paramètres de son navigateur (consulter la fonction « Aide » du navigateur pour en savoir plus) ou en se rendant sur l'une des pages suivantes, selon le navigateur utilisé :
 
-* Google Chrome :[https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
-* Internet Explorer :[https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
-* Mozilla Firefox :[https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
-* Safari :[https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
+* Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
+* Internet Explorer : [https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
+* Mozilla Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
+* Safari : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
 
 Pour information, la plupart des navigateurs acceptent par défaut le dépôt de cookies. L'utilisateur peut modifier ses choix en matière de cookies à tout moment. Le paramétrage des cookies est susceptible de modifier les conditions de navigation sur le site internet, ainsi que les conditions d'accès à certains services, et d'entrainer des dysfonctionnements de certaines fonctionnalités.
 
-Pour plus d'informations sur les cookies et les moyens permettant d'empêcher leur installation, l'utilisateur peut se rendre sur la page dédiée sur le site internet de la CNIL :[https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
+Pour plus d'informations sur les cookies et les moyens permettant d'empêcher leur installation, l'utilisateur peut se rendre sur la page dédiée sur le site internet de la CNIL : [https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser).
