@@ -137,3 +137,5 @@ Plus précisément, il peut s'agir de toute personne morale de droit public ou p
 * Intervient dans le cadre d'une mission de service public d'accompagnement à la réalisation de démarches pour les usagers (les maisons de services au public (MSAP), les structures titulaires du label « France services », les agents des collectivités au contact du public, les CCAS, les services publics de proximité, les PIMMS ainsi que les centres médico-sociaux) ;
 * Participe à la politique d'animation de la vie sociale et développe des prestations de services, individualisées et spécialisées au sens de la circulaire n° 2012-013 de la CNAF ;
 * Intervient dans les pratiques professionnelles définies à l'article D. 142-1-1 du Code de l'action sociale et des familles, notamment les travailleurs sociaux.
+
+Fermer
