@@ -9,7 +9,12 @@ Le site [www.caf.fr](https://www.caf.fr/) est édité et hébergé par la Caisse
 
 Identifiant SIREN : Cnaf n° 180 035 065
 
-Identifiant SIRET : 180 0350 65 000 36
+Identifiant
+
+Code qui permet l'identification d'un établissement ou d'une entreprise française. Il est composé de 14 chiffres.  
+Ex. 732 829 320 00074
+
+: 180 0350 65 000 36
 
 Téléphone : +33 1 45 65 52 52
 
@@ -17,7 +22,7 @@ Directeur de la publication : Nicolas Grivel. 
 
 ### Informatique et libertés 
 
-[Consultez ici](https://www.caf.fr/nous-connaitre/informatique-et-libertes) les informations relatives à l'application de la loi Informatique et Libertés sur caf.fr ainsi qu'à la politique en vigueur sur l'usage des cookies. 
+[Consultez ici](https://www.caf.fr/allocataires/informatique-et-libertes) les informations relatives à l'application de la loi Informatique et Libertés sur caf.fr ainsi qu'à la politique en vigueur sur l'usage des cookies. 
 
 ### Conditions d'utilisation  
 
