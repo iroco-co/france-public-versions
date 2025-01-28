@@ -1,20 +1,20 @@
 CONDITIONS GÉNÉRALES D'UTILISATION DU TABLEAU DE BORD DE L’APPRENTISSAGE
 ------------------------------------------------------------------------
 
-Dernière mise à jour le : 29 mars 2024 - v0.3
+Dernière mise à jour le : 20 janvier 2025 - v0.4
 
 Les présentes conditions générales d’utilisation (dites « CGU ») définissent les conditions d’accès et d’utilisation des Services par l’Utilisateur.
 
 ### Article 1 - Préambule
 
-La Plateforme Tableau de bord de l’apprentissage (ci-après la Plateforme) est un système d’information ayant pour objet :
+La Plateforme Tableau de bord de l’apprentissage (ci-après la « Plateforme ») est un système d’information ayant pour objet :
 
 * La mise à disposition à différents acteurs de données clés concernant l’apprentissage en temps réel.
 
   
 La Plateforme est créée et administrée par la Délégation générale à l'Emploi et à la Formation professionnelle du ministère du Travail (ci-après « la DGEFP »).  
   
-L’Utilisateur reconnaît que l’utilisation de la Plateforme nécessite le respect de l’ensemble des dispositions des présentes et adhère sans réserve aux présentes conditions générales d’utilisation.
+L’Utilisateur reconnaît que l’utilisation de la Plateforme nécessite le respect de l’ensemble des dispositions des présentes et adhère sans réserve aux présentes CGU.
 
 ### Article 2 - Définitions
 
@@ -23,25 +23,25 @@ Les termes ci-dessous définis ont, entre les parties, la signification suivante
 * **« DGEFP »** : Délégation générale à l’emploi et à la formation professionnelle ;
 * **« Tableau de bord de l’apprentissage »** : Service numérique destiné à mettre à disposition de différents acteurs les données clés concernant l’apprentissage en temps réel ;
 * **« Ministère »** : Ministère du Travail, du plein Emploi et de l’Insertion ;
-* **« Utilisateur »** : désigne toute personne qui utilise les services proposés par la « Plateforme » (CFA ou organisme de formation, opérateur public, réseau d’organismes de formation, membre du Réseau des Carif-Oref).
+* **« Utilisateur »** : désigne toute personne qui utilise les services proposés par la « Plateforme » (CFA ou organisme de formation, opérateur public, réseau d’organismes de formation, membre du Réseau des Carif-Oref, missions locales).
 
 ### Article 3 - Objet
 
-Les présentes conditions générales d’utilisation ont pour objet de définir les modalités d’utilisation de la Plateforme, les fonctionnalités de la Plateforme et les responsabilités de la DGEFP et des Utilisateurs.
+Les présentes CGU ont pour objet de définir les modalités d’utilisation de la Plateforme, les fonctionnalités de la Plateforme et les responsabilités de la DGEFP et des Utilisateurs.
 
 ### Article 4 - Acceptation
 
-Les présentes conditions générales ont valeur contractuelle et sont opposables à l’Utilisateur dès leur acceptation par ce dernier.  
+Les présentes CGU ont valeur contractuelle et sont opposables à l’Utilisateur dès leur acceptation par ce dernier.  
   
-A défaut d’acceptation des présentes conditions générales d’utilisation, l’Utilisateur ne pourra pas bénéficier des services de la plateforme.  
+À défaut d’acceptation des présentes CGU, l’Utilisateur ne pourra pas bénéficier des services de la Plateforme.  
   
-Les présentes conditions générales d’utilisation sont opposables pendant toute la durée d’utilisation de la Plateforme et l’utilisateur reste responsable de toute action effectuée durant l’utilisation de la Plateforme.
+Les présentes CGU sont opposables pendant toute la durée d’utilisation de la Plateforme et l’utilisateur reste responsable de toute action effectuée durant l’utilisation de la Plateforme.
 
-### Article 5 - Mise à jour des conditions générales d’utilisation
+### Article 5 - Mise à jour des CGU
 
-Les termes des présentes conditions générales d’utilisation peuvent être amendés à tout moment, sans préavis, en fonction des modifications apportées à la Plateforme, de l’évolution de la législation ou pour tout autre motif jugé nécessaire. Chaque modification donne lieu à une nouvelle version qui est acceptée par l’Utilisateur.  
+Les termes des présentes CGU peuvent être amendés à tout moment, sans préavis, en fonction des modifications apportées à la Plateforme, de l’évolution de la législation ou pour tout autre motif jugé nécessaire. Chaque modification donne lieu à une nouvelle version qui est acceptée par l’Utilisateur.  
   
-L'Utilisateur sera informé en cas de modification des Conditions Générales d'Utilisation.  
+L'Utilisateur sera informé en cas de modification des CGU.  
   
 Si l'Utilisateur s'oppose aux modifications apportées, il est libre de cesser d'utiliser à tout moment les services de la Plateforme.
 
@@ -63,8 +63,7 @@ Tout accès à, et toute utilisation de la Plateforme à partir de l’adresse �
   
 L’Utilisateur est responsable de la sincérité des informations qu’il fournit et s’engage à mettre à jour les informations le concernant ou à aviser la DGEFP sans délai de toute modification affectant sa situation.  
   
-En cas d’utilisation frauduleuse de son compte, l’Utilisateur s’engage à prévenir immédiatement la DGEFP. Cette notification devra être adressée à la DGEFP via l’adresse e-mail suivante :[tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr).La date de réception de cette notification fera foi entre les parties. En l’absence de cette notification, l’utilisation est présumée être celle de l’Utilisateur. Il lui reviendra de s’assurer de l’usurpation ou de la compromission éventuelle.  
-  
+En cas d’utilisation frauduleuse de son compte, l’Utilisateur s’engage à prévenir immédiatement la DGEFP. Cette notification devra être adressée à la DGEFP via l’adresse e-mail suivante :[tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr). La date de réception de cette notification fera foi entre les parties. En l’absence de cette notification, l’utilisation est présumée être celle de l’Utilisateur. Il lui reviendra de s’assurer de l’usurpation ou de la compromission éventuelle.
 
 ### Article 8 - Présentation de la Plateforme
 
@@ -73,7 +72,7 @@ Le Tableau de bord de l’apprentissage permet :
 * Le pilotage des dispositifs relatifs à la politique de l’apprentissage ;
 * L’aide à ceux qui peuvent agir à accompagner les apprentis en situation de rupture ou sans contrat ;
 * La simplification de la délivrance d’informations par les CFA, en utilisant la donnée pour préremplir les enquêtes nationales qui leur sont demandées ;
-* Le remplissage de contrats CERFA
+* Le remplissage de contrats CERFA.
 
   
   
@@ -83,7 +82,11 @@ Chaque Utilisateur peut :
 * Exporter des fichiers sous format agrégat de données de l’apprentissage ;
 * Consulter pour une partie des Utilisateurs habilités des listes nominatives d’apprentis en situation de rupture ou d’abandon à des fins d’accompagnement ;
 * Permettre aux organismes de formation de déposer des fichiers de données pour alimenter les chiffres de la Plateforme ;
-* Optimiser la création de ses contrats d’apprentissage via un formulaire CERFA assisté
+* Optimiser la création de ses contrats d’apprentissage via un formulaire CERFA assisté.
+
+  
+  
+Notamment, des conseillers habilités de certaines missions locales ont accès à une liste de jeunes identifiés par la Plateforme comme nécessitant un accompagnement prioritaire.
 
 ### Article 9 - Accès à la « Plateforme »
 
@@ -109,15 +112,17 @@ La DGEFP ne saurait être responsable :
 
 Dans le cadre de l’utilisation de la Plateforme, l’Utilisateur s’engage à :
 
-* Se conformer aux stipulations décrites dans les Conditions Générales d'Utilisation et aux dispositions des lois et règlements en vigueur, et à respecter les droits des tiers ;
-* Ne créer qu'un seul compte utilisateur et ne communiquer que des informations, fichiers et autres contenus conformes à la réalité, honnêtes et loyaux ;
+* Se conformer aux stipulations décrites dans les CGU et aux dispositions des lois et règlements en vigueur, et à respecter les droits des tiers ;
+* Ne créer qu'un seul compte Utilisateur et ne communiquer que des informations, fichiers et autres contenus conformes à la réalité, honnêtes et loyaux ;
 * Ne pas divulguer via la Plateforme des propos ou des contenus illicites, et notamment tous contenus contrefaits, diffamatoires, injurieux, insultants, obscènes, offensants, discriminatoires, violents, xénophobes, incitant à la haine raciale ou faisant l'apologie du terrorisme, ou tout autre contenu contraire à la législation et réglementation applicable ainsi qu'aux bonnes mœurs et aux règles de bienséance ;
 * Ne pas intégrer et diffuser via la Plateforme du contenu qui serait contraire à la finalité de celle-ci ;
-* Ne pas communiquer ou envoyer, par l'intermédiaire de la plateforme, du contenu, quel qu'il soit, qui comprendrait des liens pointant vers des sites internet illicites, offensants ou incompatibles avec la finalité du Site.
+* Ne pas communiquer ou envoyer, par l'intermédiaire de la Plateforme, du contenu, quel qu'il soit, qui comprendrait des liens pointant vers des sites internet illicites, offensants ou incompatibles avec la finalité de la Plateforme.
 
 En outre, l'Utilisateur garantit expressément la véracité et la réalité des informations qu'il communique sur la Plateforme. Il est, par ailleurs, seul responsable de la préservation et de la confidentialité de son identifiant et mot de passe.  
   
-En cas de manquement à une ou plusieurs de ces obligations, la DGEFP se réserve le droit de suspendre l’accès et/ou de supprimer le compte de l'Utilisateur responsable.
+En cas de manquement à une ou plusieurs de ces obligations, la DGEFP se réserve le droit de suspendre l’accès et/ou de supprimer le compte de l'Utilisateur responsable.  
+  
+Concernant les missions locales ayant accès à une liste de jeunes identifiés par la Plateforme comme nécessitant un accompagnement prioritaire, seuls les directeurs des missions locales sont habilités à désigner les conseillers autorisés à accéder à ces informations.
 
 ### Article 13 - Propriété intellectuelle
 
@@ -127,7 +132,7 @@ Toute utilisation non autorisée des contenus ou informations de la Plateforme, 
 
 ### Article 14 - Protection des données à caractère personnel
 
-Les données à caractère personnel sont traitées par la DGEFP et les utilisateurs dans le respect des dispositions de la Loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, dans sa version en vigueur, ainsi qu’au Règlement Général sur la Protection des Données (RGPD).  
+Les données à caractère personnel sont traitées par la DGEFP et les Utilisateurs dans le respect des dispositions de la Loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, dans sa version en vigueur, ainsi qu’au Règlement Général sur la Protection des Données (RGPD).  
   
 Conformément à l’article L. 322-2 du code des relations entre le public et l’administration, la réutilisation éventuelle d'informations publiques comportant des données à caractère personnel est subordonnée au respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
