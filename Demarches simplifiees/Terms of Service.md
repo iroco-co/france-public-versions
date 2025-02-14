@@ -3,170 +3,9 @@ Conditions Générales d'Utilisation
 
 Dernière mise à jour, le 16 septembre 2024 (Volet contribution financière)
 
-1\. Sommaire
-
-
-----------------
-
-[2\. Objet et champ d’application des conditions générales d’utilisation](https://doc.demarches-simplifiees.fr/cgu#_toc108111727)
-
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-[3\. Définitions](https://doc.demarches-simplifiees.fr/cgu#_toc108111728)
-
-
------------------------------------------------------------------------------
-
-[4\. Rôle et engagements de la DINUM](https://doc.demarches-simplifiees.fr/cgu#_toc108111727)
-
-
--------------------------------------------------------------------------------------------------
-
-### 
-
-[a. Présentation du Service](https://doc.demarches-simplifiees.fr/cgu#_toc108111730)
-
-### 
-
-[b. Prestations garanties](https://doc.demarches-simplifiees.fr/cgu#_toc108111731)
-
-### 
-
-[c. Niveau de service et disponibilité](https://doc.demarches-simplifiees.fr/cgu#_toc108111731)
-
-#### 
-
-[i. Disponibilité du Service](https://doc.demarches-simplifiees.fr/cgu#_toc108111733)
-
-#### 
-
-[ii. Sécurité du Service :](https://doc.demarches-simplifiees.fr/cgu#_toc108111734)
-
-[5\. Rôle et engagements de l’Administration](https://doc.demarches-simplifiees.fr/cgu#_toc108111735)
-
-
----------------------------------------------------------------------------------------------------------
-
-### 
-
-[a. La création d’une démarche en ligne](https://doc.demarches-simplifiees.fr/cgu#_toc108111736)
-
-### 
-
-[b. Restrictions d’usage](https://doc.demarches-simplifiees.fr/cgu#_toc108111737)
-
-### 
-
-[c. Les différents rôles de l’Administration :](https://doc.demarches-simplifiees.fr/cgu#_toc108111738)
-
-#### 
-
-[i. Administrateur](https://doc.demarches-simplifiees.fr/cgu#_toc108111739)
-
-#### 
-
-[ii. Instructeur](https://doc.demarches-simplifiees.fr/cgu#_toc108111740)
-
-#### 
-
-[iii. Expert](https://doc.demarches-simplifiees.fr/cgu#_toc108111741)
-
-### 
-
-[d. Signalement à la DINUM](https://doc.demarches-simplifiees.fr/cgu#_toc108111742)
-
-[6\. Traitements des données à caractère personnel](https://doc.demarches-simplifiees.fr/cgu#_toc108111743)
-
-
----------------------------------------------------------------------------------------------------------------
-
-### 
-
-[a. Traitements relevant de la responsabilité de la DINUM](https://doc.demarches-simplifiees.fr/cgu#_toc108111744)
-
-### 
-
-[b. Traitements relevant de la responsabilité de l’administration partenaire](https://doc.demarches-simplifiees.fr/cgu#_toc108111745)
-
-#### 
-
-[i. Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire](https://doc.demarches-simplifiees.fr/cgu#_toc108111746)
-
-#### 
-
-[ii. Limitation de la finalité](https://doc.demarches-simplifiees.fr/cgu#_toc108111747)
-
-#### 
-
-[iii. Sécurité du traitement](https://doc.demarches-simplifiees.fr/cgu#_toc108111748)
-
-#### 
-
-[iv.](https://doc.demarches-simplifiees.fr/cgu#_toc108111749) [Documentation et conformité](https://doc.demarches-simplifiees.fr/cgu#_toc108111750)
-
-#### 
-
-[v. Liste des sous-traitants ultérieurs](https://doc.demarches-simplifiees.fr/cgu#_toc108111751)
-
-#### 
-
-[vi. Transferts internationaux](https://doc.demarches-simplifiees.fr/cgu#_toc108111752)
-
-#### 
-
-[vii. Assistance](https://doc.demarches-simplifiees.fr/cgu#_toc108111753)
-
-#### 
-
-viii[. Notification de violation de données à caractère personnel](https://doc.demarches-simplifiees.fr/cgu#_toc108111754)
-
-[7\. Dispositions générales](https://doc.demarches-simplifiees.fr/cgu#_toc108111755)
-
-
-----------------------------------------------------------------------------------------
-
-### 
-
-[a. Gestion du support](https://doc.demarches-simplifiees.fr/cgu#_toc108111756)
-
-### 
-
-[b. Modalités financières](https://doc.demarches-simplifiees.fr/cgu#_toc108111757)
-
-### 
-
-[c. Evolutions du service et modifications des conditions d’utilisation](https://doc.demarches-simplifiees.fr/cgu#_toc108111758)
-
-### 
-
-[d. Responsabilités](https://doc.demarches-simplifiees.fr/cgu#_toc108111759)
-
-### 
-
-[e. Durée du Service et conditions de résiliation](https://doc.demarches-simplifiees.fr/cgu#_toc108111760)
-
-#### 
-
-[i. Résiliation par l’Administration partenaire](https://doc.demarches-simplifiees.fr/cgu#_toc108111761)
-
-#### 
-
-[ii. Suspension ou désactivation par la DINUM](https://doc.demarches-simplifiees.fr/cgu#_toc108111762)
-
-2 . Objet et champ d’application des conditions générales d’utilisation
-
-
----------------------------------------------------------------------------
-
 Les présentes conditions générales d’utilisation ont pour objet de définir dans quelles conditions et selon quelles modalités une administration peut utiliser la plateforme démarches-simplifiées pour dématérialiser une démarche administrative dans le cadre de la mise en œuvre d’un téléservice ou d’une démarche interne de l’administration.
 
 Elles déterminent les droits et les obligations respectifs de l’administration qui utilise la plateforme démarches-simplifiées et de la direction interministérielle du numérique (DINUM) qui la met à la disposition des administrations.
-
-3 . Définitions
-
-
--------------------
 
 Au sens des présentes conditions générales d’utilisation, il faut entendre par :
 
@@ -182,16 +21,7 @@ Au sens des présentes conditions générales d’utilisation, il faut entendre 
 
 **Utilisateurs** : Agents et Usagers du Service.
 
-4 . Rôle et engagements de la DINUM
-
-
----------------------------------------
-
 La DINUM s’engage à respecter les présentes conditions générales d’utilisation et la législation en vigueur.
-
-### 
-
-a . Présentation du Service
 
 Le Service est un outil de dématérialisation et de simplification des démarches administratives de l’Administration. Il propose également des fonctionnalités d’aide à l’instruction des dossiers déposés.
 
@@ -210,10 +40,6 @@ Il permet à l’Usager de réaliser une démarche en ligne, en partageant la co
 
 Le Service est développé sous licence AGPL et le code est disponible à l’adresse suivante : [https://github.com/betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr)
 
-### 
-
-b . Prestations garanties
-
 La DINUM est responsable de l’administration générale de la plateforme. Elle tient le Service à la disposition de l’Administration.
 
 Elle transmet toutes les informations nécessaires pour la mise en œuvre opérationnelle du Service par l’Administration.
@@ -228,14 +54,6 @@ Elle propose une assistance technique et fonctionnelle en vue d’assurer le bon
 
 La DINUM informe l’Administration de toute difficulté de nature à affecter le bon fonctionnement du Service.
 
-### 
-
-C . Niveau de service et disponibilité
-
-#### 
-
-I. Disponibilité du Service
-
 La plage d’ouverture du Service est 24h/24 7j/7, hors période d’indisponibilité pour maintenance.
 
 La DINUM poursuit un objectif de disponibilité annuelle du Service de 99,5%, hors indisponibilités planifiées. En cas d’incident ou de maintenance, elle vise un délai de rétablissement de 72h en heures non ouvrables.
@@ -246,26 +64,13 @@ Ces arrêts exceptionnels peuvent être rendus nécessaires par exemple pour des
 
 L’indisponibilité du Service n’ouvre droit à aucune compensation de quelque nature que ce soit.
 
-#### 
-
-II. Sécurité du Service :
-
 La DINUM prend toute les précautions utiles pour préserver la sécurité de la plateforme et des outils mis en œuvre pour accomplir le Service, notamment s’agissant de l’accès au Service, de la gestion des comptes utilisateurs et du traitement des données collectées.
 
 Le Service bénéficie d’une homologation de sécurité RGS de la direction interministérielle du numérique. L’attestation d’homologation est tenue à la disposition de l’Administration.
 
 Le Service a également fait l’objet, en tant que socle pour les Démarches administratives, d’une analyse d’impact sur la protection des données (AIPD) pour les traitements qui relèvent de la responsabilité de la DINUM.
 
-5 . Rôle et engagements de l’Administration
-
-
------------------------------------------------
-
 L’Administration s’engage à respecter les présentes conditions générales d’utilisation et à utiliser le Service conformément à la législation en vigueur. Elle fournit des informations complètes, exactes et à jour.
-
-### 
-
-a . La création d’une démarche en ligne
 
 L’Administration utilise le Service pour créer des démarches en ligne. Le Service peut être utilisé pour créer un téléservice à destination du public ou mettre en ligne une démarche interne à l’administration.
 
@@ -290,23 +95,11 @@ La liste des démarches mises en ligne est publiée tous les mois sur data.gouv.
 
 Compte tenu de l’intégration de la démarche dans son propre système d’information et des risques que les traitements liés à la démarche sont susceptibles d’engendrer pour les droits et libertés des usagers, il incombe à l’Administration d’apprécier le besoin de procéder à une homologation de sécurité RGS complémentaire pour son propre système d’information et à la réalisation d’une analyse d’impact sur la protection des données (AIPD) pour les traitements dont elle est responsable.
 
-### 
-
-b. Restrictions d’usage
-
 L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
 
 Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de de sécurité complémentaires.
 
 Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
-
-### 
-
-c. Les différents rôles de l’Administration :
-
-#### 
-
-i. Administrateur
 
 L’administrateur est responsable, pour le compte de l’Administration, de la création d’une démarche administrative et de l’organisation de son instruction. Il est chargé de l’élaboration du formulaire de la démarche et donne leur habilitation aux instructeurs.
 
@@ -314,44 +107,15 @@ Pour exercer le rôle d’administrateur, l’utilisateur doit en faire la deman
 
 La publication d’une démarche par un administrateur ne peut être réalisée que si ce dernier dispose des habilitations nécessaires délivrées par son administration.
 
-#### 
-
-ii. Instructeur
-
 L’instructeur est responsable, pour le compte de l’Administration, de l’instruction des dossiers dans le cadre d’une démarche administrative créée par un administrateur. Il peut inviter un expert à formuler un avis sur un dossier.
-
-#### 
-
-iii. Expert
 
 L’expert est invité par un instructeur pour formuler un avis sur un dossier. Il intervient sous la responsabilité de l’instructeur.
 
-### 
-
-d. Signalement à la DINUM
-
 L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
-
-6\. Traitements des données à caractère personnel
-
-
------------------------------------------------------
-
-### 
-
-a. Traitements relevant de la responsabilité de la DINUM
 
 La DINUM est responsable des informations traitées dans le cadre du Service pour ce qui concerne la gestion de la plateforme et la gestion des comptes utilisateurs.
 
 A ce titre, elle respecte les obligations inhérentes à ces traitements, notamment celles relevant du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE dit règlement général sur la protection des données (RGPD) et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
-
-### 
-
-b. Traitements relevant de la responsabilité de l’administration partenaire
-
-#### 
-
-i. Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire
 
 En sa qualité de responsable de traitement, l’Administration confie à la DINUM, qui agit en qualité de sous-traitant, les traitements nécessaires à la dématérialisation de ses démarches administratives, à l’instruction et au suivi des dossiers déposés par les usagers sur le Service.
 
@@ -370,15 +134,7 @@ Dans ce cadre, la DINUM et l’Administration respectent les obligations inhére
 
 Le détail des opérations de traitement, et notamment les catégories de données à caractère personnel traitées, leur durée de conservation et les finalités du traitement pour lesquelles les données à caractère personnel sont traitées par la DINUM, en sa qualité de sous-traitant, pour le compte de l’Administration, responsable de traitement, est précisé au moment de la création d’une nouvelle démarche.
 
-#### 
-
-ii . Limitation de la finalité
-
 La DINUM traite les données à caractère personnel uniquement pour les finalités spécifiques du traitement, telles que définies par l’Administration au moment de la création de la démarche, sauf instruction complémentaire de l’Administration.
-
-#### 
-
-iii. Sécurité du traitement
 
 La DINUM met en œuvre les mesures techniques et organisationnelles appropriées pour assurer la sécurité des données à caractère personnel.
 
@@ -392,10 +148,6 @@ Lors de l’évaluation du niveau de sécurité approprié, la DINUM et l’Admi
 
 La DINUM n’accorde aux membres de son personnel l’accès aux données à caractère personnel faisant l’objet du traitement que dans la mesure où cet accès est strictement nécessaire à l’accomplissement de leur mission. La DINUM veille à ce que les personnes autorisées à traiter les données à caractère personnel s'engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité.
 
-#### 
-
-iv. Documentation et conformité
-
 La DINUM et l’Administration doivent pouvoir démontrer leur conformité à la règlementation applicable aux traitements de données à caractère personnel.
 
 La DINUM met à la disposition de l’Administration les informations nécessaires pour démontrer le respect de ses obligations au titre de l’article 28 du RGPD et permettre la réalisation d’audits des activités de sous-traitance qu’elle réalise pour l’Administration.
@@ -405,10 +157,6 @@ Lorsqu’elle décide d’un audit, l’Administration en informe la DINUM au mi
 L’Administration est associée à la définition des besoins en matière de protection des données et au suivi des mesures apportées par la DINUM pour y répondre.
 
 La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès que celles-ci en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
-
-#### 
-
-v. Liste des sous-traitants ultérieurs
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
@@ -422,27 +170,15 @@ Lorsque la DINUM recrute un sous-traitant ultérieur pour mener des activités d
 
 La DINUM demeure pleinement responsable, à l’égard de l’Administration, de l’exécution des obligations du sous-traitant ultérieur conformément au contrat conclu avec le sous-traitant ultérieur. La DINUM informe le Partenaire de tout manquement du sous-traitant ultérieur à ses obligations contractuelles.
 
-#### 
-
-vi. Transferts internationaux
-
 Tout transfert de données vers un pays tiers ou une organisation internationale par la DINUM n’est effectué que sur la base d’instructions documentées de l’Administration ou afin de satisfaire à une exigence spécifique du droit de l’Union ou du droit de l’État membre à laquelle la DINUM est soumise et s’effectue conformément au chapitre V du règlement (UE) 2016/679.
 
 L’Administration convient que lorsque la DINUM recrute un sous-traitant ultérieur conformément à la clause 6.b.vi. pour mener des activités de traitement spécifiques (pour le compte de l’Administration) et que ces activités de traitement impliquent un transfert de données à caractère personnel au sens du chapitre V du règlement (UE) 2016/679, la DINUM et le sous-traitant ultérieur peuvent garantir le respect du chapitre V du règlement (UE) 2016/679 en utilisant les clauses contractuelles types adoptées par la Commission européenne sur la base de l’article 46, paragraphe 2, du règlement (UE) 2016/679, pour autant que les conditions d’utilisation de ces clauses contractuelles types soient remplies.
-
-#### 
-
-vii. Assistance
 
 La DINUM informe sans délai l’Administration de toute demande d’exercice de ses droits qu’elle a reçu de la part d’un Usager. Elle ne donne pas elle-même suite à cette demande dans la mesure où elle n’est pas responsable du traitement.
 
 La DINUM prête assistance à l’Administration pour ce qui est de remplir l’obligation qui lui incombe de répondre aux demandes des personnes concernées d’exercer leurs droits, en tenant compte de la nature du traitement.
 
 La DINUM aide l’Administration à garantir le respect des obligations prévues aux articles 32 à 36 du règlement général sur la protection des données (RGPD), compte tenu de la nature du traitement et des informations à sa disposition.
-
-#### 
-
-vii. Notification de violation de données à caractère personnel
 
 En cas de violation de données à caractère personnel, la DINUM coopère avec l’Administration et lui prête assistance aux fins de la mise en conformité avec les obligations qui lui incombent en vertu des articles 33 et 34 du règlement (UE) 2016/679, en tenant compte de la nature du traitement et des informations dont dispose la DINUM.
 
@@ -475,34 +211,17 @@ En cas de violation de données à caractère personnel en rapport avec des donn
 * les conséquences probables de la violation et les mesures prises ou les mesures qu’il est proposé de prendre pour remédier à la violation, y compris pour en atténuer les éventuelles conséquences négatives.
     
 
-7\. Dispositions générales
-
-
-------------------------------
-
-### 
-
-a. Gestion du support
-
 La DINUM assure le support de premier niveau auprès des utilisateurs, exclusivement sur les parties techniques du Service.
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
 Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
 
-### 
-
-b. Modalités financières
-
 L'utilisation du service en ligne "demarches-simplifiées" par les administrations et organismes publics est gratieux.
 
 En tant que porteur d'un commun numérique à impact national, la DINUM acceuille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
 
 Ces contribution peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
-
-### 
-
-c. Evolutions du service et modifications des conditions d’utilisation
 
 La DINUM peut modifier à tout moment les conditions générales d’utilisation dans le respect des modalités suivantes :
 
@@ -519,28 +238,12 @@ Si l’Administration n’est pas en mesure de respecter les modifications adopt
 
 Il appartient à l’Administration de se référer à la dernière version des conditions générales d’utilisation avant toute utilisation du Service.
 
-### 
-
-d. Responsabilités
-
 Le Service est développé conformément à l’état de l’art. Toutefois, il n’est pas garanti qu’il soit exempt d’anomalies ou d’erreurs. A ce titre, la DINUM ne peut être tenue responsable des pertes ou des préjudices, de quelque nature qu’ils soient, qui pourraient être causés à la suite d’un dysfonctionnement ou d’une indisponibilité du Service ou de son utilisation contraire aux présentes conditions générales d’utilisation. De telles situations n'ouvriront droit à aucune compensation financière.
 
-### 
-
-e. Durée du Service et conditions de résiliation
-
 Le Service est mis à disposition de l’Administration pour une durée indéterminée.
-
-#### 
-
-i.Résiliation par l’Administration partenaire
 
 L’Administration peut mettre fin à tout moment à l’utilisation du Service, partiellement ou pour l’ensemble de ses démarches et de ses agents.
 
 Elle doit s’être préalablement assurée de l’instruction des dossiers déposés par les Usagers relatifs à ces démarches ou traités par les Agents concernés et avoir récupéré, sous format numérique, l’ensemble des dossiers déposés par les usagers.
-
-#### 
-
-ii. Suspension ou désactivation par la DINUM
 
 La DINUM peut désactiver une démarche et supprimer ou suspendre le compte d’un utilisateur : à la demande de l’Administration, pour des raisons tenant au non-respect des conditions générales d’utilisation, pour des raisons de sécurité ou suite à la cessation du Service.
