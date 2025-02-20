@@ -458,9 +458,11 @@ Si une disposition de ces CGU devait être tenue pour non valide ou déclarée c
 2      Confidentialité et protection des données
 ------------------------------------------------
 
-Les mentions d’informations sur la protection des données à caractère personnel sont consultables en cliquant [ici](https://passeport.ants.gouv.fr/donnees-personnelles).
+[Accédez aux mentions d’informations sur la protection des données à caractère personnel.](https://passeport.ants.gouv.fr/donnees-personnelles)
 
 3       Mentions légales
 ------------------------
 
 Les mentions légales sont consultables en cliquant [ici](https://passeport.ants.gouv.fr/mentions-legales).
+
+[Accédez aux mentions légales.](https://passeport.ants.gouv.fr/mentions-legales)
