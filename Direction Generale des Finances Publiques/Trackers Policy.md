@@ -52,8 +52,9 @@ Ces traceurs **ne nécessitent pas le recueil de votre consentement** au regard 
 * les statistiques générées sont anonymes et les données à caractère personnel collectées ne sont pas recoupées avec d'autres traitements ou transmises à des tiers.
 
 |     |     |     |
-| --- | --- | --- |  
-| **Nom** | **Finalité** | **Durée de conservation** |
+| --- | --- | --- |cookies
+| Nom | Finalité | Durée de conservation |
+| --- | --- | --- |
 | etuix | Mesure d’audience strictement nécessaire | 13 mois |
 
 [Gérer mes choix pour les cookies](#tarteaucitron "Gérer mes choix pour les cookies")
