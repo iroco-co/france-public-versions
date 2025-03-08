@@ -5,11 +5,11 @@ Informatique et libertés
 
 Pour remplir leurs missions, la Caisse nationale des Allocations familiales et les caisses d’Allocations familiales disposent de moyens informatiques et mettent en œuvre des traitements de données à caractère personnel
 
-[1- Délibérations CNIL et actes réglementaires relatifs aux traitements à caractère national des Caf](#Délibérations CNIL et actes réglementaires relatifs aux traitements à caractère national des Caf)
+[1- Délibérations CNIL et actes réglementaires relatifs aux traitements à caractère national des Caf](#1 - Délibérations CNIL et actes réglementaires relatifs aux traitements à caractère national des Caf)
 
-[2- Autres traitements de données personnelles à caractère national mis en œuvre par les Caf](#Autres traitements de données personnelles à caractère national mis en œuvre par les Caf)
+[2- Autres traitements de données personnelles à caractère national mis en œuvre par les Caf](#2 - Autres traitements de données personnelles à caractère national mis en œuvre par les Caf)
 
-[3- Conditions générales d'utilisation de l'Espace Mon Compte](#Conditions générales d'utilisation de l'Espace Mon Compte)
+[3- Conditions générales d'utilisation de l'Espace Mon Compte](#3- Conditions générales d'utilisation de l'Espace Mon Compte)
 
 [4- Durées de conservation](#4- Durées de conservation)
 
