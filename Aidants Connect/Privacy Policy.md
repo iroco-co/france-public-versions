@@ -57,7 +57,7 @@ Vous disposez :
 * D'un droit d'opposition ;
 * D'un droit à la limitation du traitement.
 
-Pour les exercer, contactez-nous à : [Anne.GAILLARD@anct.gouv.fr](mailto:anne.gaillard@anct.gouv.fr) ou par voie postale :
+Pour les exercer, contactez-nous à : [dpo@anct.gouv.fr](mailto:dpo@anct.gouv.fr) ou par voie postale :
 
 **Agence Nationale de la Cohésion des Territoire**  
 _À l'attention du délégué à la protection des données (DPD)_  
@@ -107,7 +107,7 @@ Certaines des données sont envoyées à d'autres acteurs, appelés “sous-trai
 | --- | --- | --- | --- |
 | **Scalingo** | France | Hébergement | [https://scalingo.com/fr/contrat-gestion-traitements-donnees-personnelles](https://scalingo.com/fr/contrat-gestion-traitements-donnees-personnelles) |
 | **YouTube** | États-Unis | Mise à disposition de vidéos sur la plateforme | [https://www.youtube.com/t/terms\_dataprocessing](https://www.youtube.com/t/terms_dataprocessing) |
-| **Sarbacane** | France | Envoi de mails | [https://assets.sarbacane-cdn.com/legal/FR\_DataProcessingAddendum.pdf](https://assets.sarbacane-cdn.com/legal/FR_DataProcessingAddendum.pdf) |
+| **Brevo** | France | Gestion de la lettre d'information | [https://www.brevo.com/fr/legal/termsofuse/#accord-sur-le-traitement-des-donnees-a-caractere-personnel-dpa](https://www.brevo.com/fr/legal/termsofuse/#accord-sur-le-traitement-des-donnees-a-caractere-personnel-dpa) |
 | **Zammad** | Allemagne | Support | [https://zammad.com/en/company/privacy](https://zammad.com/en/company/privacy) |
 | **Tally** | Belgique | Formulaires | [https://tally.so/help/gdpr](https://tally.so/help/gdpr) |
 | **Livestorm** | Irlande | Organisation de webinaires | [https://livestorm.co/fr/rgpd](https://livestorm.co/fr/rgpd) |
