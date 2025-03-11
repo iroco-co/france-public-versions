@@ -29,7 +29,8 @@ Informations éditoriales
 
 **Directeur de publication :** Nathalie Colin, directrice générale de l’administration et de la fonction publique
 
-**Responsable éditorial : Sandrine Staffolani**
+**Responsable éditorial : Marie-Josée Miranda  
+**
 
 **Service gestionnaire du site :**  
 Direction générale de l’administration et de la fonction publique   
