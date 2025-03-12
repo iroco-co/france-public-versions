@@ -1,8 +1,8 @@
-The simulation and calculations are done in your web browser, so the answers to the questions stay with you, we don't collect any of them.
+La simulation et les calculs se font dans votre navigateur Web, donc les réponses aux questions restent chez vous, nous n'en collectons aucune.
 
-However, we do track some information about your use of this simulator, such as the pages consulted and the time spent, with the sole aim of improving it.
+Cependant, nous suivons quelques informations sur votre utilisation de ce calculateur, telles que les pages consultées et le temps passé, dans l'unique but de l'améliorer.
 
-In particular, we track the address of the page at the end of the simulation, which contains your total footprint and its breakdown into the main categories (transport, housing, etc.)
+En particulier, nous suivons l'adresse de la page de fin de simulation, qui contient le total de votre empreinte et sa répartition en grande catégories (transport, logement, etc.)
 
 Politique de confidentialité
 ============================
@@ -153,7 +153,7 @@ En tout état de cause, l’ADEME s’engage à informer préalablement les Pers
 ### 7.1 Sous-traitants
 
 |     |     |     |     |     |
-| --- | --- | --- | --- | --- |Caption tableau des sous-traitants
+| --- | --- | --- | --- | --- |Caption tableau des sous-traitans
 | Partenaire | Pays destinataire | Pays d’hébergement | Traitement réalisé | Garantie |
 | --- | --- | --- | --- | --- |
 | Vercel | États-Unis | France (AWS cdg1) | Hébergement | [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy) |
