@@ -1,7 +1,7 @@
-La Caf et vos données personnelles
+Vos données personnelles
 
 
---------------------------------------
+----------------------------
 
 Les Caisses d'Allocations Familiales (Caf) s'appuient sur des outils numériques pour mener à bien leurs missions de service public. 
 
