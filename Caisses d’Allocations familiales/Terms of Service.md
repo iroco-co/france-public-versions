@@ -62,10 +62,11 @@ Conformément au Règlement Général sur la Protection des Données (RGPD), vou
 
 [Comment exercer vos droits ?](#Commentexercervosdroits)
 
-La branche Famille de la Sécurité Sociale a désigné un Délégué à la Protection des Données pour répondre à vos demandes. 
-
-Vous pouvez adresser vos requêtes à votre Caf de rattachement.    
+La branche Famille de la Sécurité Sociale a désigné un Délégué à la Protection des Données pour répondre à vos demandes.   
+Vous pouvez saisir le Délégué à la Protection des données directement depuis [cette page](https://www.caf.fr/allocataires/informatique-et-libertes/protection-des-donnees-personnelles).  
   
+Vous pouvez également adresser vos requêtes à votre Caf de rattachement.  
+
 Ou par courrier, vous pouvez écrire à :  
 Caisse Nationale des Allocations Familiales   
 Déléguée à la Protection des Données    
