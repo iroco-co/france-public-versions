@@ -1,7 +1,7 @@
-Vos données personnelles
+La Caf et vos données personnelles
 
 
-----------------------------
+--------------------------------------
 
 Les Caisses d'Allocations Familiales (Caf) s'appuient sur des outils numériques pour mener à bien leurs missions de service public. 
 
@@ -63,7 +63,7 @@ Conformément au Règlement Général sur la Protection des Données (RGPD), vou
 [Comment exercer vos droits ?](#Commentexercervosdroits)
 
 La branche Famille de la Sécurité Sociale a désigné un Délégué à la Protection des Données pour répondre à vos demandes.   
-Vous pouvez saisir le Délégué à la Protection des données directement depuis [cette page](https://www.caf.fr/allocataires/informatique-et-libertes/protection-des-donnees-personnelles).  
+Vous pouvez saisir le Délégué à la Protection des données directement depuis [cette page](https://caf.adequacy-corporate.com/frm/index.php?_id=200).  
   
 Vous pouvez également adresser vos requêtes à votre Caf de rattachement.  
 
