@@ -1,31 +1,31 @@
+Voir le fil d’Ariane
+
+1. [Accueil](https://www.elections.interieur.gouv.fr/)
+2. Mentions légales
+
 Mentions légales
 ================
 
 Informations éditeur
 --------------------
 
-Le site des élections est édité et géré par la Délégation à l’Information et à la Communication du ministère de l’Intérieur.  
+Le site des élections est édité et géré par la délégation à l’Information et à la Communication du ministère de l’Intérieur.  
   
-Adresse :
-
+**Adresse**  
 Ministère de l'Intérieur  
 Place Beauvau  
-75800 Paris CEDEX 08
+75800 Paris Cedex 08
 
-Directeur de la publication
----------------------------
+**Directeur de la publication**  
+Pierre-Henry Brandet, délégué à l’Information et à la Communication du ministère de l’Intérieur
 
-Pierre-Henry Brandet - Délégué à l’information et à la communication du ministère de l’Intérieur
-
-### Équipe rédactionnelle et technique
-
-Équipe rédactionnelle  
+**Équipe rédactionnelle et technique**  
 Délégation à l'Information et à la Communication du ministère de l'Intérieur (DICOM) en collaboration avec le bureau des élections et des études politiques (BEEP) de la Direction de la modernisation et de l'administration territoriale (DMAT).  
   
 Équipe technique  
 Délégation à l’Information et à la Communication du ministère de l'Intérieur (DICOM)  
   
-Personne responsable de l’accès aux documents administratifs et des questions relatives à la réutilisation des informations publiques pour l’administration centrale du ministère de l’Intérieur : M. Eric Tison, sous-directeur des libertés publiques
+Personne responsable de l’accès aux documents administratifs et des questions relatives à la réutilisation des informations publiques pour l’administration centrale du ministère de l’Intérieur : Éric Tison, sous-directeur des libertés publiques
 
 Hébergement
 -----------
@@ -67,14 +67,14 @@ Pour toute question vous pouvez contacter le service photographique et vidéo de
 
 Par courrier à l'adresse suivante :
 
+Pour toute question vous pouvez contacter la médiathèque de la DICOM par courrier à l'adresse suivante :  
+  
 Ministère de l’Intérieur  
 À l’attention de la Photothèque  
 Place Beauvau  
 75800 Paris CEDEX 08
 
-Par messagerie :
-
-phototheque-dicom\[at\]interieur.gouv.fr
+Par messagerie : [\[email protected\]](https://www.elections.interieur.gouv.fr/cdn-cgi/l/email-protection)
 
 ### Création de liens vers www.elections.interieur.gouv.fr
 
@@ -101,7 +101,7 @@ Le Référentiel Général d'Interopérabilité V 2.0. en vigueur pour les admin
 
 Ce référentiel dispose en outre que le PDF/A-1 est une version standardisée du PDF. Son usage est très répandu pour conserver et échanger des documents numériques, sur le long terme. Le format PDF/A-1 est fidèle aux documents originaux : les polices, les images, les objets graphiques et la mise en forme du fichier source sont préservés, quelles que soient l'application et la plate-forme utilisées pour le créer.
 
-Pour lire le format PDF, plusieurs lecteurs libres et gratuits existent. Le site[http://pdfreaders.org/](http://pdfreaders.org/)les recense en fonction du système d'exploitation que vous utilisez (Windows, Mac OS,...).
+Pour lire le format PDF, plusieurs lecteurs libres et gratuits existent. Le site [http://pdfreaders.org/](http://pdfreaders.org/) les recense en fonction du système d'exploitation que vous utilisez (Windows, Mac OS,...).
 
 ### Accès au site
 
