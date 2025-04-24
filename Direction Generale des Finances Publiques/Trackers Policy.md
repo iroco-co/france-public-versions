@@ -57,10 +57,6 @@ Ces traceurs **ne nécessitent pas le recueil de votre consentement** au regard 
 | --- | --- | --- |
 | etuix | Mesure d’audience strictement nécessaire | 13 mois |
 
-[Gérer mes choix pour les cookies](#tarteaucitron "Gérer mes choix pour les cookies")
-
-* * *
-
 Si vous souhaitez ne pas être tracé(e), il vous suffit de choisir d’[activer « l’opt-out »](https://bmly.impots.gouv.fr/optout.html?url=https%3A//www.impots.gouv.fr/accueil "activer « l’opt-out »").
 
 Pour en savoir plus, vous pouvez également consulter la [page relative à la politique de protection des données du prestataire Eulerian](https://www.eulerian.com/vie-privee "page relative à la politique de protection des données du prestataire Eulerian").
