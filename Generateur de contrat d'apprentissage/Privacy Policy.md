@@ -1,87 +1,113 @@
 Politique de confidentialité
 ============================
 
-> **Mise à jour : 10 mai 2024**
+> **Mise à jour : 14 mai 2025**
 
 ### 
 
 **Identité du responsable de traitement**
 
-Le ministère du Travail, du Plein emploi et de l’insertion traite des données à caractère personnel dans le cadre de « Tableau de bord de l’apprentissage », service numérique développé par la Mission interministérielle pour l’apprentissage.
+La présente politique de confidentialité vous informe de la manière dont la Délégation générale à l’emploi et à la formation professionnelle (DGEFP) traite de vos données à caractère personnel en conformité avec le Règlement européen (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 et la loi nᵒ 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
 
 ### 
 
 **Finalités du traitement et licéité**
 
-Le ministère du Travail, du Plein emploi et de l’insertion met en œuvre un traitement de données dans le cadre de l’utilisation de Tableau de bord de l’apprentissage ayant pour finalités :
+La DGEFP procède à un traitement de données à caractère personnel à travers le service Tableau de bord de l’apprentissage, ayant pour finalités :
 
-* Piloter les dispositifs relatifs à la politique de l’apprentissage ;
+* La gestion d’un compte personnel pour accéder au service ;
 
-* Aider ceux qui peuvent agir à accompagner les apprentis en situation de rupture ou sans contrat ;
+* Le pilotage de la politique d’apprentissage et d’alternance ;
 
-* Simplifier la délivrance d’informations par les CFA, en utilisant la donnée pour pré-remplir les enquêtes nationales qui leur sont demandées ;
+* L’identification des apprentis dont le contrat d’apprentissage a été rompu durant la formation et les candidats à l’apprentissage qui ont intégré un centre de formation d’apprentis sans avoir signé de contrat d’apprentissage avec un employeur ;
 
-* Permettre aux entreprises et organismes de formation de remplir facilement un CERFA dématérialisé.
+* Le suivi, par les organismes de formation, des apprentis ayant intégrés leur centre, le taux de rupture des contrats et des taux de succès ;
 
-La licéité du traitement est fondée sur l'exécution d'une mission d'intérêt public dont est investie la DGEFP conformément à l’article 6-1 e) du RGPD. Cette mission d’intérêt public se traduit en pratique par l’arrêté du 4 mai 2017 portant organisation de la DGEFP.
+* Offrir la possibilité aux membres du service public de l’emploi de prendre contact avec les apprentis dont le contrat d’apprentissage a été rompu durant la formation et les candidats à l’apprentissage qui ont intégré un centre de formation d’apprentis sans avoir signé de contrat d’apprentissage avec un employeur ;
+
+* La diffusion de communications à destination des entreprises, des centres de formation d’apprentis, ainsi que des apprentis et candidats à l’apprentissage, notamment à des fins d’information, de consultation, d’enquête ou d’évaluation.
+
+La licéité du traitement est fondée sur l'exécution d'une mission d'intérêt public dont est investie la DGEFP conformément à l’article 6,1, e) du Règlement (UE) 2016/679 du 27 avril 2016.
 
 ### 
 
 **Personnes concernées**
 
-Le traitement de données concerne les candidats, les représentants légaux, les représentants des entreprises et des organismes de formations qui sont exposés sur la plateforme.
+Le traitement de données à caractère personnel concerne :
+
+* Les candidats à l’apprentissage (le cas échéant, leurs représentants légaux) ;
+
+* Les apprentis (le cas échéant, leurs représentants légaux) ;
+
+* Les représentants des entreprises ;
+
+* Les représentants des centres de formation d’apprentis ;
+
+* Les utilisateurs du service (membres du service public de l’emploi).
 
 ### 
 
 **Catégories de données et sources traitées**
 
-Tableau de bord de l’apprentissage peut traiter les données à caractère personnel suivantes :
+**Candidats à l’apprentissage et apprentis** 
 
-* Données relatives à l’identification du candidat ou jeune ;
+* Les données relatives à l’identité des personnes (nom, prénom, date de naissance, etc.) ;
 
-* Données relatives au représentant légal du jeune ;
+* Les données relatives aux coordonnées des personnes (courriel, téléphone, adresse, etc.) ;
 
-* Données relatives aux événements du parcours des apprenants ;
+* Les données relatives au parcours professionnel des personnes (formation, diplôme, etc.) ;
 
-* Informations relatives au souhait de formation des candidats ;
+* Les données relatives aux contrats d’apprentissage (date de début, de fin de contrat, de rupture, etc.) ;
 
-* Données de contact des représentants des organismes de formation ;
+Source des données :  Les centres de formation des apprentis, [le service dématérialisé de l’apprentissage dans le secteur privé et le secteur public industriel et commercial et le Services dématérialisés de l’apprentissage des employeurs publics](https://travail-emploi.gouv.fr/services-dematerialises-de-lapprentissage-dans-le-secteur-prive-et-le-secteur-public-industriel-et-commercial-traitement-des-donnees-personnelles)
 
-* Données de contact des représentants des entreprises.
+**Les représentants des centres de formation d’apprentis et les autres utilisateurs** 
 
-Les données sont soit directement fournies par les personnes (entreprises ou organismes de formation) ou récupérées auprès du Catalogue des formations en apprentissage issu du Réseau des Carif-Oref.
+* Les données relatives à l’identité des personnes (nom, prénom)
+
+* Les données relatives aux coordonnées des personnes (courriel, téléphone, adresse, etc.) ;
+
+* Les données d’ordre professionnel ;
+
+* Les données de traçabilité.
+
+Source des données : Les données fournies directement par les personnes lors de la création de leur compte personnel (inscription) et par l’association du Réseau des Carif-Oref.
+
+Les coordonnées des représentants de entreprises sont transmises par les centres de formation d’apprentis.
 
 ### 
 
 **Destinataires des données**
 
-Sont destinataires des données, dans la limite de ce qui est strictement nécessaire à l'exercice de leurs missions :
+Sont destinataires des données à caractère personnel, dans la limite de ce qui est strictement nécessaire à l’exercice de leurs missions :
 
-* La Délégation générale à l’emploi et à la formation professionnelle et sous-traitants, ainsi que les membres de l’équipe de la Mission interministérielle pour l’apprentissage notamment La bonne alternance ;
+* La DGEFP et ses sous-traitants en charge de l’administration et de l’hébergement du service ;
 
-* Les agents autorisés des DREETS, DRIEETS, DDETS, DRAAF, dans le cadre de leurs missions de service public ;
+* La plateforme [La bonne alternance](https://labonnealternance.apprentissage.beta.gouv.fr/), sous la responsabilité de la DGEFP ;
 
-* Les agents habilités des missions locales présentes sur l'ensemble du territoire national;
+* Les organismes de formation ;
 
-* Les organismes de formation (responsable, formateur, responsable-formateur) ;
+* Les missions locales ;
 
-* Les réseaux des organismes de formation ;
+* Les agents autorisés des services déconcentrés ;
 
-* Les conseils régionaux ;
+* Les organismes de formation ;
 
-* Les académies ;
-
-* InterCarif Oref National ;
-
-* Carif Oref Régional.
+* France Travail.
 
 ### 
 
 **Durées de conservation**
 
-La durée de conservation suivante s’applique aux données collectées :
+Les données des apprentis sont conservées pendant deux ans à compter de la rupture de leur contrat d’apprentissage (le cas échéant, à compter de la date de la rupture du dernier contrat d’apprentissage) ou à compter de la fin du contrat d’apprentissage.
 
-* 2 ans à compter du dernier contact avec les personnes concernées susvisées.
+Les données des candidats à l’apprentissage ayant intégré un centre de formation d’apprentis, sans avoir signé de contrat d’apprentissage avec un employeur, sont conservées deux ans à compter de la fin de leur inscription en formation.
+
+Les données des représentants des entreprises sont conservées deux à compter de la fin ou de la rupture du dernier contrat d’apprentissage transmis par leurs entreprises aux opérateurs de compétence.
+
+Les données des utilisateurs du service sont conservées un an à compter de la dernière connexion à leur espace personnel.
+
+Les données de traçabilité liées à l’utilisation du service sont conservées pendant une durée de six mois.
 
 ### 
 
@@ -89,6 +115,8 @@ La durée de conservation suivante s’applique aux données collectées :
 
 Vous pouvez accéder aux données à caractère personnel vous concernant. Vous disposez également d’un droit de rectification, d’un droit à la limitation du traitement de vos données à caractère personnel, et d’un droit d’opposition.
 
-Vous pouvez exercer ces droits, en adressant un courrier à l’attention du Délégué à la Protection des Données de la Délégation Générale à l’Emploi et à la Formation Professionnelle, 127 Rue de Grenelle, 75007 Paris ou par courrier électronique à : [tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
+Vous pouvez exercer ces droits, en adressant un courrier à l’attention du Délégué à la Protection des Données de la Délégation générale à l’emploi et à la formation professionnelle, 14 avenue Duquesne, 75007 Paris ou par courrier électronique à :
+
+[tableau-de-bord@apprentissage.beta.gouv.fr](mailto:tableau-de-bord@apprentissage.beta.gouv.fr)
 
 Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés ou que le traitement n’est pas conforme à la réglementation sur la protection des données à caractère personnel, vous pouvez adresser une réclamation à la CNIL.
