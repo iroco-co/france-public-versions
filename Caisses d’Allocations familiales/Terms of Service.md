@@ -47,6 +47,10 @@ Si la branche Famille prend des mesures spécifiques pour lutter au quotidien co
 * Assurez-vous qu’une adresse email est bien renseignée et associée à votre espace Mon Compte pour bénéficier de la double authentification  avec envoi d’un code de vérification sur votre adresse email.     
      
 
+[Le registre des traitements des Caf](#LeregistredestraitementsdesCaf)
+
+La Caisse nationale des Allocations familiales met à disposition son registre des activités de traitement de données à caractère personnel. Vous pouvez le consulter [en cliquant ici](https://www.caf.fr/sites/default/files/medias/cnaf/Pages-transverses/20250515-Cnaf_Registre_externeVF.pdf)
+
 [Vos droits concernant vos données personnelles](#Vosdroitsconcernantvosdonnespersonnelles)
 
 Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez de droits sur vos informations personnelles : 
