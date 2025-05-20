@@ -27,9 +27,10 @@ Quelles sont les données que nous traitons ?
 
 Aidants Connect traite les données à caractère personnel suivantes :
 
-* **Données d'identification de l'usager :** nom, prénom, date et lieu de naissance, genre, adresse e-mail, alias technique FranceConnect, alias technique Aidants Connect ;
-* **Données d'identification des aidants habilités par les structures :** nom, prénom, adresse e-mail professionnelle, fonction ;
-* **Données relatives au mandat :** nom et prénom de l'usager, nom et prénom de l'aidant.
+* **Données d'identification de l'usager :** nom, prénom, date et lieu de naissance, genre, adresse courriel, alias technique FranceConnect, alias technique Aidants Connect ;
+* **Données d'identification des aidants habilités par les structures :** nom, prénom, adresse courriel professionnelle nominative, fonction, structure ;
+* **Données d'identification des référents des structures :** nom, prénom, adresse courriel professionnelle nominative, numéro de téléphone mobile, fonction, structure ;
+* **Données relatives au mandat :** nom et prénom de l'aidant et de l'usager.
 
 Qu'est-ce qui nous autorise à traiter ces données ?
 ---------------------------------------------------
@@ -79,9 +80,9 @@ Les accès aux données sont strictement encadrés et juridiquement justifiés. 
 
 * Les membres de l'équipe “Aidants Connect” habilités.
 * Les partenaires pour dispenser les formations.
-* Les préfectures qui reçoivent les données (nom, prénom) des aidants professionnels “référents” de leurs structures. Les Préfectures sont coporteuses des gouvernances locales France Numérique Ensemble et à ce titre, pilotent le déploiement de cette feuille de route.
+* Les préfectures qui reçoivent les données (nom, prénom) des aidants professionnels “référents” de leurs structures. Les Préfectures sont coporteuses des gouvernances locales France Numérique Ensemble (FNE) et à ce titre, pilotent le déploiement de cette feuille de route.
 * Les récipiendaires des enveloppes FNE. Ces récipiendaires sont des membres des gouvernances locales France Numérique Ensemble. Ils peuvent être des structures publiques (conseil départemental, EPCI, syndicat mixte…) ou privées (associations ou autres). Ces récipiendaires sont bénéficiaires de subventions de la part de l’ANCT pour la formation Aidants Connect/aidants numériques des professionnels de leur territoire dans le cadre de la mise en œuvre de la Feuille de route Numérique Ensemble.
-* Les hubs. L’ANCT soutient dans le cadre de conventions de subventionnement les projets territoriaux des hubs en lien s’inscrivant dans les orientations de la feuille de route France Numérique Ensemble. Ils doivent notamment appuyer le déploiement de l’outillage numérique de l’inclusion numérique, dont Aidants Connect.
+* Les Hubs territoriaux pour un numérique inclusif. L’ANCT soutient dans le cadre de conventions de subventionnement les projets territoriaux des Hubs en lien s’inscrivant dans les orientations de la feuille de route France Numérique Ensemble. Ils doivent notamment appuyer le déploiement de l’outillage numérique de l’inclusion numérique, dont Aidants Connect.
 * L’équipe FranceConnect peut recevoir les données relatives aux mandats et à leur traçabilité exclusivement pour la réalisation d’enquête et de lever de doute quant à un usage suspect du service (par exemple un fournisseur de service qui mènerait une enquête pour une suspicion d’usurpation d’identité), conformément à la convention d’usage de FranceConnect.
 
 Quelles mesures de sécurité mettons-nous en place ?
