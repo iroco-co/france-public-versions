@@ -27,7 +27,7 @@ L’Administration fait appel, pour son site internet aux services des prestatai
 Informations éditoriales
 ------------------------
 
-**Directeur de publication :** Nathalie Colin, directrice générale de l’administration et de la fonction publique
+**Directeur de publication :** Boris Melmoux-Eude, directeur général de l’administration et de la fonction publique
 
 **Responsable éditorial : Marie-Josée Miranda  
 **
