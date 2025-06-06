@@ -156,7 +156,7 @@ En tout état de cause, l’ADEME s’engage à informer préalablement les Pers
 | --- | --- | --- | --- | --- |Caption tableau des sous-traitants
 | Partenaire | Pays destinataire | Pays d’hébergement | Traitement réalisé | Garantie |
 | --- | --- | --- | --- | --- |
-| Vercel | États-Unis | France (AWS cdg1) | Hébergement | [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy) |
+| Scalingo | France | France | Hébergement site | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
 | Scalingo | France | France | Base de données | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
 
 ### 7.2 Cookies
