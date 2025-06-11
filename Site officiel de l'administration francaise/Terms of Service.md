@@ -5,6 +5,8 @@ Vérifié le 16 janvier 2023 - Direction de l'information légale et administrat
 
 Les présentes conditions générales (« CGU ») s'imposent à tout usager du site www.Service-Public.fr.
 
+Tout déplier
+
 Fonctionnalités
 ---------------
 
