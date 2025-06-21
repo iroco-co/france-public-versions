@@ -7,6 +7,7 @@ Les accès aux services suivants restent disponibles :
 
 * Recherche d'offres
 * Inscription
+* Espace Entreprise
 
 Veuillez nous excuser pour la gêne occasionnée. L'équipe France Travail.
 
@@ -19,3 +20,8 @@ Veuillez nous excuser pour la gêne occasionnée. L'équipe France Travail.
     ---------------------------------------------------------------------------------------------
     
     Effectuez votre demande d'inscription en ligne.
+    
+* [J'accède à mon Espace Entreprise](https://entreprise.francetravail.fr/accueil)
+    -------------------------------------------------------------------------------
+    
+    Déposez des offres d'emploi et recherchez des CV.
