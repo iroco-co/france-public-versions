@@ -111,7 +111,7 @@ L’instructeur est responsable, pour le compte de l’Administration, de l’in
 
 L’expert est invité par un instructeur pour formuler un avis sur un dossier. Il intervient sous la responsabilité de l’instructeur.
 
-L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [\[email protected\]](https://doc.demarches-simplifiees.fr/cdn-cgi/l/email-protection).
 
 La DINUM est responsable des informations traitées dans le cadre du Service pour ce qui concerne la gestion de la plateforme et la gestion des comptes utilisateurs.
 
@@ -160,7 +160,7 @@ La DINUM et l’Administration mettent à la disposition de l’autorité de con
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
-La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [\[email protected\]](https://doc.demarches-simplifiees.fr/cdn-cgi/l/email-protection).
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
@@ -215,7 +215,7 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [\[email protected\]](https://doc.demarches-simplifiees.fr/cdn-cgi/l/email-protection).
 
 L'utilisation du service en ligne "demarches-simplifiées" par les administrations et organismes publics est gratieux.
 
