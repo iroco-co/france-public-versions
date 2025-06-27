@@ -3,7 +3,7 @@ Politique de confidentialité - Protection des données personnelles
 
 Les services du site internet www.francetravail.fr et les applications mobiles sont autorisés par les articles R. 5312-38 et suivants du code du travail relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
 
-**Mise à jour : 16-04-2024**
+**Mise à jour : 26-06-2025**
 
 Pourquoi et comment France Travail utilise vos données personnelles ?
 ---------------------------------------------------------------------
@@ -81,6 +81,19 @@ Toute donnée personnelle fournie lors de l'échange téléphonique enregistre e
 Les données collectées seront communiquées aux seuls destinataires suivants : Fournisseur de la solution téléphonique, Direction des Systèmes Informatiques, Service sécurité des personnes et des biens, service juridique et déontologie, Direction de la Qualité de Service, Superviseurs téléphonique et le cas échéant, les représentants de la loi.  
 Les données sont conservées pendant un mois pour la finalité d’amélioration continue de la relation de service et pendant six mois pour la finalité de sécurisation des échanges. Vous bénéficiez d'un droit d'accès, d'opposition, d'effacement et de limitation au traitement de vos données à caractère personnel.  
 Vous pouvez exercer vos droits via les formulaires ci-dessous.
+
+Vérification de vos données bancaires
+-------------------------------------
+
+France Travail effectue un traitement informatisé de vos données personnelles afin de vérifier vos informations bancaires via la consultation du fichier national des comptes bancaires géré par la Direction Générale des Finances Publiques. Ce traitement est réalisé dans le cadre des missions de service public de France Travail. Il est prévu par l’annexe 3 de l’arrêté du 3 janvier 2025 relatif à la mise en œuvre du système d’information France Travail.  
+Les données personnelles peuvent être collectées lors de votre inscription en ligne sur francetravail.fr ou à la suite de la transmission en support papier de vos informations bancaires auprès de votre agence France Travail. Les données concernées par la vérification de vos informations bancaires sont les suivantes :
+
+* Vos nom, prénom, date de naissance, IBAN, pièce d’identité en cas de contrôle par un conseiller France Travail, numéro de l’établissement gestionnaire et date de clôture du compte
+
+Ces données personnelles sont conservées dans le système d’information de France Travail pour les durées suivantes :
+
+* 2 ans après leur collecte dès lors qu’elles n’ont jamais été utilisées.
+* 20 ans maximum après leur dernière utilisation.
 
 Quels sont vos droits par rapport à vos données personnelles ?
 --------------------------------------------------------------
