@@ -157,3 +157,11 @@ Droit applicable
 ----------------
 
 Le présent site est soumis au droit français.
+
+### Pour en savoir plus, découvrez Le guide du Centre de ressources
+
+Quelle est la vocation du Centre de ressources sur l'adaptation au changement climatique ? Quelle est sa charte? Sa ligne éditoriale et documentaire ? Sur quels critères sont sélectionnée ses ressources ? Vous saurez tout en feuilletant cette publication.
+
+[Guide du centre de ressources
+
+Document PDF (6.95 Mo)](https://www.adaptation-changement-climatique.gouv.fr/sites/cracc/files/fichiers/2025/07/Charte.pdf "Ouvrir Guide du centre de ressources dans une nouvelle fenêtre")
