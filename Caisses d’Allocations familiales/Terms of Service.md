@@ -3,9 +3,13 @@ La Caf et vos données personnelles
 
 --------------------------------------
 
+  
+
 Les Caisses d'Allocations Familiales (Caf) s'appuient sur des outils numériques pour mener à bien leurs missions de service public. 
 
 Dans ce cadre, elles traitent certaines de vos données personnelles, nécessaires pour vous verser des prestations et garantir la qualité du service.
+
+  
 
 [Pourquoi collectons nous vos données personnelles ?](#Pourquoicollectonsnousvosdonnespersonnelles)
 
@@ -35,9 +39,15 @@ De manière générale, pour la gestion des prestations, vos données sont conse
 
 La branche Famille met en œuvre des mesures de sécurité strictes pour protéger vos données tout au long de leur traitement. Bien que nous ne puissions pas divulguer tous les détails pour des raisons de sécurité, soyez assuré que vos données sont protégées de manière appropriée pour garantir leur confidentialité et leur intégrité. 
 
+  
+
 Nous disposons d’équipes spécialisées qui effectuent régulièrement des tests pour sécuriser nos systèmes d’information et détecter les comportements suspects ou les tentatives de fraude.
 
+  
+
 La sécurité de vos données repose aussi sur la vigilance des usagers. Des tentatives de phishing ou d’usurpation d’identité sur internet, par mail, SMS et sur les réseaux sociaux peuvent vous être adressées par des personnes malveillantes.
+
+  
 
 Si la branche Famille prend des mesures spécifiques pour lutter au quotidien contre ces pratiques, quelques règles simples peuvent vous permettre d’éviter les principaux pièges :
 
