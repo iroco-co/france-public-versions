@@ -20,9 +20,13 @@ Téléphone : +33 1 45 65 52 52
 
 Directeur de la publication : Nicolas Grivel. 
 
+  
+
 ### Informatique et libertés 
 
 [Consultez ici](https://www.caf.fr/allocataires/informatique-et-libertes) les informations relatives à l'application de la loi Informatique et Libertés sur caf.fr ainsi qu'à la politique en vigueur sur l'usage des cookies. 
+
+  
 
 ### Conditions d'utilisation  
 
@@ -30,6 +34,8 @@ L'utilisation et la consultation du site Internet "Caf.fr" sont limitées à des
 
 Compte tenu de sa mission de service public, aucune exploitation commerciale ou publicitaire, même partielle, des données recueillies ne sera effectuée par la Cnaf. D'une façon générale, les internautes s'interdisent d'utiliser tout ou partie du site à des fins illicites ou contraires aux présentes conditions d'utilisation. Ce site n’accepte aucune forme de publicité ni ne reçoit de fonds publicitaires.  
 Nous vous rappelons que le code pénal sanctionne les atteintes aux systèmes de traitement automatisé de données. Si de telles atteintes ou tentatives étaient portées au présent site, la Cnaf se verrait dans l’obligation de saisir la justice.
+
+  
 
 #### Liens hypertexte
 
@@ -43,6 +49,8 @@ La Cnaf autorise la mise en place d’un lien hypertexte pointant vers son conte
 En tous les cas, l’autorisation ne s’applique pas aux sites Internet diffusant des informations à caractère polémique, pornographique, xénophobe ou pouvant, dans une plus large mesure porter atteinte à la sensibilité du plus grand nombre.  
 La Cnaf décline toute responsabilité concernant les liens crées par d’autres sites vers son site Internet. L’existence de tels liens en provenance d’autres sites ne peut permettre d’induire que la Cnaf cautionne ces sites ou qu’elle approuve leur contenu.
 
+  
+
 ### Propriété intellectuelle
 
 Le contenu du site Internet « Caf.fr » (charte graphique, articles, photographies, graphiques…) est protégé au titre du droit d’auteur. Ce contenu ne peut être reproduit et/ou exploité sans autorisation préalable et expresse de l’éditeur, sous réserve des exceptions légales.
@@ -53,6 +61,8 @@ Les photographies utilisées sur ce site proviennent :
 
 \- de Shutterstock, Fotolia, Corbis, IStock,   
 \- et de la photothèque de la Cnaf. 
+
+  
 
 Responsabilité 
 ---------------
@@ -76,9 +86,13 @@ L’existence de tels liens vers d’autres sites ne peut permettre d’induire 
 Le changement de site vers un site partenaire est matérialisé par l’ouverture d’une nouvelle fenêtre du navigateur.  
 Les marques citées appartiennent à leurs propriétaires ou leurs titulaires respectifs.
 
+  
+
 #### Charte d'utilisation des comptes Twitter des Allocations familiales
 
 [Consulter la charte](https://www.caf.fr/sites/default/files/medias/cnaf/DCOM/mentions_legales/Charte_utilisation_Twitter_2018_version-finale_v2.pdf). 
+
+  
 
 #### Charte d'utilisation des comptes Facebook des Allocations familiales 
 
