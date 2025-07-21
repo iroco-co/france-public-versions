@@ -21,7 +21,7 @@ La DGEFP procède à un traitement de données à caractère personnel à traver
 
 * L’identification des apprentis dont le contrat d’apprentissage a été rompu durant la formation et les candidats à l’apprentissage qui ont intégré un centre de formation d’apprentis sans avoir signé de contrat d’apprentissage avec un employeur ;
 
-* Le suivi, par les organismes de formation, des apprentis ayant intégrés leur centre, le taux de rupture des contrats et des taux de succès ;
+* Le suivi, par les organismes de formation, des apprentis ayant intégré leur centre, des taux de rupture des contrats et des taux de succès ;
 
 * Offrir la possibilité aux membres du service public de l’emploi de prendre contact avec les apprentis dont le contrat d’apprentissage a été rompu durant la formation et les candidats à l’apprentissage qui ont intégré un centre de formation d’apprentis sans avoir signé de contrat d’apprentissage avec un employeur ;
 
@@ -59,7 +59,7 @@ Le traitement de données à caractère personnel concerne :
 
 * Les données relatives aux contrats d’apprentissage (date de début, de fin de contrat, de rupture, etc.) ;
 
-Source des données :  Les centres de formation des apprentis, [le service dématérialisé de l’apprentissage dans le secteur privé et le secteur public industriel et commercial et le Services dématérialisés de l’apprentissage des employeurs publics](https://travail-emploi.gouv.fr/services-dematerialises-de-lapprentissage-dans-le-secteur-prive-et-le-secteur-public-industriel-et-commercial-traitement-des-donnees-personnelles)
+Sources des données :  Les centres de formation des apprentis, [les Services dématérialisés de l’apprentissage dans le secteur privé et le secteur public industriel et commercial](https://travail-emploi.gouv.fr/services-dematerialises-de-lapprentissage-dans-le-secteur-prive-et-le-secteur-public-industriel-et-commercial-traitement-des-donnees-personnelles), et les [Services dématérialisés de l’apprentissage des employeurs publics](https://travail-emploi.gouv.fr/services-dematerialises-de-lapprentissage-des-employeurs-publics-traitement-des-donnees-personnelles) .
 
 **Les représentants des centres de formation d’apprentis et les autres utilisateurs** 
 
@@ -103,7 +103,7 @@ Les données des apprentis sont conservées pendant deux ans à compter de la ru
 
 Les données des candidats à l’apprentissage ayant intégré un centre de formation d’apprentis, sans avoir signé de contrat d’apprentissage avec un employeur, sont conservées deux ans à compter de la fin de leur inscription en formation.
 
-Les données des représentants des entreprises sont conservées deux à compter de la fin ou de la rupture du dernier contrat d’apprentissage transmis par leurs entreprises aux opérateurs de compétence.
+Les données des représentants des entreprises sont conservées deux ans à compter de la fin ou de la rupture du dernier contrat d’apprentissage transmis par leurs entreprises aux opérateurs de compétence.
 
 Les données des utilisateurs du service sont conservées un an à compter de la dernière connexion à leur espace personnel.
 
