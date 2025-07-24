@@ -3,37 +3,52 @@ Politique de confidentialité - Protection des données personnelles
 
 Les services du site internet www.francetravail.fr et les applications mobiles sont autorisés par les articles R. 5312-38 et suivants du code du travail relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
 
-**Mise à jour : 26-06-2025**
+Le « Système d'information France Travail », créé par l'opérateur France Travail, est un traitement automatisé de données à caractère personnel sous la responsabilité du directeur général de l'opérateur France Travail. Exceptionnellement, certaines opérations nécessitant l'intervention de partenaires publics ou privés sont réalisées en responsabilité conjointe.
+
+**Mise à jour : 23-07-2025**
 
 Pourquoi et comment France Travail utilise vos données personnelles ?
 ---------------------------------------------------------------------
 
-France Travail traite vos données personnelles conformément aux articles [R. 5312-38 et suivants du code du travail](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000032625806&cidTexte=LEGITEXT000006072050&dateTexte=20160617) relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
+France Travail traite vos données personnelles conformément aux articles [R. 5312-38 et suivants du code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050943213) relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
 
 ### **Dans le cadre de ses missions de service public**
 
-France Travail enregistre et utilise les données personnelles des personnes à la recherche d'un emploi, d'une formation ou d'un conseil professionnel, des salariés faisant l’objet de la déclaration sociale nominative (DSN) et des représentants des employeurs, des partenaires ou des prestataires pour :
+France Travail enregistre et utilise les données personnelles des personnes à la recherche d'un emploi, d'une formation ou d'un conseil professionnel, des salariés faisant l’objet de la déclaration sociale nominative (DSN) et des représentants des employeurs, des partenaires ou des prestataires pour :  
+ 
 
-* Accueillir, informer et orienter ;
-* Accompagner vers l'emploi et prescrire des actions pour développer les compétences professionnelles et améliorer l’employabilité, favoriser le reclassement et la promotion professionnelle, faciliter la mobilité géographique et professionnelle ;
-* Participer aux parcours d'insertion sociale et professionnelle, en lien avec d’autres organismes, concernant notamment les personnes handicapées, les jeunes et les bénéficiaires du RSA ;
-* Gérer la liste des demandeurs d’emploi et contrôler la recherche effective d’un emploi ;
-* Attribuer et verser les allocations ou les aides favorisant le retour à l’emploi pour le compte de l’assurance chômage, de l’Etat ou de France Travail ;
-* Aider et conseiller les entreprises dans leur recrutement ;
-* Assurer la mise en relation entre les offres et les demandes d'emploi et participer activement à la lutte contre les discriminations à l'embauche et pour l'égalité professionnelle, notamment lors de la collecte des offres d’emploi ;
-* Prendre en compte les formalités accomplies par les employeurs, s’agissant notamment de l’attestation destinée à l’assurance chômage liée à la rupture du contrat de travail ;
-* Permettre la mise en œuvre du dispositif bonus-malus sur les contributions employeurs d’assurance chômage afin d’établir le taux de contribution d’assurance chômage modulé de votre ancien employeur ;
-* Recouvrir les contributions d’assurance chômage dues par les employeurs concernant les salariés expatriés et les intermittents du spectacle ainsi que la contribution au contrat de sécurisation professionnelle le cas échéant ;
-* Recouvrer les sommes indûment perçues et, le cas échant, prononcer les sanctions administratives prévues par le code du travail en cas de fausse déclaration ou de fraude ;
-* Gérer les réclamations et les contentieux ;
+* Informer, accueillir, développer les compétences professionnelles, améliorer l’employabilité, aider au reclassement, promouvoir professionnellement, accompagner les personnes en recherche d’emploi, de formation, de conseil ou en parcours d’insertion ;
+* Inscrire sur la liste des demandeurs d’emploi et gérer cette liste ;
+* Orienter ou réorienter les demandeurs d’emploi et transmettre les informations prévues ;
+* Réaliser le diagnostic global de situation et partager ce diagnostic avec les professionnels en charge de l'accompagnement du demandeur d'emploi concerné ;
+* Élaborer, signer, mettre en œuvre, actualiser et suivre le projet personnalisé d’accès à l’emploi ainsi que contrôler la recherche d’emploi ;· Contrôler le respect des obligations du contrat d’engagement ;
+* Formuler des propositions de sanctions et prononcer les sanctions des demandeurs d’emploi ;
+* Transmettre les informations relatives aux sanctions ;
+* Assurer le suivi et la continuité des parcours des personnes inscrites ;
+* Attribuer et verser les allocations et aides, lutter contre le non-recours ainsi que récupérer les sommes indûment perçues ;
+* Mettre en relation les offres et les demandes d’emploi ;
+* Conseiller et accompagner les entreprises dans leurs besoins de recrutement ;
+* Recouvrer les contributions d’assurance chômage dues par les employeurs concernant les salariés expatriés et les intermittents du spectacle ainsi que la contribution au contrat de sécurisation professionnelle le cas échéant ;
+* Réaliser les formalités incombant aux employeurs notamment l’édition des attestations employeur et la prise en compte des relevés des contrats de mission des entreprises de travail temporaire ;
+* Échanger des informations et des données avec les employeurs en application de l’article L. 1243-11-1 et L. 1251-33-1 et informer les salariés concernés ;
+* Participer à la mise en œuvre du dispositif mentionné à l'article L. 5422-12 ;
+* Gérer les réclamations et contentieux ;
+* Gérer électroniquement les documents ;
+* Echanger des données avec les organismes sociaux pour garantir les droits sociaux des demandeurs d’emploi, la portabilité des droits en matière de prise en charge des frais de santé et éviter les cumuls indus d’allocations et aides avec des prestations sociales ou un salaire ;
+* Partager des données avec les acteurs du réseau pour l’emploi, les acteurs des services publics de l’emploi, de l’orientation et de la formation ainsi qu’avec les maisons départementales des personnes handicapées, Caisse nationale des allocations familiales, la Caisse centrale de la mutualité sociale agricole, les organismes débiteurs de prestations familiales chargés du service du revenu de solidarité active et l'Agence de services et de paiement afin de permettre l'exercice des missions légales de chacun ;
+* Échanger des données avec les conseils départementaux et leurs délégataires afin de permettre l'exercice de leurs missions et de satisfaire aux obligations mentionnées aux articles L. 5411-5-1 et L. 5426-1 du présent code ;
+* Coordonner l’orientation et l’accompagnement des demandeurs d’emploi avec les organismes référents pour faciliter et améliorer l’orientation et l’accompagnement des demandeurs d’emploi ;
 * Prévenir et lutter contre la fraude ;
-* Gérer les documents de façon électronique
-* Piloter les activités de France Travail ;
-* Réaliser des enquêtes sur la qualité des services de France Travail, de ses prestataires ou de ses partenaires (la réponse à ces enquêtes n’est pas obligatoire) ;
-* Réaliser des statistiques ;
+* Réaliser des statistiques et piloter les activités de France Travail ;
+* Appuyer les comités nationaux et territoriaux pour l’emploi pour les missions mentionnées à l'article L. 5311-10 ;
+* Développer une expertise sur l’évolution des emplois, parcours et compétences ;
+* Évaluer les résultats des actions d’accompagnement ;
 * Sécuriser le système d’information de France Travail ;
 * Mettre à disposition des services numériques pour accomplir des démarches administratives auprès de France Travail et toutes démarches favorisant le retour à l’emploi ;
-* Faciliter l’utilisation de services numériques d’organismes partenaires qui favorisent le retour à l’emploi ou simplifier la délivrance de justificatifs nécessaires à certaines démarches auprès d’organismes autres que les administrations, au moyen du dispositif FranceTravailConnect.;
+* Communiquer des informations aux usagers et réaliser des enquêtes ou évaluations sur la qualité des services de France Travail, de ses prestataires ou de ses partenaires (la réponse à ces enquêtes n’est pas obligatoire) ;
+* Mettre à disposition du réseau pour l’emploi et autres organismes habilités des services numériques pour accomplir des démarches administratives auprès de France Travail et toutes démarches favorisant le retour à l’emploi notamment l’accès à la formation à travers le positionnement dématérialisé en formation et l’obtention des aides financières associées ainsi que la gestion, le pilotage et le suivi des parcours des formation afférents ;
+* Réaliser les procédures de décharge, d’audit et de contrôle liées à l’utilisation des fonds européens ;
+* Faciliter l’utilisation de services numériques d’organismes partenaires qui favorisent le retour à l’emploi ou simplifier la délivrance de justificatifs nécessaires à certaines démarches auprès d’organismes autres que les administrations, au moyen du dispositif FranceTravailConnect ;
 * Simplifier les échanges entre administrations selon le principe « dites-le-nous-une-fois » dans les conditions prévues par les articles L. 114-8 et suivants du code des relations entre le public et l’administration, notamment dans le cadre de FranceConnect ou de l’API Particulier de la direction interministérielle du numérique (DINUM).
 
 À qui sont transmises ces données ?
