@@ -6,10 +6,12 @@ Voir le fil d’Ariane
 Mentions légales
 ================
 
+Le site "Les élections en France" est édité et géré par la délégation à l’Information et à la Communication du ministère de l’Intérieur.
+
 Informations éditeur
 --------------------
 
-Le site des élections est édité et géré par la délégation à l’Information et à la Communication du ministère de l’Intérieur.  
+Le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") est édité et géré par la délégation à l’Information et à la Communication du ministère de l’Intérieur.  
   
 **Adresse**  
 Ministère de l'Intérieur  
@@ -25,22 +27,21 @@ Délégation à l'Information et à la Communication du ministère de l'Intérie
 Équipe technique  
 Délégation à l’Information et à la Communication du ministère de l'Intérieur (DICOM)  
   
-Personne responsable de l’accès aux documents administratifs et des questions relatives à la réutilisation des informations publiques pour l’administration centrale du ministère de l’Intérieur : Éric Tison, sous-directeur des libertés publiques
+Personne responsable de l’accès aux documents administratifs et des questions relatives à la réutilisation des informations publiques pour l’administration centrale du ministère de l’Intérieur : Clément Rouchouse, sous-directeur des libertés publiques
 
 Hébergement
 -----------
 
-Avenir Télématique  
+[Avenir Télématique](https://www.ate.info/ "Lien externe - Avenir Télématique - Nouvelle fenêtre")  
 21 Avenue de la Créativité  
-59650 Villeneuve d’Ascq  
-[https://www.ate.info](https://www.ate.info/)
+59650 Villeneuve d’Ascq
 
 Copyright et droit d'auteur
 ---------------------------
 
 ### Reprise du contenu mis en ligne
 
-Les informations mises en ligne sur le site www.elections.interieur.gouv.fr sont publiques et ne sont couvertes par aucun droit d’auteur (art. L. 122-5 du Code de la propriété intellectuelle) ; elles peuvent être reproduites librement, sous trois conditions :
+Les informations mises en ligne sur le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") sont publiques et ne sont couvertes par aucun droit d’auteur (art. L. 122-5 du Code de la propriété intellectuelle) ; elles peuvent être reproduites librement, sous trois conditions :
 
 * le respect de l’intégrité de l’information reproduite ;
 * la citation de la source ;
@@ -74,11 +75,11 @@ Ministère de l’Intérieur
 Place Beauvau  
 75800 Paris CEDEX 08
 
-Par messagerie : [\[email protected\]](https://www.elections.interieur.gouv.fr/cdn-cgi/l/email-protection)
+Par messagerie : [mediatheque\[at\]interieur.gouv.fr](mailto:mediatheque@interieur.gouv.fr "mediatheque[at]interieur.gouv.fr")
 
-### Création de liens vers www.elections.interieur.gouv.fr
+### Création de liens vers le site "Les élections en France"
 
-La mise en place de lien vers le site www.elections.interieur.gouv.fr n’est conditionnée à aucun accord préalable. La mention explicite de l’intitulé du site du ministère de l’Intérieur dans l’intitulé du lien est vivement souhaitée. Il est fortement recommandé que l’ouverture de cette page se fasse dans une fenêtre indépendante du navigateur.
+La mise en place de lien vers le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") n’est conditionnée à aucun accord préalable. La mention explicite de l’intitulé du site du ministère de l’Intérieur dans l’intitulé du lien est vivement souhaitée. Il est fortement recommandé que l’ouverture de cette page se fasse dans une fenêtre indépendante du navigateur.
 
 Toutefois, le ministère de l’Intérieur se réserve le droit de demander la suppression de lien vers des sites dont l’objet s’avérerait non conforme à l’objet de son site, diffuseraient des informations à caractère raciste, pornographique ou xénophobe ou étant de nature à heurter la sensibilité du public.
 
@@ -87,11 +88,11 @@ Contenu du site
 
 ### Avertissement
 
-Malgré tout le soin apporté par nos équipes éditoriales et techniques à la rédaction et la mise en ligne des documents, des erreurs typographiques ou des inexactitudes techniques ne peuvent être exclues. Le ministère de l’Intérieur se réserve le droit de les corriger à tout moment dès qu’elles sont portées à sa connaissance. Les informations et les documents contenus sur le site www.elections.gouv.fr sont susceptibles de faire l’objet de mise à jour à tout moment. Notamment, elles peuvent faire l’objet de mises à jour entre le moment de leur téléchargement par l’internaute et celui où il en prend connaissance.
+Malgré tout le soin apporté par nos équipes éditoriales et techniques à la rédaction et la mise en ligne des documents, des erreurs typographiques ou des inexactitudes techniques ne peuvent être exclues. Le ministère de l’Intérieur se réserve le droit de les corriger à tout moment dès qu’elles sont portées à sa connaissance. Les informations et les documents contenus sur le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") sont susceptibles de faire l’objet de mise à jour à tout moment. Notamment, elles peuvent faire l’objet de mises à jour entre le moment de leur téléchargement par l’internaute et celui où il en prend connaissance.
 
 ### Liens
 
-Des liens vers d’autres sites, publics ou privés peuvent vous être proposés sur le site www.elections.interieur.gouv.fr afin de faciliter l’accès à l’information de l’internaute. Ces sites n’engagent pas la responsabilité du ministère de l’Intérieur.
+Des liens vers d’autres sites, publics ou privés peuvent vous être proposés sur le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") afin de faciliter l’accès à l’information de l’internaute. Ces sites n’engagent pas la responsabilité du ministère de l’Intérieur.
 
 ### Consultation et téléchargement des documents
 
@@ -101,11 +102,11 @@ Le Référentiel Général d'Interopérabilité V 2.0. en vigueur pour les admin
 
 Ce référentiel dispose en outre que le PDF/A-1 est une version standardisée du PDF. Son usage est très répandu pour conserver et échanger des documents numériques, sur le long terme. Le format PDF/A-1 est fidèle aux documents originaux : les polices, les images, les objets graphiques et la mise en forme du fichier source sont préservés, quelles que soient l'application et la plate-forme utilisées pour le créer.
 
-Pour lire le format PDF, plusieurs lecteurs libres et gratuits existent. Le site [http://pdfreaders.org/](http://pdfreaders.org/) les recense en fonction du système d'exploitation que vous utilisez (Windows, Mac OS,...).
+Pour lire le format PDF, plusieurs lecteurs libres et gratuits existent. Le site [pdfreaders](http://pdfreaders.org/%20 "Lien externe - pdfreaders - Nouvelle fenêtre") les recense en fonction du système d'exploitation que vous utilisez (Windows, Mac OS,...).
 
 ### Accès au site
 
-Le ministère de l’Intérieur ainsi que l’hébergeur s’efforcent de permettre que les internautes puissent avoir accès en continu au site www.elections.interieur.gouv.fr
+Le ministère de l’Intérieur ainsi que l’hébergeur s’efforcent de permettre que les internautes puissent avoir accès en continu au site ["Les élections en France"](https://www.elections.interieur.gouv.fr/www.elections.interieur.gouv.fr ""Les élections en France""). 
 
 Néanmoins, le ministère se réserve le droit de ne pouvoir garantir l’accessibilité à son site internet et à l’ensemble des téléservices proposés en cas de force majeure (panne, intention technique de maintenance).
 
