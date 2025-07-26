@@ -26,7 +26,7 @@ Code APE
 
 6202A
 
-N° TVA
+N° TVA
 
 FR 22 424 761 419
 
