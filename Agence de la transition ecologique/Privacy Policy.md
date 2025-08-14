@@ -167,7 +167,7 @@ Délégué à la Protection des Données/Data Protection Officer
 BP 90406 – 49004 Angers Cedex 01
 
 ou par Email à l’adresse suivante :  
-[rgpd@ademe.fr (ouvre un nouvel onglet)](mailto:rgpd@ademe.fr)
+[rgpd@ademe.fr](mailto:rgpd@ademe.fr)
 
 Dans ce cadre, il est demandé de bien vouloir accompagner les demandes des éléments nécessaires à l’identification (nom, prénom, email) des Personnes concernées ainsi que toute autre information nécessaire à la confirmation de leur identité.
 
