@@ -59,7 +59,7 @@ Si la branche Famille prend des mesures spécifiques pour lutter au quotidien co
 
 [Le registre des traitements des Caf](#LeregistredestraitementsdesCaf)
 
-La Caisse nationale des Allocations familiales met à disposition son registre des activités de traitement de données à caractère personnel. Vous pouvez le consulter [en cliquant ici](https://www.caf.fr/sites/default/files/medias/cnaf/Pages-transverses/20250515-Cnaf_Registre_externeVF.pdf)
+La Caisse nationale des Allocations familiales met à disposition son registre des activités de traitement de données à caractère personnel. Vous pouvez le consulter en [cliquant ici](https://www.caf.fr/sites/default/files/medias/cnaf/Pages-transverses/Cnaf_Registre_externe_juillet2025.pdf)
 
 [Vos droits concernant vos données personnelles](#Vosdroitsconcernantvosdonnespersonnelles)
 
