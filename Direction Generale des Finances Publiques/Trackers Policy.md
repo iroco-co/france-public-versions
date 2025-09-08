@@ -9,7 +9,7 @@ Gestion des cookies
 
 =======================
 
-Publié le 29 avril 2021 | Lecture 3 minutes
+29 avril 2021 | Lecture 3 minutes
 
 Imprimer l'article
 
