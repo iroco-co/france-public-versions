@@ -103,6 +103,8 @@ The purposes of personal data processing by ADEME are based on the following leg
     * Managing communication and user interaction;
     * Complying with activity-related regulations.
 
+For temporary and specific partnerships (contests, prizes to be won), ADEME's partners receive only email and identification data to contact winners and provide them with their prizes
+
 6\. How long is personal data retained?
 ---------------------------------------
 
