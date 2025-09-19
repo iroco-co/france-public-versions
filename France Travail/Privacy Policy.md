@@ -1,6 +1,8 @@
 Politique de confidentialité - Protection des données personnelles
 ==================================================================
 
+min de lecture
+
 Les services du site internet www.francetravail.fr et les applications mobiles sont autorisés par les articles R. 5312-38 et suivants du code du travail relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
 
 Le « Système d'information France Travail », créé par l'opérateur France Travail, est un traitement automatisé de données à caractère personnel sous la responsabilité du directeur général de l'opérateur France Travail. Exceptionnellement, certaines opérations nécessitant l'intervention de partenaires publics ou privés sont réalisées en responsabilité conjointe.
