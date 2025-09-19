@@ -1,6 +1,8 @@
 Conditions générales d'utilisation
 ==================================
 
+min de lecture
+
 Les services du site internet francetravail.fr doivent être utilisés conformément aux présentes conditions générales d’utilisation (CGU).
 
 Date de mise à jour : 19/02/2024
