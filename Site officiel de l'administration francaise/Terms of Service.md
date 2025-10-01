@@ -43,7 +43,7 @@ Les termes des présentes conditions d'utilisation peuvent être amendés à tou
 Traitement des données à caractère personnel
 --------------------------------------------
 
-Toutes les informations sont sur cette page : [Données personnelles et sécurité](https://www.service-public.fr/P10001)[](mailto:cil@dila.gouv.fr " -  - Nouvelle fenêtre")
+Toutes les informations sont sur cette page : [Données personnelles et sécurité](https://www.service-public.gouv.fr/P10001)[](mailto:cil@dila.gouv.fr " -  - Nouvelle fenêtre")
 
 Engagements et responsabilité
 -----------------------------
