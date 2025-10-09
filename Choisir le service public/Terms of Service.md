@@ -38,7 +38,7 @@ Equipe Projet « Choisir le Service Public »
 2 Boulevard Diderot   
 75012 Paris
 
-**Contact :** [\[email protected\]](https://choisirleservicepublic.gouv.fr/cdn-cgi/l/email-protection)
+**Contact :** [assistance-candidat@choisirleservicepublic.gouv.fr](mailto:assistance-candidat@choisirleservicepublic.gouv.fr)
 
 Accès et Utilisation des publications du site
 ---------------------------------------------
@@ -81,10 +81,10 @@ Elles sont conservées pendant une durée de 2 ans à compter de la dernière co
 
 Conformément aux dispositions de la loi modifiée du 6 janvier 1978, l’Utilisateur peut exercer, sur les données qui le concernent, ses droits d’opposition, d’accès et de rectification en utilisant les fonctionnalités prévues à cet effet dans son espace candidat ou en adressant sa demande à l’administrateur du site :
 
-[\[email protected\]](https://choisirleservicepublic.gouv.fr/cdn-cgi/l/email-protection).
+[assistance-candidat@choisirleservicepublic.gouv.fr](mailto:assistance-candidat@choisirleservicepublic.gouv.fr).
 
 L’utilisateur peut, en cas de difficultés, contacter le délégué à la protection des données du Ministère de la Transformation et de la Fonction Publiques  :
 
-[\[email protected\]](https://choisirleservicepublic.gouv.fr/cdn-cgi/l/email-protection)
+[le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr](mailto:le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr)
 
 S’il estime, après contact, que ses droits ne sont pas respectés ou que le traitement n’est pas conforme aux règles de protection des données, il peut adresser une réclamation à la CNIL.
