@@ -1,7 +1,7 @@
 Conditions générales d'utilisation
 ==================================
 
-Vérifié le 26 septembre 2025 - Direction de l'information légale et administrative (Premier ministre)
+Vérifié le 26 septembre 2025 - Service Public / Direction de l'information légale et administrative (Premier ministre)
 
 Les présentes conditions générales (« CGU ») s'imposent à tout usager du site www.service-public.gouv.fr
 
