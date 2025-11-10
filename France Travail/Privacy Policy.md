@@ -6,7 +6,7 @@ Bienvenue sur le site de France Travail
 Afin de vous satisfaire au mieux, francetravail.fr est en cours de maintenance.
 -------------------------------------------------------------------------------
 
-L’ensemble de nos services sera à nouveau accessible à partir du lundi 10 novembre à 12h00 (heure de métropole).  
+L’ensemble de nos services sera à nouveau accessible à partir du lundi 10 novembre à 14h00 (heure de métropole).  
 Durant cette période, les services suivants demeurent disponibles.  
   
 Si vous effectuez votre actualisation pendant la maintenance, celle-ci sera bien enregistrée. Toutefois, l’envoi du courriel de confirmation interviendra à compter du lundi 10 novembre dans l’après-midi.  
