@@ -466,3 +466,13 @@ Si une disposition de ces CGU devait être tenue pour non valide ou déclarée c
 Les mentions légales sont consultables en cliquant [ici](https://passeport.ants.gouv.fr/mentions-legales).
 
 [Accédez aux mentions légales.](https://passeport.ants.gouv.fr/mentions-legales)
+
+Partager la page
+
+Veuillez autoriser le dépôt de cookies pour partager sur les réseaux sociaux Facebook, X et LinkedIn.
+
+* Partager sur Facebook
+* Partager sur Twitter
+* Partager sur LinkedIn
+* Partager par email
+* Copier dans le presse-papier
