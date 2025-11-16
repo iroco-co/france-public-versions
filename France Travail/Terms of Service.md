@@ -1,7 +1,7 @@
 Conditions générales d'utilisation
 ==================================
 
-17 min de lecture
+min de lecture
 
 Les services du site internet francetravail.fr doivent être utilisés conformément aux présentes conditions générales d’utilisation (CGU).
 
