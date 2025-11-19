@@ -7,7 +7,7 @@ Les services du site internet www.francetravail.fr et les applications mobiles s
 
 Le « Système d'information France Travail », créé par l'opérateur France Travail, est un traitement automatisé de données à caractère personnel sous la responsabilité du directeur général de l'opérateur France Travail. Exceptionnellement, certaines opérations nécessitant l'intervention de partenaires publics ou privés sont réalisées en responsabilité conjointe.
 
-**Mise à jour : 23-07-2025**
+**Mise à jour : 18-11-2025**
 
 Pourquoi et comment France Travail utilise vos données personnelles ?
 ---------------------------------------------------------------------
@@ -71,8 +71,13 @@ Ces données personnelles peuvent être échangées, dans la stricte limite des 
 * Des collectivités territoriales dans la stricte limite des informations dont ils ont à connaître au regard de leurs missions.
 
 **Concernant les bénéficiaires du revenu de solidarité active (RSA),** les données relatives à l’inscription comme demandeur d’emploi sont échangées avec le président du conseil départemental à des fins de suivi et de contrôle de leurs droits et devoirs.  
+  
 **Concernant les personnes en situation de mobilité européenne**, des données sont échangées avec les institutions compétentes au sein de l’Union européenne ou de ses Etats membres, de la Norvège, de l’Islande, du Liechtenstein, et de la Suisse à des fins de mise en œuvre des règlements européens sur la coordination des systèmes de sécurité sociale.  
+  
+**Concernant les personnes ayant travaillé à Monaco**, des données relatives à la vie professionnelle sont transmises à la Caisse autonome des retraites de Monaco et à la Caisse monégasque de retraite complémentaire  
+  
 **Concernant les personnes débitrices de France Travail qui ont formé une demande auprès de la commission du surendettement des particuliers,** des données sont échangées avec cette commission, par l’intermédiaire du Portail du surendettement des particuliers de La Banque de France.  
+  
 **Dans le cadre de l’offre de service dédiée à l’accompagnement à destination des demandeurs d’emploi en situation de handicap**, le traitement est réalisé en responsabilité conjointe avec les organismes spécialisés de placement (Cap emploi) conformément à l’article 26 du règlement général (UE) sur la protection des données n°2016/679 du 27 avril 2016. Ce traitement comporte les données sur le handicap énumérées par le décret n° 2022-1161 du 17 août 2022 relatif à la création d’un traitement de données à caractère personnel dénommé « Traitement des données de santé nécessaires à l’accompagnement adapté des demandeurs d’emploi en situation de handicap ».
 
 Comment sont sécurisées mes données ?
