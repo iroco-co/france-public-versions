@@ -52,9 +52,9 @@ La sécurité de vos données repose aussi sur la vigilance des usagers. Des ten
 Si la branche Famille prend des mesures spécifiques pour lutter au quotidien contre ces pratiques, quelques règles simples peuvent vous permettre d’éviter les principaux pièges :
 
 * Méfiez-vous des emails mal rédigés ou comportant des fautes d'orthographe ;
-* Lorsque vous cliquez sur un lien ou un bouton dans un email ou que vous avez cherché le mot « caf » dans un moteur de recherche pour accéder à notre site, assurez-vous de l’adresse du site sur lequel vous êtes renvoyé. Le seul site internet permettant de vous connecter à votre espace Mon Compte est « **https://www.caf.fr** ». Toute autre site internet vous invitant à saisir votre identifiant et votre mot de passe doit être considéré comme suspect. En outre, assurez vous que l’adresse du site Internet commence par **https://** et qu'un "cadenas" apparait juste avant ou après cette adresse. En cas de doute, ne saisissez pas vos identifiants
+* Lorsque vous cliquez sur un lien ou un bouton dans un email ou que vous avez cherché le mot « caf » dans un moteur de recherche pour accéder à notre site, assurez-vous de l’adresse du site sur lequel vous êtes renvoyé. Le seul site internet permettant de vous connecter à votre Espace Mon Compte est « **https://www.caf.fr** ». Tout autre site internet vous invitant à saisir votre identifiant et votre mot de passe doit être considéré comme suspect. En outre, assurez vous que l’adresse du site internet commence par **https://** et qu'un "cadenas" apparait juste avant ou après cette adresse. En cas de doute, ne saisissez pas vos identifiants
 * Utilisez un mot de passe complexe et que vous n’utilisez pas sur un autre service ou site internet ;
-* Assurez-vous qu’une adresse email est bien renseignée et associée à votre espace Mon Compte pour bénéficier de la double authentification  avec envoi d’un code de vérification sur votre adresse email.     
+* Assurez-vous qu’une adresse email est bien renseignée et associée à votre Espace Mon Compte pour bénéficier de la double authentification  avec envoi d’un code de vérification sur votre adresse email.     
      
 
 [Le registre des traitements des Caf](#LeregistredestraitementsdesCaf)
