@@ -22,7 +22,7 @@ Place Beauvau
 Pierre-Henry Brandet, délégué à l’Information et à la Communication du ministère de l’Intérieur
 
 **Équipe rédactionnelle et technique**  
-Délégation à l'Information et à la Communication du ministère de l'Intérieur (DICOM) en collaboration avec le bureau des élections et des études politiques (BEEP) de la Direction de la modernisation et de l'administration territoriale (DMAT).  
+Délégation à l'Information et à la Communication du ministère de l'Intérieur (DICOM) en collaboration avec le bureau des élections politiques (BEP) de la Direction de la modernisation et de l'administration territoriale (DMAT).  
   
 Équipe technique  
 Délégation à l’Information et à la Communication du ministère de l'Intérieur (DICOM)  
