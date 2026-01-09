@@ -7,7 +7,7 @@ Les services du site internet www.francetravail.fr et les applications mobiles s
 
 Le « Système d'information France Travail », créé par l'opérateur France Travail, est un traitement automatisé de données à caractère personnel sous la responsabilité du directeur général de l'opérateur France Travail. Exceptionnellement, certaines opérations nécessitant l'intervention de partenaires publics ou privés sont réalisées en responsabilité conjointe.
 
-**Mise à jour : 18-11-2025**
+**Mise à jour : 08-01-2026**
 
 Pourquoi et comment France Travail utilise vos données personnelles ?
 ---------------------------------------------------------------------
@@ -112,10 +112,10 @@ Les données personnelles peuvent être collectées lors de votre inscription en
 
 * Vos nom, prénom, date de naissance, IBAN, pièce d’identité en cas de contrôle par un conseiller France Travail, numéro de l’établissement gestionnaire et date de clôture du compte
 
-Ces données personnelles sont conservées dans le système d’information de France Travail pour les durées suivantes :
+Votre IBAN est conservé dans le système d’information de France Travail pour les durées suivantes :
 
-* 2 ans après leur collecte dès lors qu’elles n’ont jamais été utilisées.
-* 20 ans maximum après leur dernière utilisation.
+* 2 ans après sa collecte dès lors qu’il n'y a jamais été utilisé.
+* 20 ans maximum après sa dernière utilisation.
 
 Quels sont vos droits par rapport à vos données personnelles ?
 --------------------------------------------------------------
