@@ -16,7 +16,7 @@ L'utilisation du Service est libre, facultative et gratuite pour les Usagers qui
 
 Les services civiques, les stagiaires, les bénévoles, les élus et les mandataires judiciaires ne sont pas éligibles au dispositif Aidants Connect.
 
-Les usagers sous tutelle ou sous curatelle ne peuvent pas être accompagnés dans leurs démarches en ligne via le service Aidants Connect.
+Les usagers sous tutelle ou sous curatelle et les mineurs ne peuvent pas être accompagnés dans leurs démarches en ligne via le service Aidants Connect.
 
 L'utilisation du Service est subordonnée à l'acceptation, dès la première connexion, des présentes conditions générales d'utilisation (CGU) et doivent être intégralement respectées.
 
@@ -44,7 +44,7 @@ Le service permet :
 Article 4 - Obtention d'un accès à Aidants Connect pour un Aidant
 -----------------------------------------------------------------
 
-Pour obtenir un accès au Service, la Structure doit remplir le [formulaire d'habilitation disponible en ligne](https://aidantsconnect.beta.gouv.fr/habilitation/nouvelle/) et former ses Aidants à l’utilisation du Service.  
+Pour obtenir un accès au Service, la Structure doit remplir le [formulaire d'habilitation disponible en ligne](https://tally.so/r/31BYqb) et former ses Aidants à l’utilisation du Service.  
 L'équipe Aidants Connect est formée et responsable du traitement des demandes d’habilitation.
 
 Article 5 - Connexion au service Aidants Connect
@@ -52,8 +52,8 @@ Article 5 - Connexion au service Aidants Connect
 
 Pour se connecter au Service :
 
-* L'Aidant renseigne son adresse courriel individuelle, nominative et professionnelle qui a été déclarée au Service par la Structure. Il utilise un moyen de connexion pour générer un code à usage unique (carte physique ou numérique). Un courriel contenant un lien de connexion lui est envoyé pour se connecter à son compte ;
-* Le Référent renseigne son adresse courriel individuelle, nominative et professionnelle qui a été déclarée au Service par la Structure. Il renseigne le code de première connexion qu'il reçoit par SMS à la suite du remplissage du formulaire de première connexion.
+* L'Aidant renseigne son adresse courriel individuelle, nominative et professionnelle qui a été déclarée au Service par la Structure. Il utilise un moyen d’authentification pour générer un code temporaire à usage unique. Soit, il utilise la carte Aidants Connect (distribuée jusqu’à début 2026), soit il utilise une application d’authentification OTP. Un courriel contenant un lien de connexion lui est envoyé pour se connecter à son compte.
+* Le Référent renseigne son adresse courriel individuelle, nominative et professionnelle qui a été déclarée au Service par la Structure. Il renseigne le code de première connexion qu'il reçoit par SMS et peut ensuite relier un moyen d’authentification (carte ou application d’authentification OTP).
 
 Lorsqu'un Aidant est inactif depuis 5 mois, il reçoit un courriel pour l'avertir que son compte sera désactivé dans un délai de 1 mois à compter de la réception du courriel, sauf s’il se connecte à la plateforme durant ce délai.
 
@@ -66,6 +66,8 @@ La Structure s'engage à :
 
 * Tenir à jour la liste des membres de l'équipe strictement habilités à utiliser Aidants Connect ;
 * Garantir aux Référents et Aidants tous les moyens nécessaires pour protéger leurs données et celles des Usagers notamment en mettant en place une politique de mots de passe robuste sur leurs postes électroniques, des anti-virus, des mises à jour et des sauvegardes ;
+* Garantir que les Mandats sont signés et conservés par la Structure et par l’Usager et transmis à ce dernier ;
+* Certifier que les aidants qui utilisent le Service sont habilité à la représenter et disposent d’une délégation de signature;
 * Prévoir toutes les mesures en matière de confidentialité et de sécurité des données nécessaires, notamment en ce qui concerne les signalements de vols ou pertes de données, les habilitations des Référents et Aidants.
 
 ### 6.2 Responsabilités du Référent
@@ -75,6 +77,7 @@ Le Référent s'engage à :
 * Transmettre et s'assurer que l'Aidant a pris connaissance des conditions générales d'utilisation d'Aidants Connect ;
 * Garantir l'accès ou la restriction à certains périmètres selon les métiers respectifs des Aidants ;
 * Tenir à jour la liste des membres de l'équipe strictement habilités à utiliser Aidants Connect ;
+* Vérifier régulièrement que les Mandats sont signés et conservés par la Structure et par l’Usager et transmis à ce dernier ;
 * Mettre en œuvre les mesures de sécurité notamment mises à sa disposition par sa Structure ;
 * Embarquer les Aidants et de les guider dans la prise en main de l’outil. À l’issue de la formation des Aidants, il est en charge de la première connexion et de l’association des cartes et/ou téléphones aux comptes Aidants. En cas de départ, il est responsable de leur désactivation.
 
@@ -84,6 +87,7 @@ L'Aidant s'engage à :
 
 * Accomplir les démarches dans les conditions fixées par le Mandat et sur la base des informations qui lui ont été fournies par l'Usager ;
 * Offrir à un Usager les possibilités les plus simples pour révoquer le Mandat à partir du moment où cet Usager exprime le souhait de résilier un Mandat ;
+* Signer le Mandat et le faire signer à l’Usager, conserver un exemplaire et lui transmettre un second ;
 * Ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur ;
 * Ne pas publier, à quelque endroit que ce soit, de messages racistes, sexistes, injurieux, insultants ou contraires à l'ordre public ;
 * Prendre connaissance de la [charte de l'Aidant](https://aidantsconnect.beta.gouv.fr/static/guides_aidants_connect/Aidants%20Connect_Charte-aidants.pdf) à titre de sensibilisation ;
@@ -101,7 +105,7 @@ L'Éditeur fournit les moyens nécessaires et raisonnables pour assurer un accè
 
 L'Éditeur s'autorise à suspendre ou révoquer n'importe quel compte et toutes les actions réalisées par ce biais, s'il estime que l'usage réalisé du Service porte préjudice à son image ou ne correspond pas aux exigences de sécurité.
 
-L’Éditeur signale immédiatement tout comportement suspect à la Structure : mandats créés à des horaires en dehors des créneaux d'ouvertures et de fermeture de la Structure, dans des laps de temps courts ou sans consentement et signature de l'usager.
+L’Éditeur signale immédiatement tout comportement suspect à la Structure : mandats créés à des horaires en dehors des créneaux d'ouvertures et de fermeture de la Structure, dans des laps de temps courts ou sans consentement et signature de l'Usager ou de la Structure.
 
 L'Éditeur se réserve notamment le droit de retirer l'habilitation des Structures qui ne réalisent pas de démarches administratives et ne font plus partie de l'ensemble des structures éligibles au regard des conditions précisées dans l'Annexe.
 
@@ -126,7 +130,7 @@ En tenant compte du fait que le Mandat se forme que par l'acceptation du mandata
 * Suivre les mêmes exigences de confidentialité, de responsabilité, d'information et de transparence détaillées dans la politique de confidentialité d'Aidants Connect ;
 * Suivre les procédures relatives à l'envoi du Mandat par courrier électronique, courrier papier ou sms.
 
-Il est obligatoire de remettre à l'Usager, ultérieurement et dans les plus brefs délais, la version papier du mandat conclu.
+Il est obligatoire de remettre à l'Usager, ultérieurement et dans les plus brefs délais, la version papier du mandat conclu, signé par la Structure et l’Usager.
 
 Article 8 - Mise à jour des conditions générales d'utilisation
 --------------------------------------------------------------
