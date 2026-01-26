@@ -87,7 +87,7 @@ Annuler Partager
 
  
 
-Leave this field blank 
+Laisser ce champ vide 
 
 [Haut de page](#top)
 
