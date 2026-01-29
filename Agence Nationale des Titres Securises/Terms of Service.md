@@ -467,7 +467,7 @@ Les mentions légales sont consultables en cliquant [ici](https://passeport.ants
 
 [Accédez aux mentions légales.](https://passeport.ants.gouv.fr/mentions-legales)
 
-Partager la page
+### Partager la page
 
 Veuillez autoriser le dépôt de cookies pour partager sur les réseaux sociaux Facebook, X et LinkedIn.
 
