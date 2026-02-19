@@ -163,9 +163,9 @@ In any case, ADEME undertakes to inform Data Subjects in advance in case of data
 | Google | United States | United States | Audience measurement | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Posthog | United States | United States | Audience measurement | [https://posthog.com/privacy](https://posthog.com/privacy) |
 | Matomo | France | France (self-hosted or EU server) | Audience measurement | [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/) |
-| Crisp | France | France (Scaleway, OVH or AWS Paris) | Messaging / Support | [https://crisp.chat/fr/privacy/](https://crisp.chat/fr/privacy/) |
 | Tally | Belgium | Europe / Ireland (AWS) | Online forms | [https://tally.so/help/privacy-policy](https://tally.so/help/privacy-policy) |
-| Youtube | United States | United States | Video playback | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
+| Brevo | Europe | Europe (OVH) | E-mail campaigns | [https://www.brevo.com/fr/legal/termsofuse/](https://www.brevo.com/fr/legal/termsofuse/) |
+| SalesForce | Germany | Germany | E-mail campaigns | [https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf) |
 
 ### 7.2 Cookies
 
@@ -221,14 +221,20 @@ Finally, the Site also uses performance cookies, for the purpose of:
 | Audience measurement | Google Tag Manager | 13 months | Audience measurement | Google | United States |
 | Audience measurement | Google Ads | 13 months | Audience measurement | Google | United States |
 | User preference | Language/region change | Session | Conservation of language preferences | Internal / CMS | France / EU |
-| Service functionality | Crisp (chat) | Until session closure | User support | Crisp | France |
 | Form collection | Tally | 13 months | Form response collection | Tally | Belgium / EU |
 | Session cookie | Session cookie | Session | User session maintenance | Internal | France / EU |
-| Video playback / third-party trackers | YouTube | Up to 13 months | Video playback, advertising tracking | Google / YouTube | United States |
+
+##### Matomo
 
 See the complete list of Matomo cookies [https://matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
 
 Nos Gestes Climat uses the Matomo audience measurement solution configured in "exempt" mode, in accordance with [CNIL recommendations](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience). It therefore does not require the consent of data subjects. You can nevertheless object to the tracking of your navigation by unchecking the box below.
+
+##### Posthog
+
+Nos Gestes Climat uses the Posthog audience measurement solution. If you have refused the deposit of a tracking cookie from the consent banner (cookies), you can also object to the tracking of your navigation and any tracking, by unchecking the box below:
+
+You are tracked anonymously by Posthog. Uncheck this box to exclude yourself from anonymous tracking.
 
 See also the complete list of Posthog cookies: [https://www.cookie.is/service/posthog-analytics#](https://www.cookie.is/service/posthog-analytics#)
 
