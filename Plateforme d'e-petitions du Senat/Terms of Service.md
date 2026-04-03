@@ -152,7 +152,7 @@ o   une description précise du sujet sur lequel devrait porter le contrôle 
 
 o   un exposé des motifs, c'est à dire les raisons de cette modification législative ;
 
-o   le cas échéant, un dispositif présentant clairement, sous forme d’un ou plusieurs articles, les différentes propositions de modifications du droit en vigueur ([cf. Règles légistiques : conseils méthodologiques pour une bonne écriture de la loi](https://www.senat.fr/fileadmin/Fichiers/Images/role/seance/guides_pratiques/PDF/Guide_legistique_Conventions_redaction_loi-1.pdf)).
+o   le cas échéant, un dispositif présentant clairement, sous forme d’un ou plusieurs articles, les différentes propositions de modifications du droit en vigueur ([cf. Règles légistiques : conseils méthodologiques pour une bonne écriture de la loi](https://www.senat.fr/fileadmin/Seance/Documents/Guides_pratiques/Regles_legistiques_conventions_redaction_loi.pdf)).
 
 Enfin, en principe, sont irrecevables les pétitions :
 
@@ -499,7 +499,7 @@ o   une description précise du sujet sur lequel devrait porter le contrôle 
 
 o   un exposé des motifs, c'est à dire les raisons de cette modification législative ;
 
-o   le cas échéant, un dispositif présentant clairement, sous forme d’un ou plusieurs articles, les différentes propositions de modifications du droit en vigueur ([cf. Règles légistiques : conseils méthodologiques pour une bonne écriture de la loi](https://www.senat.fr/fileadmin/Fichiers/Images/role/seance/guides_pratiques/PDF/Guide_legistique_Conventions_redaction_loi-1.pdf)).
+o   le cas échéant, un dispositif présentant clairement, sous forme d’un ou plusieurs articles, les différentes propositions de modifications du droit en vigueur ([cf. Règles légistiques : conseils méthodologiques pour une bonne écriture de la loi](https://www.senat.fr/fileadmin/Seance/Documents/Guides_pratiques/Regles_legistiques_conventions_redaction_loi.pdf)).
 
 Enfin, en principe, sont irrecevables les pétitions :
 
