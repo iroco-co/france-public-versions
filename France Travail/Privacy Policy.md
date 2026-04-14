@@ -1,7 +1,7 @@
 Politique de confidentialité - Protection des données personnelles
 ==================================================================
 
-14 min de lecture
+min de lecture
 
 Les services du site internet www.francetravail.fr et les applications mobiles sont autorisés par les articles R. 5312-38 et suivants du code du travail relatifs au système d’information concernant les demandeurs d’emploi et salariés mis en œuvre par France Travail.
 
