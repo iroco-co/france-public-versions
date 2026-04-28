@@ -10,6 +10,8 @@ Date de mise à jour : 19/02/2024
 1\. Objet du site
 -----------------
 
+![](/files/live/sites/PE/files/infos-legales/CGU-308.jpg)
+
 Le site internet [www.francetravail.fr](https://www.francetravail.fr/accueil/) met à disposition des services proposés par France Travail à destination des personnes à la recherche d’un emploi, d’une formation ou d’un conseil professionnel, inscrites ou non sur la liste des demandeurs d’emploi, et des employeurs.
 
 2\. Services disponibles sans création d’espace personnel
