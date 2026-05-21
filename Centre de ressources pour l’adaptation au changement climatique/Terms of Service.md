@@ -1,7 +1,7 @@
 Mentions légales
 ================
 
-Le site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) est une publication conjointe du Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), de l’Observatoire national des effets du réchauffement climatique (ONERC), de  l’Agence de la Transition écologique (ADEME) et de Météo-France.
+Le site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) est une publication conjointe du Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), de la Direction générale de l'énergie et du climat (DGEC), de  l’Agence de la Transition écologique (ADEME) et de Météo-France.
 
 23 juin 2018
 
@@ -14,7 +14,7 @@ Le site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-ch
 Informations éditeurs
 ---------------------
 
-Les éditeurs du site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) sont le Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), l’Observatoire national des effets du réchauffement climatique (ONERC), l’Agence de la Transition écologique (ADEME) et Météo-France.
+Les éditeurs du site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) sont le Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), la Direction générale de l'énergie et du climat (DGEC), l’Agence de la Transition écologique (ADEME) et Météo-France.
 
 * Directeur de la publication : Pascal Berteaud, directeur général du Cerema
 * Directrice Stratégie et Editorial : Caroline Hamon, Cerema
