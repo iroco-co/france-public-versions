@@ -1,94 +1,112 @@
-Voir le fil d'Ariane
+Consultation indisponible
+=========================
 
-1. [Accueil](https://www.impots.gouv.fr/)
-2. [Particulier](https://www.impots.gouv.fr/particulier)
-3. Gestion des cookies
+Le site impots.gouv.fr est momentanément en maintenance.
 
-Gestion des cookies
+Durant cette intervention, vous ne pouvez pas consulter la documentation et les actualités, ni télécharger de formulaire.
 
+Cependant, **vous pouvez toujours accéder à l'ensemble des services en ligne** à l'aide des liens proposés sur cette page.
 
-=======================
+Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée.
 
-Lecture 3 minutes
+[Liste de tous vos services en ligne](#services "Liste de tous vos services en ligne")
 
-Imprimer l'article
+delestage du portail pour le PSN
 
-* * *
+07/04/2026
 
-La Direction Générale des Finances Publiques (DGFiP) utilise différents cookies et autres technologies similaires sur le présent site internet.
+CDN
 
-Un cookie correspond à un petit fichier texte, image ou logiciel, contenant des informations, qui est enregistré sur le disque dur de votre terminal (ordinateur, tablette, smartphone, ou tout appareil permettant de naviguer sur Internet) à l'occasion de la consultation d'un site internet avec votre logiciel de navigation. Les cookies ont de multiples usages.
+Pour consulter votre situation fiscale personnelle (vos déclarations, avis, paiements...), veuillez vous connecter :
 
-Le terme « traceurs » est utilisé pour désigner les cookies et toutes technologies analogues.
+* [Connexion à mon espace Finances publiques](https://cfspart.impots.gouv.fr/)
+* [Connexion à l’espace professionnel](https://cfspro.impots.gouv.fr/mire/accueil.do)
 
-Les opérations menées par ces derniers sont détaillées ci-dessous.  
-Certaines de ces opérations constituent un traitement de données à caractère personnel. Pour en savoir plus, consulter la page "[Confidentialité / Informations personnelles](https://www.impots.gouv.fr/node/10097 "Confidentialité / Informations personnelles")".
+Vous êtes un particulier
+------------------------
 
-Plusieurs typologies de traceurs sont actuellement actifs sur le site impots.gouv.fr : les traceurs techniques, les traceurs de mesure d’audience.
+* [Accéder à la messagerie sécurisée](https://cfspart.impots.gouv.fr/enp/ "Accéder à la messagerie sécurisée particulier")
+* [Coordonnées d'un service et prise de rdv](https://www.impots.gouv.fr/rdvzu/public/services/flux.ex?_flowId=rechercherservices-flow "Coordonnées d'un service et prise de rdv particulier")
 
-Traceurs strictement nécessaires au fonctionnement des site internet
---------------------------------------------------------------------
+### Déclaration
 
-Les opérations réalisées par ces traceurs permettent/facilitent la communication par voie électronique ou se révèlent indispensables au service de communication en ligne que vous avez sollicité. Ces traceurs ne nécessitent pas le recueil de votre consentement.
+* [Déclarer mes revenus en ligne](https://cfspart.impots.gouv.fr/tdir/ "Déclarer mes revenus en ligne")
+* [Simuler mes impôts](https://simulateur-ir-ifi.impots.gouv.fr/calcul_impot/ "Simuler mes impôts - nouvelle fenêtre")
+* [Déclarer un don ou une cession de droits sociaux](https://cfspart.impots.gouv.fr/enp/ "Déclarer un don ou une cession de droits sociaux")
+* [Déclarer un dispositif transfrontière](https://cfspart.impots.gouv.fr/dac6 "Déclarer un dispositif transfrontière")
 
-Parmi eux, il convient de distinguer les traceurs « techniques » des traceurs de mesure d’audience.
+### Paiement
 
-### Traceurs techniques
+* [Payer mes impôts en ligne](https://cfspart.impots.gouv.fr/stl/satelit.web?templatename=accueilpartcertificat&mode=paiement "Payer mes impôts en ligne")
+* [Payer à partir de la référence de l’avis](https://www.telepaiement.dgfip.finances.gouv.fr/redirectPart.htm "Payer à partir de la référence de l’avis ? - nouvelle fenêtre")
+* [Payer une amende](https://www.amendes.gouv.fr/portail/index.jsp "Payer une amende - nouvelle fenêtre")
+* [Payer une facture publique (Payfip)](https://www.payfip.gouv.fr/tpi-zu/accueilportail.web "Payer une facture publique (Payfip) - nouvelle fenêtre")
 
-La DGFiP utilise des traceurs techniques qui sont automatiquement actifs sur le présent site internet. Ils vous permettent de naviguer correctement sur celui-ci et d’utiliser les fonctionnalités et services mis à votre disposition telle que la mémorisation de vos choix concernant l’utilisation d’autres traceurs.
+### Prélèvement à la source
 
-Vous avez toujours la possibilité de bloquer ces traceurs en utilisant les paramètres de votre navigateur.
+* [Accéder aux options de gestion de prélèvement à la source](https://cfspart.impots.gouv.fr/tremisu/accueil.html "Accéder aux options de gestion de prélèvement à la source")
+* [Adhérer ou modifier mes prélèvements (à l’échéance ou mensuels)](https://cfspart.impots.gouv.fr/stl/satelit.web?templatename=accueilpartcertificat&mode=contrat "Adhérer ou modifier mes prélèvements (à l’échéance ou mensuels)")
 
-Néanmoins ce paramétrage sera susceptible d’entraîner une dégradation de votre navigation et/ou l’impossibilité d’accéder à certains services.
+### Biens immobiliers et patrimoine
 
-### Traceurs de mesure d'audience
+* [Rechercher des transactions immobilières](https://cfspart.impots.gouv.fr/patrimelweb/j_appelportail "Rechercher des transactions immobilières")
+* [Consulter vos biens immobiliers](https://cfspart.impots.gouv.fr/enp/ "Consulter vos biens immobiliers particulier")
+* [Rechercher une succession vacante](https://recherchesuccessionsvacantes.impots.gouv.fr/ "Rechercher une succession vacante particulier - nouvelle fenêtre")
+* [Effectuer une démarche pour une succession vacante](https://cfspart.impots.gouv.fr/ "Effectuer une démarche pour une succession vacante particulier")
 
-La DGFiP fait appel à la solution du prestataire Eulerian pour mesurer l'audience du site internet impots.gouv.fr afin d’améliorer son fonctionnement et votre navigation.
+### Informations personnelles
 
-Ces traceurs **ne nécessitent pas le recueil de votre consentement** au regard du fait que la mesure d’audience réalisée respecte les conditions cumulatives imposées par la réglementation :
+* [Consulter ma situation fiscale personnelle (mes déclarations, avis, paiements...)](https://cfspart.impots.gouv.fr/enp/ "Consulter ma situation fiscale personnelle (mes déclarations, avis, paiements...)")
+* [Changer de mot de passe, modifier mon adresse électronique, modifier mon numéro de téléphone](https://cfspart.impots.gouv.fr/enp/ "Changer de mot de passe, modifier mon adresse électronique, modifier mon numéro de téléphone")
 
-* la finalité du traceur est limitée à la mesure d’audience strictement nécessaire au fonctionnement dudit site internet et aux opérations d’administration courante ;
-* aucun suivi global de votre navigation sur d'autres sites internet que ceux édités par la direction générale des Finances publiques n'est effectué;
-* les statistiques générées sont anonymes et les données à caractère personnel collectées ne sont pas recoupées avec d'autres traitements ou transmises à des tiers.
+Vous êtes un professionnel
+--------------------------
 
-|     |     |     |
-| --- | --- | --- |cookies
-| Nom | Finalité | Durée de conservation |
-| --- | --- | --- |
-| etuix | Mesure d’audience strictement nécessaire | 13 mois |
+* [Accéder à la messagerie sécurisée](https://cfspro.impots.gouv.fr/gaia2-zu-mapi/ "Accéder à la messagerie sécurisée professionnel")
+* [Coordonnées d'un service et prise de rdv](https://www.impots.gouv.fr/rdvzu/public/services/flux.ex?_flowId=rechercherservices-flow "Coordonnées d'un service et prise de rdv professionnel")
 
-Si vous souhaitez ne pas être tracé(e), il vous suffit de choisir d’[activer « l’opt-out »](https://bmly.impots.gouv.fr/optout.html?url=https%3A//www.impots.gouv.fr/accueil "activer « l’opt-out »").
+### Paiement
 
-Pour en savoir plus, vous pouvez également consulter la [page relative à la politique de protection des données du prestataire Eulerian](https://www.eulerian.com/vie-privee "page relative à la politique de protection des données du prestataire Eulerian").
+* [Payer la CFE (cotisation foncière des entreprises) et la taxe foncière](https://www.telepaiement.dgfip.finances.gouv.fr/redirectPro.htm "Payer la CFE (cotisation foncière des entreprises) et la taxe foncière - nouvelle fenêtre")
 
-Partager la page
-----------------
+### Gestion des données bancaires
 
-* [Partager sur Facebook](http://www.facebook.com/share.php?u=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies "Partager sur Facebook - nouvelle fenêtre")
-* [Partager sur Twitter](https://twitter.com/intent/tweet?url=https://www.impots.gouv.fr/gestion-des-cookies&url=https://www.impots.gouv.fr/gestion-des-cookies&hashtags=Hashtag "Partager sur Twitter - nouvelle fenêtre")
-* [Partager sur LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies&source=https://www.impots.gouv.fr/gestion-des-cookies "Partager sur LinkedIn - nouvelle fenêtre")
-* Partager par courriel
-* Copier dans le presse-papier
+* [Saisir des avis des comptes (FICOBA)](http://ficobas.dgfip.finances.gouv.fr/Ficoba-Web/jsp/promnb01Id.jsp "Saisir des avis des comptes (FICOBA) - nouvelle fenêtre")
+* [Accéder à la consultation différée des comptes (FICOBA)](http://ficoba.dgfip.finances.gouv.fr/Ficoba-Web/jsp/promnb01Id.jsp "Accéder à la consultation différée des comptes (FICOBA) - nouvelle fenêtre")
+* [Accéder à la consultation immédiate des comptes (FICOBA)](http://ficobai.dgfip.finances.gouv.fr/Ficoba-Web/jsp/promnb01Id.jsp "Accéder à la consultation immédiate des comptes (FICOBA) - nouvelle fenêtre")
+* [Accéder au service en ligne du livret A](http://ficobap.dgfip.finances.gouv.fr/Segen/SegenServlet "Accéder au service en ligne du livret A - nouvelle fenêtre")
 
-Fermer
+### Gestion des collaborateurs
 
-Partager par courriel
-=====================
+* [Gérer les droits de vos collaborateurs (notaires et géomètres experts)](https://apexpartenaire.dgfip.finances.gouv.fr/apexpartenaire/ "Gérer les droits de vos collaborateurs (notaires et géomètres experts) - nouvelle fenêtre")
+* [Accéder au serveur professionnel des données cadastrales (notaires et géomètres experts)](https://apexappliext.dgfip.finances.gouv.fr/spdc/j_appelportail "Accéder au serveur professionnel des données cadastrales (notaires et géomètres experts) - nouvelle fenêtre ")
+* [Accéder au service en ligne « Fichier des contrats d'assurance-vie (FICOVIE) »](https://apexappliext.dgfip.finances.gouv.fr/ficovie/ "Accéder au service en ligne « Fichier des contrats d'assurance-vie (FICOVIE) » - nouvelle fenêtre ")
+* [Accès aux registres des trusts et des fiducies (RDTF)](https://apexappliext.dgfip.finances.gouv.fr/rdt-el/j_appelportail "Accès aux registres des trusts et des fiducies (RDTF) - nouvelle fenêtre")
 
-Objet du message : Informations du site impots.gouv
+### Vérification du justificatif et de l’avis d’impôt sur le revenu
 
-Tous les champs sont obligatoires.
+* [Accéder au service de vérification (justificatif et avis d’impôt sur le revenu)](https://www.impots.gouv.fr/verifavis2-api/front "Accéder au service de vérification (justificatif et avis d’impôt sur le revenu) - nouvelle fenêtre")
 
-Votre adresse électronique Format attendu : prenom.nom@exemple.fr 
+### Déclaration tiers déclarants
 
-Envoyer l’article à Format attendu : prenom.nom@exemple.fr 
+* [Accéder à la déclaration en ligne des données](https://cfspro.impots.gouv.fr/mire/accueil.do "Accéder à la déclaration en ligne des données")
 
-Annuler Partager
+### Biens immobiliers et patrimoine
 
- 
+* [Consulter vos biens immobiliers](https://cfspro.impots.gouv.fr/mire/accueil.do "Consulter vos biens immobiliers professionnel")
+* [Rechercher une succession vacante](https://recherchesuccessionsvacantes.impots.gouv.fr/ "Rechercher une succession vacante professionnel - nouvelle fenêtre")
+* [Effectuer une démarche pour une succession vacante](https://cfspro.impots.gouv.fr/ "Effectuer une démarche pour une succession vacante professionnel")
 
-Laisser ce champ vide 
+### Assistance aux téléprocédures
 
-[Haut de page](#top)
+* [Accéder à la procédure de déclaration en ligne des données (par formuel)](https://formuelassistanceteleprocedure.impots.gouv.fr/formuelsAFE/efi/identification "Accéder à la procédure de déclaration en ligne des données (par formuel)- nouvelle fenêtre")
+* [Accéder à la procédure de transmission de fichiers par internet (par formuel)](https://formuelassistanceteleprocedure.impots.gouv.fr/formuelsAFE/edi/identification "Accéder à la procédure de transmission de fichiers par internet (par formuel) - nouvelle fenêtre")
+* [Accéder à la procédure d'envoi de fichiers pour les tiers déclarants (par formuel)](https://formuelassistanceteleprocedure.impots.gouv.fr/formuelsAFE/td/identification "Accéder à la procédure d'envoi de fichiers pour les tiers déclarants (par formuel) - nouvelle fenêtre")
 
-[Votre avis sur le site](https://www.impots.gouv.fr/votre-avis-sur-le-site "Votre avis sur le site")
+### Assistance administrative
+
+* [Accéder au serveur AAI (Assistance Administrative Internationale)](http://aai.dgfip.finances.gouv.fr/dgiaai/debut.asp "Accéder au serveur AAI (Assistance Administrative Internationale)  - nouvelle fenêtre ")
+
+### Accès à la documentation
+
+[Accéder au bulletin officiel des finances publiques (BOFIP)](http://bofip.impots.gouv.fr/ "Accéder au bulletin officiel des finances publiques (BOFIP) - nouvelle fenêtre")
