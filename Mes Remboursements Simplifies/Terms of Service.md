@@ -69,7 +69,7 @@ L’Assurance Maladie ne peut être tenu pour responsable vis-à-vis de l’util
 
 L’utilisateur du site reconnaît avoir pris connaissance et accepter les présentes conditions d’utilisation avant toute utilisation du site.
 
-L’utilisation du site internet mrs.beta.gouv.fr est soumise au respect par l’utilisateur de : la législation française et des présentes conditions d’utilisation.
+L’utilisation du site internet remboursement-transport.contact-cpam.fr est soumise au respect par l’utilisateur de : la législation française et des présentes conditions d’utilisation.
 
 Les présentes conditions d’utilisation peuvent être modifiées à tout moment (modifiée le : 30/10/2019). Ces modifications sont opposables à l’utilisateur dès leur mise en ligne sur le site internet. L’utilisateur est donc invité à consulter régulièrement la dernière version mise à jour.
 
