@@ -155,3 +155,11 @@ Vous avez aussi le droit de porter une réclamation devant la Commission nationa
 
 Que pensez-vous de cet article ?  
 Notez-le en 1 clic
+
+ 
+
+Évaluation de larticle {0} :
+
+1 note
+
+notÃ©  4 sur 5
