@@ -220,6 +220,6 @@ Notez-le en 1 clic
 
 Évaluation de larticle {0} :
 
-2 notes
+7 notes
 
 notÃ©  4 sur 5
