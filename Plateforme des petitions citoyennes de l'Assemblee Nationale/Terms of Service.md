@@ -142,7 +142,7 @@ Des cookies sont déposés afin d’assurer les statistiques de consultation de 
 
 Des cookies obligatoires nécessaires au fonctionnement de la plateforme sont déposés afin de permettre le maintien de la connexion, pour une durée de 30 minutes maximum, d’un signataire identifié.
 
-L’utilisateur qui souhaite signer une pétition doit s’identifier via FranceConnect. Il se voit alors attribuer un identifiant technique « signataire » au format OpenIDConnect afin d’assurer l’unicité de sa signature pour une pétition donnée. Les signataires restent anonymes. Néanmoins la date de naissance des signataires est vérifiée au moment de l’identification afin de contrôler leur majorité. Une fois ce contrôle effectué, la date de naissance n’est pas conservée au sein de la plateforme.
+L’utilisateur qui souhaite signer une pétition doit s’identifier via FranceConnect. Il se voit alors attribuer un identifiant technique « signataire » au format OpenIDConnect afin d’assurer l’unicité de sa signature pour une pétition donnée. Les signataires restent anonymes. Néanmoins la date de naissance des signataires est vérifiée au moment de l’identification afin de contrôler leur majorité. Une fois ce contrôle effectué, la date de naissance n’est pas conservée au sein de la plateforme. Par ailleurs, le département de résidence de chaque signataire lui est demandé et est enregistré au moment de signer une pétition, sans qu’il ne soit possible de faire le lien avec son identité.
 
 ##### **5.3.** **Auteur d'une pétition**
 
@@ -375,7 +375,7 @@ Des cookies sont déposés afin d’assurer les statistiques de consultation de 
 
 Des cookies obligatoires nécessaires au fonctionnement de la plateforme sont déposés afin de permettre le maintien de la connexion, pour une durée de 30 minutes maximum, d’un signataire identifié.
 
-L’utilisateur qui souhaite signer une pétition doit s’identifier via FranceConnect. Il se voit alors attribuer un identifiant technique « signataire » au format OpenIDConnect afin d’assurer l’unicité de sa signature pour une pétition donnée. Les signataires restent anonymes. Néanmoins la date de naissance des signataires est vérifiée au moment de l’identification afin de contrôler leur majorité. Une fois ce contrôle effectué, la date de naissance n’est pas conservée au sein de la plateforme.
+L’utilisateur qui souhaite signer une pétition doit s’identifier via FranceConnect. Il se voit alors attribuer un identifiant technique « signataire » au format OpenIDConnect afin d’assurer l’unicité de sa signature pour une pétition donnée. Les signataires restent anonymes. Néanmoins la date de naissance des signataires est vérifiée au moment de l’identification afin de contrôler leur majorité. Une fois ce contrôle effectué, la date de naissance n’est pas conservée au sein de la plateforme. Par ailleurs, le département de résidence de chaque signataire lui est demandé et est enregistré au moment de signer une pétition, sans qu’il ne soit possible de faire le lien avec son identité.
 
 ##### **5.3.** **Auteur d'une pétition**
 
