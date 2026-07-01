@@ -160,6 +160,6 @@ Notez-le en 1 clic
 
 Évaluation de larticle {0} :
 
-12 notes
+15 notes
 
 notÃ©  4 sur 5
