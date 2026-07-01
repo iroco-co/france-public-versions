@@ -29,7 +29,7 @@ Informations éditoriales
 
 **Directeur de publication :** Boris Melmoux-Eude, directeur général de l’administration et de la fonction publique
 
-**Responsable éditorial : Marie-Josée Miranda  
+**Responsable éditorial : Alix Rimaud-Gufflet  
 **
 
 **Service gestionnaire du site :**  
