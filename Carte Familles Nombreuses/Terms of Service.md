@@ -14,13 +14,13 @@ L’utilisation du Site édité par IN Groupe (Imprimerie Nationale SA), titulai
 
 Sauf mention contraire, lorsqu’ils sont utilisés au sein présentes et qu’ils débutent par une lettre majuscule, les termes cidessous, qu’ils soient employés au singulier ou au pluriel, auront le sens suivant :
 
-* « **Ayant-droits** » : désigne un Utilisateur répondant aux critères d’éligibilité lui permettant de créer un Compte ;
-* « **CFN** » : désigne la Carte Familles Nombreuses ;
-* « **Compte** » : désigne le Compte pouvant être créé par un Utilisateur sous conditions d’éligibilité, directement à partir du Site conformément aux conditions et modalités indiquées aux présentes et sur le Site, à partir duquel l’Utilisateur ayant qualité d’Ayant-droits peut passer commande. Chaque Ayant-droits a accès à un Compte spécifiquement dédié à sa famille ;
-* « **Contenu** » : désigne l’ensemble des outils, méthodes, logiciels, algorithmes, savoir-faire, contenu éditorial (notamment texte, photographie, images, dessins, etc.), illustrations et d’une manière générale toute oeuvre ou création susceptible d'appropriation intellectuelle utilisé dans le cadre de la publication du Site ;
-* « **Donnée** » : désigne toute donnée personnelle au sens du Règlement européen 2016/679 du 27 avril 2016 relatif à la protection des personnes à l'égard du traitement des données à caractère personnel et de la libre circulation des données (« RGPD ») et de la loi n°78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés (« Loi informatique et libertés »), collectées, traitées et hébergées par IN Groupe. La politique de confidentialité applicable aux traitements des Données est disponible et consultable depuis le Site [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre") en pied de page dans la rubrique « Politique de confidentialité » ;
-* « **Site** » : désigne le site internet [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre") et l’ensemble de ses pages ;
-* « **Utilisateur** » : désigne la personne qui navigue sur le Site et utilisant un ou plusieurs service(s) proposé(s) par IN Groupe sur le Site, étant entendu qu’un Utilisateur ayant créé un Compte sur le Site est également désigné sous le terme d’« Ayant-droits ».
+*   « **Ayant-droits** » : désigne un Utilisateur répondant aux critères d’éligibilité lui permettant de créer un Compte ;
+*   « **CFN** » : désigne la Carte Familles Nombreuses ;
+*   « **Compte** » : désigne le Compte pouvant être créé par un Utilisateur sous conditions d’éligibilité, directement à partir du Site conformément aux conditions et modalités indiquées aux présentes et sur le Site, à partir duquel l’Utilisateur ayant qualité d’Ayant-droits peut passer commande. Chaque Ayant-droits a accès à un Compte spécifiquement dédié à sa famille ;
+*   « **Contenu** » : désigne l’ensemble des outils, méthodes, logiciels, algorithmes, savoir-faire, contenu éditorial (notamment texte, photographie, images, dessins, etc.), illustrations et d’une manière générale toute oeuvre ou création susceptible d'appropriation intellectuelle utilisé dans le cadre de la publication du Site ;
+*   « **Donnée** » : désigne toute donnée personnelle au sens du Règlement européen 2016/679 du 27 avril 2016 relatif à la protection des personnes à l'égard du traitement des données à caractère personnel et de la libre circulation des données (« RGPD ») et de la loi n°78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés (« Loi informatique et libertés »), collectées, traitées et hébergées par IN Groupe. La politique de confidentialité applicable aux traitements des Données est disponible et consultable depuis le Site [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre") en pied de page dans la rubrique « Politique de confidentialité » ;
+*   « **Site** » : désigne le site internet [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre") et l’ensemble de ses pages ;
+*   « **Utilisateur** » : désigne la personne qui navigue sur le Site et utilisant un ou plusieurs service(s) proposé(s) par IN Groupe sur le Site, étant entendu qu’un Utilisateur ayant créé un Compte sur le Site est également désigné sous le terme d’« Ayant-droits ».
 
 2\. ACCEPTATION DE L’UTILISATEUR
 --------------------------------
@@ -44,13 +44,13 @@ De même, les notifications effectuées via le Site sont opposables à l’Utili
 
 Toute notification requise aux termes des présentes conditions devra être envoyée :
 
-* Par l’Utilisateur : à l'adresse d’IN Groupe indiquée sur le Site et/ou dans les CGU
-* Par IN Groupe : à l’adresse renseignée par l’Ayant-droits lors de la création de son Compte, régulièrement mise à jour le cas échéant.
+*   Par l’Utilisateur : à l'adresse d’IN Groupe indiquée sur le Site et/ou dans les CGU
+*   Par IN Groupe : à l’adresse renseignée par l’Ayant-droits lors de la création de son Compte, régulièrement mise à jour le cas échéant.
 
 Toutes notifications effectuées en application des présentes seront valablement effectuées et seront considérées comme reçues dans les conditions suivantes :
 
-* E-mail : au jour d'envoi ;
-* Lettre recommandée AR - le lendemain de la date portée sur l’accusé de réception.
+*   E-mail : au jour d'envoi ;
+*   Lettre recommandée AR - le lendemain de la date portée sur l’accusé de réception.
 
 4\. EVOLUTIONS
 --------------
@@ -108,8 +108,8 @@ L’Ayant-droits ne doit pas céder, prêter ou transférer ses paramètres de c
 
 Les Ayant-droits s'engagent en outre à :
 
-* Informer immédiatement IN Groupe en cas d'utilisation abusive de leurs paramètres de connexion ou de Compte ou en cas de toute autre violation de la sécurité ;
-* S’assurer d'être correctement déconnectés de leurs son Compte à la fin de chaque session en utilisant la fonction « se déconnecter ».
+*   Informer immédiatement IN Groupe en cas d'utilisation abusive de leurs paramètres de connexion ou de Compte ou en cas de toute autre violation de la sécurité ;
+*   S’assurer d'être correctement déconnectés de leurs son Compte à la fin de chaque session en utilisant la fonction « se déconnecter ».
 
 IN Groupe se réserve le droit de procéder à la désactivation de tout identifiant ou mot de passe à tout moment si L’Ayant-droits a enfreint l’une des dispositions des présentes CGU.
 
@@ -120,18 +120,18 @@ IN Groupe s’engage à mettre à disposition un Site de Services permettant aux
 
 De manière générale, tout Utilisateur peut :
 
-* Naviguer sur le Site ;
-* Accéder au Contenu du Site et le consulter ;
-* Créer un Compte sous réserve des conditions d’éligibilité indiquées lors de la création du Compte.
+*   Naviguer sur le Site ;
+*   Accéder au Contenu du Site et le consulter ;
+*   Créer un Compte sous réserve des conditions d’éligibilité indiquées lors de la création du Compte.
 
 Le Compte personnel de chaque Ayant-droits permet :
 
-* D’obtenir des renseignements, directement ou au travers de redirections, sur les services offerts par la Carte Familles Nombreuses ;
-* De tester l’éligibilité à la Carte Familles Nombreuses (notamment en cas de changement de situation familiale de l’Ayant-droit) ;
-* Créer et gérer son Compte ;
-* Commander et gérer les Cartes Familles Nombreuses ;
-* Gérer le cycle de vie de ses Carte Familles Nombreuses ;
-* Contacter le centre de contact.
+*   D’obtenir des renseignements, directement ou au travers de redirections, sur les services offerts par la Carte Familles Nombreuses ;
+*   De tester l’éligibilité à la Carte Familles Nombreuses (notamment en cas de changement de situation familiale de l’Ayant-droit) ;
+*   Créer et gérer son Compte ;
+*   Commander et gérer les Cartes Familles Nombreuses ;
+*   Gérer le cycle de vie de ses Carte Familles Nombreuses ;
+*   Contacter le centre de contact.
 
 Pour plus d'informations sur le contenu exact et complet du Site et des services, les Utilisateurs sont invités à consulter le Site.
 
@@ -148,11 +148,11 @@ IN Groupe concède à l’Utilisateur, qui l’accepte, pour la durée et le ter
 
 L’Utilisateur s’interdit expressément tout autre acte d’utilisation ou d’exploitation, et notamment :
 
-* Créer des liens vers d’autres Sites ;
-* Toute modification, traduction, adaptation, arrangement, tests ou analyses du Site ou de son Contenu ;
-* Toute reproduction à destination de tiers ;
-* Préparer des oeuvres dérivées à partir du Site, modifier, copier ou utiliser le Site ou son Contenu de toute manière, à l’exception de ce qui est expressément autorisé dans les présentes CGU ;
-* Supprimer ou altérer les mentions d’identification ou de propriété du Site ou de son Contenu.
+*   Créer des liens vers d’autres Sites ;
+*   Toute modification, traduction, adaptation, arrangement, tests ou analyses du Site ou de son Contenu ;
+*   Toute reproduction à destination de tiers ;
+*   Préparer des oeuvres dérivées à partir du Site, modifier, copier ou utiliser le Site ou son Contenu de toute manière, à l’exception de ce qui est expressément autorisé dans les présentes CGU ;
+*   Supprimer ou altérer les mentions d’identification ou de propriété du Site ou de son Contenu.
 
 Dans l’hypothèse où l’Utilisateur envisage d’utiliser le Site ou son Contenu à des fins autres que celles prévues aux présentes, celui-ci en avertira par écrit IN Groupe qui pourra, à sa seule discrétion, refuser ou autoriser cette utilisation selon les termes et conditions qu’elle définira.
 
@@ -183,13 +183,13 @@ IN Groupe garantit l’Utilisateur contre toute action en contrefaçon ou toute 
 
 Les dispositions ci-dessus sont soumises aux conditions cumulatives suivantes :
 
-* Que l’Utilisateur ait notifié à bref délai, l'action en justice ou la déclaration ayant précédé cette action, et,
-* Qu’IN Groupe ait été en mesure d'assurer librement la défense de ses propres intérêts et ceux de de l’Utilisateur et que, pour ce faire, l’Utilisateur ait collaboré loyalement à ladite défense en fournissant, en temps utile, tous les éléments, informations et assistance nécessaires pour mener à bien une telle défense qui auraient été demandés par IN Groupe.
+*   Que l’Utilisateur ait notifié à bref délai, l'action en justice ou la déclaration ayant précédé cette action, et,
+*   Qu’IN Groupe ait été en mesure d'assurer librement la défense de ses propres intérêts et ceux de de l’Utilisateur et que, pour ce faire, l’Utilisateur ait collaboré loyalement à ladite défense en fournissant, en temps utile, tous les éléments, informations et assistance nécessaires pour mener à bien une telle défense qui auraient été demandés par IN Groupe.
 
 Dans le cas où l'interdiction d'utilisation de tout ou partie des éléments composant le Site ou les Contenus serait prononcée en conséquence d'une action en contrefaçon ou d’une action fondée sur une atteinte à des droits de propriété intellectuelle, ou résulterait d'une transaction signée avec le demandeur à l'action précitée, IN Groupe s'efforcera, à son choix et à ses frais :
 
-* Soit d'obtenir le droit pour l’Utilisateur de poursuivre l'utilisation des éléments visés ;
-* Soit de remplacer les éléments de façon à éviter les manquements précités.
+*   Soit d'obtenir le droit pour l’Utilisateur de poursuivre l'utilisation des éléments visés ;
+*   Soit de remplacer les éléments de façon à éviter les manquements précités.
 
 11\. LIENS HYPERTEXTES
 ----------------------
@@ -242,15 +242,15 @@ Chaque Utilisateur est responsable de l’usage qu’il fait des ressources info
 
 Le site est compatible avec les systèmes et navigateurs suivants :
 
-* PC Windows
-    * Chrome, Edge et Firefox dans leurs deux dernières versions en vigueur
-* Macintosh
-    * Safari dans les deux dernières versions en vigueur
-* Smartphone et tablette Android
-    * OS Android dans les deux dernières versions en vigueur
-    * Chrome mobile dans les deux dernières versions en vigueur
-* Smartphone iPhone et tablette iPad
-    * Dernière version iOS en vigueur
+*   PC Windows
+    *   Chrome, Edge et Firefox dans leurs deux dernières versions en vigueur
+*   Macintosh
+    *   Safari dans les deux dernières versions en vigueur
+*   Smartphone et tablette Android
+    *   OS Android dans les deux dernières versions en vigueur
+    *   Chrome mobile dans les deux dernières versions en vigueur
+*   Smartphone iPhone et tablette iPad
+    *   Dernière version iOS en vigueur
 
 IN Groupe ne garantit pas la compatibilité du Site avec les autres systèmes et navigateurs.
 
@@ -263,14 +263,14 @@ IN Groupe ne saurait être tenu responsable du non fonctionnement, d'une impossi
 
 Il en sera de même pour toutes autres raisons extérieures à IN Groupe, à savoir notamment :
 
-* Des conséquences d'une utilisation frauduleuse, abusive ou excessive du Site par un ou plusieurs Utilisateurs ;
-* Des contenus accessibles sur le réseau Internet via le Site et des dommages qui peuvent naître de leur utilisation par tout Utilisateur ;
-* De l'exploitation des données et informations que l’Utilisateur aurait introduites ou récupérées sur le réseau Internet ;
-* Des informations provenant de tierces personnes et des liens vers d'autres sites Internet. IN Groupe ne contrôle ni l'exactitude des informations qui s'y trouvent ni leur contenu. En conséquence, IN Groupe ne pourra en aucun cas être tenu pour responsable des dommages résultant de l'utilisation, de l'accès à, ou de l'incapacité à utiliser ces informations tierces ;
-* De l'exploitation des données et informations que l’Utilisateur aurait introduites ou récupérées sur le réseau Internet ;
-* De tout dommage de quelle que nature qu’il soit résultant de l’interprétation ou de l’utilisation des informations, contenus et/ou documents disponibles sur ces Sites ;
-* Des erreurs, insuffisances ou omissions dans la transmission des informations par l’Utilisateur ;
-* Des erreurs dans les demandes ou commandes de Cartes Familles Nombreuses qui sont sous la responsabilité exclusive des Utilisateurs.
+*   Des conséquences d'une utilisation frauduleuse, abusive ou excessive du Site par un ou plusieurs Utilisateurs ;
+*   Des contenus accessibles sur le réseau Internet via le Site et des dommages qui peuvent naître de leur utilisation par tout Utilisateur ;
+*   De l'exploitation des données et informations que l’Utilisateur aurait introduites ou récupérées sur le réseau Internet ;
+*   Des informations provenant de tierces personnes et des liens vers d'autres sites Internet. IN Groupe ne contrôle ni l'exactitude des informations qui s'y trouvent ni leur contenu. En conséquence, IN Groupe ne pourra en aucun cas être tenu pour responsable des dommages résultant de l'utilisation, de l'accès à, ou de l'incapacité à utiliser ces informations tierces ;
+*   De l'exploitation des données et informations que l’Utilisateur aurait introduites ou récupérées sur le réseau Internet ;
+*   De tout dommage de quelle que nature qu’il soit résultant de l’interprétation ou de l’utilisation des informations, contenus et/ou documents disponibles sur ces Sites ;
+*   Des erreurs, insuffisances ou omissions dans la transmission des informations par l’Utilisateur ;
+*   Des erreurs dans les demandes ou commandes de Cartes Familles Nombreuses qui sont sous la responsabilité exclusive des Utilisateurs.
 
 De plus, la responsabilité d’IN Groupe ne peut être engagée pour retard ou défaillance tenant soit à un cas de force majeure, soit à un évènement échappant à son contrôle, soit encore du fait d’un Utilisateur.
 
@@ -278,6 +278,8 @@ De plus, la responsabilité d’IN Groupe ne peut être engagée pour retard ou 
 ----------------------------------------------
 
 Quel que soit le lieu d’utilisation, le Site est régi par le droit français. En cas de contestation éventuelle, et après l’échec de toute tentative de recherche d’une solution amiable, les tribunaux français seront seuls compétents pour connaître de ce litige.
+
+- - -
 
 CONDITIONS GENERALES DE DÉLIVRANCE ET D'UTILISATION DE LA CARTE FAMILLES NOMBREUSES (CDGU)
 ==========================================================================================
@@ -297,25 +299,25 @@ Les présentes CGDU s'appliquent sans restriction ni réserve à la fourniture d
 
 Sauf mention contraire, lorsqu’ils sont utilisés des présentes et qu’ils débutent par une lettre majuscule, les termes ci-dessous, qu’ils soient employés au singulier ou au pluriel, auront le sens suivant :
 
-* « **Ayant-droits** » : désigne une personne éligible à la CFN, ayant créé un Compte sur le Site, utilisant un ou plusieurs service(s) proposé(s) par IN Groupe sur le Compte lui étant attribué, et pouvant prétendre à réaliser une Commande ;
-* **AELE** : pays de l’Association Européenne de Libre-Echange, comprenant Islande, Liechtenstein, Norvège, Suisse.
-* « **CFN** » : désigne la Carte Familles Nombreuses, réalisée et délivrée par IN Groupe à l’Ayant-droits qui en fait la demande via une Commande sur le Site, sur la base des informations et données fournies à IN Groupe par l’Ayant-droits, qui s’engage à leur exactitude et leur sincérité ;
-* **« Commande » : désigne tout acte de demande de CFN effectué par un Ayant-droits auprès d’IN Groupe dans le cadre d’une demande initiale d’une CFN ou de remplacement d’une CFN, effectuée via le Site et matérialisée par la Confirmation de Commande, précisant la nature, les frais de traitement du dossier et la quantité de CFN souhaitées ;**
-* « **Compte** » : désigne le compte informatique créé par l’Ayant-droits sur le Site, conformément aux conditions et modalités indiquées aux présentes et sur le Site, à partir duquel l’Ayant-droits peut passer commande. Chaque Ayant-droits a accès à un Compte spécifiquement dédié à sa famille ;
-* « **Confirmation de Commande** » : désigne le document écrit, adressé par e-mail à l’Ayant-droits par IN Groupe, contenant les conditions commerciales et tarifaires applicables en fonction de la Commande. Sauf stipulations contraires expresses, les stipulations incluses dans la Confirmation de Commande, prévaudront sur les présentes CGDU en cas de contradiction ;
-* « **Conditions Générales d’Utilisation » ou « CGU** » : désigne l’ensemble des conditions et modalités d’utilisation du Site, directement accessibles et disponibles depuis ce dernier, ainsi que l’ensemble de ses versions successives, formant un tout indivisible avec les autres documents du Contrat ;
-* « **Conditions Générales de Délivrance et d’Utilisation » ou « CGDU** » : désigne le présent document précisant l’ensemble des conditions et modalités de délivrance et d’usage des CFN, ainsi que l’ensemble de ses versions successives, formant un tout indivisible avec les autres documents du Contrat ;
-* « **Contenu** » : désigne l’ensemble des outils, méthodes, logiciels, algorithmes, savoir-faire, contenu éditorial (notamment texte, photographie, images, dessins, etc.), illustrations et d’une manière générale toute oeuvre ou création susceptible d'appropriation intellectuelle utilisé dans le cadre de la publication du Site ;
-* « **Contrat** » : désigne le contrat conclu entre L’Utilisateur et IN Groupe, formé par les documents suivants : les présentes CGDU, ainsi que les CGU, la Commande et la Confirmation de Commande, la Facture faisant suite au paiement des Frais de dossier, ces documents formant ensemble un tout indivisible, l’acceptation de la Commande par l’Ayant-droits valant acceptation des documents du Contrat ;
-* « **Convention** » : désigne la convention en vigueur entre le Ministère et IN Groupe ayant confié à IN Groupe les missions relatives à la réalisation et à la fourniture de services délivrance de Cartes Familles Nombreuses ;
-* **EU** : pays de l’Union Européenne
-* « **Facture** » : document relatif à la facturation des Frais de dossier dans le cadre d’une Commande de CFN ;
-* « **Frais de dossier** » : désigne les frais de traitement du dossier de demande de carte CFN, à régler par l’Ayant-droits lors de sa Commande, afin de bénéficier d’une CFN et des services associés ;
-* « **IN Groupe** » : désigne la société Imprimerie Nationale SA ;
-* « **Ministère** » : désigne le Ministère de la Transition Ecologique et de la Cohésion des Territoires, Direction générale des infrastructures, des transports et des mobilités ;
-* « **Parties** » : désigne d’une part les Ayant-droits, et d’autre part IN Groupe ;
-* « **Services** » : désigne l’ensemble des Services liés à la CFN, proposés par IN Groupe via le Site ;
-* « **Site** » : désigne le Site internet relatif à la CFN, localisé à l’adresse suivante [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre").
+*   « **Ayant-droits** » : désigne une personne éligible à la CFN, ayant créé un Compte sur le Site, utilisant un ou plusieurs service(s) proposé(s) par IN Groupe sur le Compte lui étant attribué, et pouvant prétendre à réaliser une Commande ;
+*   **AELE** : pays de l’Association Européenne de Libre-Echange, comprenant Islande, Liechtenstein, Norvège, Suisse.
+*   « **CFN** » : désigne la Carte Familles Nombreuses, réalisée et délivrée par IN Groupe à l’Ayant-droits qui en fait la demande via une Commande sur le Site, sur la base des informations et données fournies à IN Groupe par l’Ayant-droits, qui s’engage à leur exactitude et leur sincérité ;
+*   **« Commande » : désigne tout acte de demande de CFN effectué par un Ayant-droits auprès d’IN Groupe dans le cadre d’une demande initiale d’une CFN ou de remplacement d’une CFN, effectuée via le Site et matérialisée par la Confirmation de Commande, précisant la nature, les frais de traitement du dossier et la quantité de CFN souhaitées ;**
+*   « **Compte** » : désigne le compte informatique créé par l’Ayant-droits sur le Site, conformément aux conditions et modalités indiquées aux présentes et sur le Site, à partir duquel l’Ayant-droits peut passer commande. Chaque Ayant-droits a accès à un Compte spécifiquement dédié à sa famille ;
+*   « **Confirmation de Commande** » : désigne le document écrit, adressé par e-mail à l’Ayant-droits par IN Groupe, contenant les conditions commerciales et tarifaires applicables en fonction de la Commande. Sauf stipulations contraires expresses, les stipulations incluses dans la Confirmation de Commande, prévaudront sur les présentes CGDU en cas de contradiction ;
+*   « **Conditions Générales d’Utilisation » ou « CGU** » : désigne l’ensemble des conditions et modalités d’utilisation du Site, directement accessibles et disponibles depuis ce dernier, ainsi que l’ensemble de ses versions successives, formant un tout indivisible avec les autres documents du Contrat ;
+*   « **Conditions Générales de Délivrance et d’Utilisation » ou « CGDU** » : désigne le présent document précisant l’ensemble des conditions et modalités de délivrance et d’usage des CFN, ainsi que l’ensemble de ses versions successives, formant un tout indivisible avec les autres documents du Contrat ;
+*   « **Contenu** » : désigne l’ensemble des outils, méthodes, logiciels, algorithmes, savoir-faire, contenu éditorial (notamment texte, photographie, images, dessins, etc.), illustrations et d’une manière générale toute oeuvre ou création susceptible d'appropriation intellectuelle utilisé dans le cadre de la publication du Site ;
+*   « **Contrat** » : désigne le contrat conclu entre L’Utilisateur et IN Groupe, formé par les documents suivants : les présentes CGDU, ainsi que les CGU, la Commande et la Confirmation de Commande, la Facture faisant suite au paiement des Frais de dossier, ces documents formant ensemble un tout indivisible, l’acceptation de la Commande par l’Ayant-droits valant acceptation des documents du Contrat ;
+*   « **Convention** » : désigne la convention en vigueur entre le Ministère et IN Groupe ayant confié à IN Groupe les missions relatives à la réalisation et à la fourniture de services délivrance de Cartes Familles Nombreuses ;
+*   **EU** : pays de l’Union Européenne
+*   « **Facture** » : document relatif à la facturation des Frais de dossier dans le cadre d’une Commande de CFN ;
+*   « **Frais de dossier** » : désigne les frais de traitement du dossier de demande de carte CFN, à régler par l’Ayant-droits lors de sa Commande, afin de bénéficier d’une CFN et des services associés ;
+*   « **IN Groupe** » : désigne la société Imprimerie Nationale SA ;
+*   « **Ministère** » : désigne le Ministère de la Transition Ecologique et de la Cohésion des Territoires, Direction générale des infrastructures, des transports et des mobilités ;
+*   « **Parties** » : désigne d’une part les Ayant-droits, et d’autre part IN Groupe ;
+*   « **Services** » : désigne l’ensemble des Services liés à la CFN, proposés par IN Groupe via le Site ;
+*   « **Site** » : désigne le Site internet relatif à la CFN, localisé à l’adresse suivante [www.carte-familles-nombreuses.gouv.fr](https://www.carte-familles-nombreuses.gouv.fr/ "https://www.carte-familles-nombreuses.gouv.fr - Carte Familles Nombreuses - nouvelle fenêtre").
 
 2\. CHAMP D’APPLICATION
 -----------------------
@@ -369,10 +371,10 @@ Il est rappelé à l’Ayant-droits qu’en passant Commande d’une CFN, l’Ay
 
 Une Commande ne sera pas honorée en cas de :
 
-* Incomplétude du dossier de Commande (composé des formulaires disponibles sur le Site, l’ensemble des données, documents justificatifs et informations demandés sur le Site) ;
-* Éligibilité non respectée selon les règles d’attributions des CFN ;
-* Données communiquées non cohérentes ou erronées ;
-* Paiement non valide.
+*   Incomplétude du dossier de Commande (composé des formulaires disponibles sur le Site, l’ensemble des données, documents justificatifs et informations demandés sur le Site) ;
+*   Éligibilité non respectée selon les règles d’attributions des CFN ;
+*   Données communiquées non cohérentes ou erronées ;
+*   Paiement non valide.
 
 Aucun remboursement n’est effectué en cas de non-respect des CGDU.
 
@@ -380,22 +382,22 @@ Aucun remboursement n’est effectué en cas de non-respect des CGDU.
 
 L’Ayant-droits est éligible à la carte Familles Nombreuses s’il remplit impérativement les deux conditions suivantes :
 
-1. L’Ayant-droits est de nationalité Française (comme justifié par une carte d’identité nationale Française valide ou un passeport Français valide) ou de nationalité EU /AELE (résidant ou travaillant en France de manière régulière, justifié par une carte d’identité nationale valide du pays d’origine ou un passeport valide) ou de nationalité étrangère (habitant de manière régulière en France, justifié par la possession d’un titre de séjour européen délivré par la France)
-2. Le foyer de l’Ayant-droits est composé d’au moins 3 enfants dont 1 mineur ou il / elle a au minimum 5 enfants majeurs. Les foyers avec un statut marié(e), pacsé(e), monoparentale, divorcé(e), veuf/veuve, recomposée ou en union libre peuvent être éligibles. Les enfants mineurs éligibles sont les enfants à charge au sens fiscal en garde pleine ou garde alternée conjointe. Les cas d’adoption et d’un enfant sous tutelle sont pris en compte.
+1.  L’Ayant-droits est de nationalité Française (comme justifié par une carte d’identité nationale Française valide ou un passeport Français valide) ou de nationalité EU /AELE (résidant ou travaillant en France de manière régulière, justifié par une carte d’identité nationale valide du pays d’origine ou un passeport valide) ou de nationalité étrangère (habitant de manière régulière en France, justifié par la possession d’un titre de séjour européen délivré par la France)
+2.  Le foyer de l’Ayant-droits est composé d’au moins 3 enfants dont 1 mineur ou il / elle a au minimum 5 enfants majeurs. Les foyers avec un statut marié(e), pacsé(e), monoparentale, divorcé(e), veuf/veuve, recomposée ou en union libre peuvent être éligibles. Les enfants mineurs éligibles sont les enfants à charge au sens fiscal en garde pleine ou garde alternée conjointe. Les cas d’adoption et d’un enfant sous tutelle sont pris en compte.
 
 ### 5.4 Justificatifs à fournir
 
 L’Utilisateur devra justifier :
 
-* De l’identité du ou des 2 parents du foyer (cf. condition n°1 chapitre 5.3) ;
-* Dans le cas d’un foyer composé de 2 parents, que les parents vivent bien ensemble : justificatif de domicile de moins de 3 mois, avis d’imposition sur le revenu de l’année courante mentionnant les 2 noms et prénoms, attestation d’un organisme de prestation familiale mentionnant les 2 noms et prénoms de mois de 3 mois ;
-* Le cas échéant, justifier la filiation de chaque enfant mineur : (i) soit via une attestation d’un organisme de prestation familiale datant de moins de 3 mois, mentionnant le nom / prénom de chaque enfant et sa date de naissance, ou (ii) soit pour chaque enfant, un acte de naissance ou une copie du livret de famille ou un acte d’adoption ou un jugement de tutelle ;
-* Le cas échéant, justifier la filiation de chaque enfant majeur : un acte de naissance ou une copie du livret de famille ou un acte d’adoption ou un jugement de tutelle.
-* Pour les parents de nationalité étrangère résidant à l’étranger travaillant en France ou de nationalité française résidant à l’étranger :
-    * Justificatif de composition familiale dûment rempli et signé par les 2 parents (le document vierge est à télécharger sur le site Carte Familles Nombreuses. Tout autre document ne sera pas accepté)
-    * Acte de naissance de tous les enfants (ou le scan complet du livret de famille) ainsi que leur traduction en français par un traducteur agréé.
-* Pour les parents de nationalité étrangère résidant à l’étranger travaillant en France :
-    * Attestation de travail signée par l’employeur en France (le document vierge est à télécharger sur le site Carte Familles Nombreuses. Tout autre document ne sera pas accepté)
+*   De l’identité du ou des 2 parents du foyer (cf. condition n°1 chapitre 5.3) ;
+*   Dans le cas d’un foyer composé de 2 parents, que les parents vivent bien ensemble : justificatif de domicile de moins de 3 mois, avis d’imposition sur le revenu de l’année courante mentionnant les 2 noms et prénoms, attestation d’un organisme de prestation familiale mentionnant les 2 noms et prénoms de mois de 3 mois ;
+*   Le cas échéant, justifier la filiation de chaque enfant mineur : (i) soit via une attestation d’un organisme de prestation familiale datant de moins de 3 mois, mentionnant le nom / prénom de chaque enfant et sa date de naissance, ou (ii) soit pour chaque enfant, un acte de naissance ou une copie du livret de famille ou un acte d’adoption ou un jugement de tutelle ;
+*   Le cas échéant, justifier la filiation de chaque enfant majeur : un acte de naissance ou une copie du livret de famille ou un acte d’adoption ou un jugement de tutelle.
+*   Pour les parents de nationalité étrangère résidant à l’étranger travaillant en France ou de nationalité française résidant à l’étranger :
+    *   Justificatif de composition familiale dûment rempli et signé par les 2 parents (le document vierge est à télécharger sur le site Carte Familles Nombreuses. Tout autre document ne sera pas accepté)
+    *   Acte de naissance de tous les enfants (ou le scan complet du livret de famille) ainsi que leur traduction en français par un traducteur agréé.
+*   Pour les parents de nationalité étrangère résidant à l’étranger travaillant en France :
+    *   Attestation de travail signée par l’employeur en France (le document vierge est à télécharger sur le site Carte Familles Nombreuses. Tout autre document ne sera pas accepté)
 
 ### 5.5 Exactitude des déclarations et des justificatifs
 
@@ -444,8 +446,8 @@ Le délai de réponse en cas de demande d’information complémentaire est de 4
 
 La durée de validité d’une CFN dépend de la situation familiale de l’Ayant-droits :
 
-1. La CFN est valable 3 ans dans le cas d’une famille avec 3 enfants minimum dont au moins 1 mineur. Par exception à ce qui précède, si l’un des enfants déclarés atteint l’âge de 18 ans dans les 3 ans qui suivent la date d’émission de la CFN concernée, la date de fin de validité pour l’ensemble des CFN délivrées est alors à la date de majorité de l’enfant concerné ;
-2. La CFN pour le ou les parents est valable 6 ans dans le cas d’une famille ayant élevé au moins 5 enfants (enfants majeurs à la date de commande).
+1.  La CFN est valable 3 ans dans le cas d’une famille avec 3 enfants minimum dont au moins 1 mineur. Par exception à ce qui précède, si l’un des enfants déclarés atteint l’âge de 18 ans dans les 3 ans qui suivent la date d’émission de la CFN concernée, la date de fin de validité pour l’ensemble des CFN délivrées est alors à la date de majorité de l’enfant concerné ;
+2.  La CFN pour le ou les parents est valable 6 ans dans le cas d’une famille ayant élevé au moins 5 enfants (enfants majeurs à la date de commande).
 
 7\. CONDITIONS FINANCIERES
 --------------------------
@@ -580,17 +582,17 @@ La responsabilité d’IN Groupe est limitée à la réparation des dommages mat
 
 IN Groupe ne sera donc pas tenue de réparer :
 
-* les conséquences dommageables des fautes et/ou négligences de l’Ayant-droits ;
-* les dommages immatériels et/ou indirects, consécutifs ou non, tels que notamment les pertes d’exploitation, de profit, de préjudice commercial.
+*   les conséquences dommageables des fautes et/ou négligences de l’Ayant-droits ;
+*   les dommages immatériels et/ou indirects, consécutifs ou non, tels que notamment les pertes d’exploitation, de profit, de préjudice commercial.
 
 Si toutefois la responsabilité de IN Groupe était retenue devant les tribunaux, l’Utilisateur ne pourrait prétendre à d'autres indemnités et dommages et intérêts ou règlement quelconque, toutes causes et tous motifs confondus, qu'au montant des Frais de dossier relatifs aux Commandes de CFN effectivement payées par l’Ayant-droits au cours des douze (12) derniers mois précédent le dommage.
 
 IN Groupe ne peut pas être tenue responsable :
 
-* des délais d’acheminements anormaux des services postaux ;
-* du non-respect des conditions d’usage et d’environnement, de conservation normale de la CFN ;
-* de la transmission de données erronées et/ou frauduleuses par l’Utilisateur qui aurait entrainé la réalisation et l’expédition d’une CFN ;
-* de la non délivrance d’une CFN suite à la vérification des conditions d’éligibilité.
+*   des délais d’acheminements anormaux des services postaux ;
+*   du non-respect des conditions d’usage et d’environnement, de conservation normale de la CFN ;
+*   de la transmission de données erronées et/ou frauduleuses par l’Utilisateur qui aurait entrainé la réalisation et l’expédition d’une CFN ;
+*   de la non délivrance d’une CFN suite à la vérification des conditions d’éligibilité.
 
 IN Groupe ne peut être tenu à la réparation des dommages dont l’origine est notamment liée à une faute de l’Utilisateur, à l’emploi de systèmes ou produits non-conformes aux prescriptions de IN Groupe.
 
