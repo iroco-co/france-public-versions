@@ -29,9 +29,9 @@ L’utilisation de la plateforme est libre et facultative.
 
 Les données collectées, pour permettre le fonctionnement du service, sont :
 
-* la prescription médicale de transport (volet 2) ou la demande d'accord préalable (volet 3) ou la convocation au Service Médical,
-* les coordonnées des bénéficiaires et des assurés,
-* les justificatifs de transport.
+*   la prescription médicale de transport (volet 2) ou la demande d'accord préalable (volet 3) ou la convocation au Service Médical,
+*   les coordonnées des bénéficiaires et des assurés,
+*   les justificatifs de transport.
 
 Ces données sont collectées et traitées par l’Assurance Maladie pour la seule finalité définie à l’article 2 et seront conservées pendant 33 mois.
 
