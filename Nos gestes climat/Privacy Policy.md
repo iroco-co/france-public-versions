@@ -17,9 +17,9 @@ To ensure the proper application of these rules, ADEME has designated a Data Pro
 
 This Policy aims to present to Data Subjects as defined below:
 
-* the manner in which ADEME processes Personal Data, as defined below, that it collects and that Data Subjects, as defined below, provide with their consent or on the basis of any other legal basis to enable the provision of ADEME Products or Services in particular;
-* the rights of Data Subjects;
-* any beneficiaries of data transfers.
+*   the manner in which ADEME processes Personal Data, as defined below, that it collects and that Data Subjects, as defined below, provide with their consent or on the basis of any other legal basis to enable the provision of ADEME Products or Services in particular;
+*   the rights of Data Subjects;
+*   any beneficiaries of data transfers.
 
 Data Subjects are thus invited to read this Policy carefully to know and understand ADEME's practices regarding Personal Data Processing that ADEME implements.
 
@@ -30,13 +30,13 @@ Terms used with a capital letter have the definition given to them below.
 
 Terms have the same definition whether used in singular or plural.
 
-* "Personal Data" refers to any information relating to an identified or identifiable natural person.
-* "Data Subject(s)" refers to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier, such as a name, an identification number, location data, an online identifier, or to one or more specific elements of their physical, physiological, genetic, mental, economic, cultural or social identity.
-* "Products" refers to ADEME's products.
-* "Data Controller" refers to ADEME which is the legal person who, alone or jointly with others, determines the purposes and means of processing.
-* "Services" refers to services provided by ADEME.
-* "Sites" refers to all web pages and resources accessible on the Internet.
-* "Processing" refers to any operation or set of operations performed or not using automated processes and applied to personal data or sets of personal data, such as collection, recording, organization, structuring, storage, adaptation or modification, extraction, consultation, use, communication by transmission, dissemination or any other form of making available, comparison or interconnection, limitation, erasure or destruction.
+*   "Personal Data" refers to any information relating to an identified or identifiable natural person.
+*   "Data Subject(s)" refers to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier, such as a name, an identification number, location data, an online identifier, or to one or more specific elements of their physical, physiological, genetic, mental, economic, cultural or social identity.
+*   "Products" refers to ADEME's products.
+*   "Data Controller" refers to ADEME which is the legal person who, alone or jointly with others, determines the purposes and means of processing.
+*   "Services" refers to services provided by ADEME.
+*   "Sites" refers to all web pages and resources accessible on the Internet.
+*   "Processing" refers to any operation or set of operations performed or not using automated processes and applied to personal data or sets of personal data, such as collection, recording, organization, structuring, storage, adaptation or modification, extraction, consultation, use, communication by transmission, dissemination or any other form of making available, comparison or interconnection, limitation, erasure or destruction.
 
 2\. What are ADEME's commitments regarding Personal Data protection?
 --------------------------------------------------------------------
@@ -45,10 +45,10 @@ ADEME undertakes to guarantee a high level of protection of Personal Data of Dat
 
 ADEME undertakes to comply with applicable regulations (notably articles 5 and 6 of the GDPR) for all Personal Data Processing that it implements. More particularly, ADEME undertakes in particular to respect the following principles:
 
-* Personal Data is processed lawfully, fairly and transparently (lawfulness, fairness, transparency);
-* Personal Data is collected for determined, explicit and legitimate purposes, and is not subsequently processed in a manner incompatible with these purposes (purpose limitation);
-* Personal Data is kept adequately, relevantly and is limited to what is necessary in relation to the purposes for which it is processed (data minimization);
-* Personal Data is accurate, kept up to date and all reasonable measures are taken to ensure that inaccurate data, having regard to the purposes for which it is processed, are erased or rectified without delay (accuracy).
+*   Personal Data is processed lawfully, fairly and transparently (lawfulness, fairness, transparency);
+*   Personal Data is collected for determined, explicit and legitimate purposes, and is not subsequently processed in a manner incompatible with these purposes (purpose limitation);
+*   Personal Data is kept adequately, relevantly and is limited to what is necessary in relation to the purposes for which it is processed (data minimization);
+*   Personal Data is accurate, kept up to date and all reasonable measures are taken to ensure that inaccurate data, having regard to the purposes for which it is processed, are erased or rectified without delay (accuracy).
 
 ADEME implements appropriate technical and organizational measures to guarantee a level of security adapted to the risk inherent in its Processing operations, meet regulatory requirements and protect the rights and Personal Data of Data Subjects from the design of Processing operations.
 
@@ -63,11 +63,11 @@ In the context of using its products or services as well as its websites, severa
 
 Mainly, the data collected corresponds to the following categories:
 
-* identification data: name, first name, pseudonym, date of birth;
-* contact data: postal address, simulation region, email address.
-* Data relating to transport habits (type of vehicle, type of transport mode, distances traveled, ownership, type of car)
-* Data relating to housing (ownership, surface area)
-* Data relating to consumption (food, purchases)
+*   identification data: name, first name, pseudonym, date of birth;
+*   contact data: postal address, simulation region, email address.
+*   Data relating to transport habits (type of vehicle, type of transport mode, distances traveled, ownership, type of car)
+*   Data relating to housing (ownership, surface area)
+*   Data relating to consumption (food, purchases)
 
 4\. Means of collecting Personal Data
 -------------------------------------
@@ -81,34 +81,34 @@ The purposes of Personal Data Processing carried out by ADEME are based on the f
 
 The purposes associated with each legal basis are listed below:
 
-* Based on the execution of pre-contractual measures taken at the request of Data Subjects and/or on the execution of the contract they have entered into, ADEME implements Processing pursuing the following purposes:
-    * management of the relationship of Site users with ADEME, including:
-        * creation of a user account;
-        * use of sites and services;
-        * management of communications and monitoring of exchanges with users.
-* Based on the consent of Data Subjects, ADEME implements Processing pursuing the following purposes:
-    * provision of personalized Services, such as announcements, newsletters, training, etc.;
-    * provision of optional Services such as interactive discussion spaces or chats;
-    * management of user participation in games and contests;
-    * management of cookies subject to consent (notably via Google which allows better management of our expenses and targeting).
-* Based on compliance with its legal and regulatory obligations, ADEME implements Processing pursuing the following purposes:
-    * development of Products and Services to facilitate the completion of administrative formalities necessary for processing requests from internet users and users;
-    * management of responses to official requests from public or judicial authorities authorized for this purpose;
-    * compliance with regulations applicable to our activity;
-    * management of requests for exercise of rights.
-* Based on its legitimate interests, ADEME implements Processing pursuing the following purposes:
-    * development and improvement of new Products or Services and offers of Products or Services to internet users and/or benefiting the public;
-    * fight against fraud, abuse, including also the management of consequences of this fraud or abuse;
-    * management of security breaches or any technical problem encountered by Products or Services;
-    * carrying out commercial prospecting operations aimed at professionals;
-    * management of clients or employees within a group of companies for internal administrative management purposes;
-    * management of user information requests and complaints;
-    * establishment of any means of proof necessary for the defense of ADEME's rights;
-    * management of cookies not subject to consent.
-* Based on the public interest mission, ADEME implements Processing pursuing the following purposes:
-    * Management of aid requests to facilitate the completion of administrative formalities necessary for processing user requests;
-    * management of communications and monitoring of exchanges with users;
-    * compliance with regulations applicable to our activity.
+*   Based on the execution of pre-contractual measures taken at the request of Data Subjects and/or on the execution of the contract they have entered into, ADEME implements Processing pursuing the following purposes:
+    *   management of the relationship of Site users with ADEME, including:
+        *   creation of a user account;
+        *   use of sites and services;
+        *   management of communications and monitoring of exchanges with users.
+*   Based on the consent of Data Subjects, ADEME implements Processing pursuing the following purposes:
+    *   provision of personalized Services, such as announcements, newsletters, training, etc.;
+    *   provision of optional Services such as interactive discussion spaces or chats;
+    *   management of user participation in games and contests;
+    *   management of cookies subject to consent (notably via Google which allows better management of our expenses and targeting).
+*   Based on compliance with its legal and regulatory obligations, ADEME implements Processing pursuing the following purposes:
+    *   development of Products and Services to facilitate the completion of administrative formalities necessary for processing requests from internet users and users;
+    *   management of responses to official requests from public or judicial authorities authorized for this purpose;
+    *   compliance with regulations applicable to our activity;
+    *   management of requests for exercise of rights.
+*   Based on its legitimate interests, ADEME implements Processing pursuing the following purposes:
+    *   development and improvement of new Products or Services and offers of Products or Services to internet users and/or benefiting the public;
+    *   fight against fraud, abuse, including also the management of consequences of this fraud or abuse;
+    *   management of security breaches or any technical problem encountered by Products or Services;
+    *   carrying out commercial prospecting operations aimed at professionals;
+    *   management of clients or employees within a group of companies for internal administrative management purposes;
+    *   management of user information requests and complaints;
+    *   establishment of any means of proof necessary for the defense of ADEME's rights;
+    *   management of cookies not subject to consent.
+*   Based on the public interest mission, ADEME implements Processing pursuing the following purposes:
+    *   Management of aid requests to facilitate the completion of administrative formalities necessary for processing user requests;
+    *   management of communications and monitoring of exchanges with users;
+    *   compliance with regulations applicable to our activity.
 
 In the context of temporary and specific partnerships (contests, prizes to be won), ADEME's partners receive only email and identification data to contact the winners and provide them with the prizes.
 
@@ -143,8 +143,8 @@ Categories of recipients of Data Subjects' Personal Data
 
 The data collected on ADEME's Sites and Products or Services and by any other means may be communicated to:
 
-* ADEME's authorized personnel, its partners or its service providers, in the context of carrying out all or part of services;
-* city and community agents, company managers creating organizational campaigns.
+*   ADEME's authorized personnel, its partners or its service providers, in the context of carrying out all or part of services;
+*   city and community agents, company managers creating organizational campaigns.
 
 Cross-border data transfers outside the European Union
 
@@ -179,9 +179,9 @@ Cookies are information relating to the navigation of your terminal (computer, t
 
 Only the issuer of a cookie can read or modify the information it contains. There are different types of cookies:
 
-* session cookies that disappear as soon as you leave the Site;
+*   session cookies that disappear as soon as you leave the Site;
     
-* permanent cookies that remain on your terminal until their lifetime expires or until you delete them using your browser's features.
+*   permanent cookies that remain on your terminal until their lifetime expires or until you delete them using your browser's features.
     
 
 You are informed that, during your visits to this Site, cookies may be installed on your terminal equipment.
@@ -198,19 +198,19 @@ The Site also uses authentication cookies, essential to allow you to access your
 
 Finally, the Site also uses performance cookies, for the purpose of:
 
-* analyzing the traffic and use made of the Site, in order to:
+*   analyzing the traffic and use made of the Site, in order to:
     
-    * evolve it towards improving the navigation experience, with the final objective of offering you a Site that is always more adapted;
+    *   evolve it towards improving the navigation experience, with the final objective of offering you a Site that is always more adapted;
         
-    * carry out statistical studies;
+    *   carry out statistical studies;
         
-    * memorize your browser's display preferences (language used, display settings, operating system used, etc.) and adapt the Site's presentation during your visits, according to the materials and software for visualization or reading that your terminal equipment includes and which are used for navigation on the Site;
+    *   memorize your browser's display preferences (language used, display settings, operating system used, etc.) and adapt the Site's presentation during your visits, according to the materials and software for visualization or reading that your terminal equipment includes and which are used for navigation on the Site;
         
-    * implement security measures;
+    *   implement security measures;
         
-* improve the relevance of advertisements broadcast on the Site;
+*   improve the relevance of advertisements broadcast on the Site;
     
-* make the Site more user-friendly and interactive
+*   make the Site more user-friendly and interactive
     
 
 | Cookie Category | Cookie Name | Retention Period | Purposes | Publisher | Destination |
@@ -240,8 +240,8 @@ See also the complete list of Posthog cookies: [https://www.cookie.is/service/po
 
 To go further, you can consult the sheets proposed by the National Commission for Information Technology and Civil Liberties (CNIL):
 
-* [Cookies and trackers: what does the law say?](https://www.cnil.fr/fr/cookies-et-traceurs-que-dit-la-loi)
-* [Cookies: tools to master them](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser)
+*   [Cookies and trackers: what does the law say?](https://www.cnil.fr/fr/cookies-et-traceurs-que-dit-la-loi)
+*   [Cookies: tools to master them](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser)
 
 8\. How are the rights recognized to Data Subjects exercised?
 -------------------------------------------------------------
