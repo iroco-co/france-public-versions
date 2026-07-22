@@ -1,8 +1,8 @@
 Voir le fil d'Ariane
 
-1. [Accueil](https://www.impots.gouv.fr/)
-2. [Particulier](https://www.impots.gouv.fr/particulier)
-3. Gestion des cookies
+1.  [Accueil](https://www.impots.gouv.fr/)
+2.  [Particulier](https://www.impots.gouv.fr/particulier)
+3.  Gestion des cookies
 
 Gestion des cookies
 
@@ -47,9 +47,9 @@ La DGFiP fait appel à la solution du prestataire Eulerian pour mesurer l'audien
 
 Ces traceurs **ne nécessitent pas le recueil de votre consentement** au regard du fait que la mesure d’audience réalisée respecte les conditions cumulatives imposées par la réglementation :
 
-* la finalité du traceur est limitée à la mesure d’audience strictement nécessaire au fonctionnement dudit site internet et aux opérations d’administration courante ;
-* aucun suivi global de votre navigation sur d'autres sites internet que ceux édités par la direction générale des Finances publiques n'est effectué;
-* les statistiques générées sont anonymes et les données à caractère personnel collectées ne sont pas recoupées avec d'autres traitements ou transmises à des tiers.
+*   la finalité du traceur est limitée à la mesure d’audience strictement nécessaire au fonctionnement dudit site internet et aux opérations d’administration courante ;
+*   aucun suivi global de votre navigation sur d'autres sites internet que ceux édités par la direction générale des Finances publiques n'est effectué;
+*   les statistiques générées sont anonymes et les données à caractère personnel collectées ne sont pas recoupées avec d'autres traitements ou transmises à des tiers.
 
 |     |     |     |
 | --- | --- | --- |cookies
@@ -64,11 +64,11 @@ Pour en savoir plus, vous pouvez également consulter la [page relative à la po
 Partager la page
 ----------------
 
-* [Partager sur Facebook](http://www.facebook.com/share.php?u=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies "Partager sur Facebook - nouvelle fenêtre")
-* [Partager sur Twitter](https://twitter.com/intent/tweet?url=https://www.impots.gouv.fr/gestion-des-cookies&url=https://www.impots.gouv.fr/gestion-des-cookies&hashtags=Hashtag "Partager sur Twitter - nouvelle fenêtre")
-* [Partager sur LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies&source=https://www.impots.gouv.fr/gestion-des-cookies "Partager sur LinkedIn - nouvelle fenêtre")
-* Partager par courriel
-* Copier dans le presse-papier
+*   [Partager sur Facebook](http://www.facebook.com/share.php?u=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies "Partager sur Facebook - nouvelle fenêtre")
+*   [Partager sur Twitter](https://twitter.com/intent/tweet?url=https://www.impots.gouv.fr/gestion-des-cookies&url=https://www.impots.gouv.fr/gestion-des-cookies&hashtags=Hashtag "Partager sur Twitter - nouvelle fenêtre")
+*   [Partager sur LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.impots.gouv.fr/gestion-des-cookies&title=Gestion%20des%20cookies&source=https://www.impots.gouv.fr/gestion-des-cookies "Partager sur LinkedIn - nouvelle fenêtre")
+*   Partager par courriel
+*   Copier dans le presse-papier
 
 Fermer
 
