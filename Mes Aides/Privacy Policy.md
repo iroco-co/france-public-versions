@@ -99,10 +99,10 @@ Pour les cookies donnant lieu à consentement préalable, l’utilisateur peut a
 
 L’utilisateur peut accepter ou refuser le dépôt de tout ou partie des cookies, à tout moment, en modifiant les paramètres de son navigateur (consulter la fonction « Aide » du navigateur pour en savoir plus) ou en se rendant sur l’une des pages suivantes, selon le navigateur utilisé :
 
-* Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
-* Internet Explorer : [https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
-* Mozilla Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
-* Safari : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
+*   Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
+*   Internet Explorer : [https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
+*   Mozilla Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
+*   Safari : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
 
 Pour information, la plupart des navigateurs acceptent par défaut le dépôt de cookies. L’utilisateur peut modifier ses choix en matière de cookies à tout moment. Le paramétrage des cookies est susceptible de modifier les conditions de navigation sur le site internet, ainsi que les conditions d’accès à certains services, et d’entrainer des dysfonctionnements de certaines fonctionnalités.
 
