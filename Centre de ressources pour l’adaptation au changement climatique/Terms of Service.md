@@ -16,10 +16,10 @@ Informations éditeurs
 
 Les éditeurs du site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) sont le Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema), la Direction générale de l'énergie et du climat (DGEC), l’Agence de la Transition écologique (ADEME) et Météo-France.
 
-* Directeur de la publication : Pascal Berteaud, directeur général du Cerema
-* Directrice Stratégie et Editorial : Caroline Hamon, Cerema
-* Co-Pilotage : Nicolas Beaupied, directeur technique, Cerema
-* Webmestre : Stéphane Duran, Cerema
+*   Directeur de la publication : Pascal Berteaud, directeur général du Cerema
+*   Directrice Stratégie et Editorial : Caroline Hamon, Cerema
+*   Co-Pilotage : Nicolas Beaupied, directeur technique, Cerema
+*   Webmestre : Stéphane Duran, Cerema
 
 Contact
 -------
@@ -30,10 +30,10 @@ Contact
 Informations techniques
 -----------------------
 
-* CMS : Site réalisé sous DRUPAL
-* Hébergement du site : Cerema
-* Conception et développement
-* Réalisation technique / éditoriale et graphique : Cerema / Bwat / Giboulées  
+*   CMS : Site réalisé sous DRUPAL
+*   Hébergement du site : Cerema
+*   Conception et développement
+*   Réalisation technique / éditoriale et graphique : Cerema / Bwat / Giboulées  
      
 
 Conditions générales d'utilisation
@@ -106,11 +106,11 @@ Crédit photographiques
 
 Les photos présentes sur ce site proviennent de sources différentes :
 
-* Direction de la communication et de la diffusion des connaissances du Cerema
-* [Médiathèque Cerema](https://mediatheque.cerema.fr/)
-* Médiathèque Terra du Ministère de la Transition écologique et solidaire
-* Plus généralement, les éditeurs
-* Et les différents contributeurs et partenaires du Centre de ressources.
+*   Direction de la communication et de la diffusion des connaissances du Cerema
+*   [Médiathèque Cerema](https://mediatheque.cerema.fr/)
+*   Médiathèque Terra du Ministère de la Transition écologique et solidaire
+*   Plus généralement, les éditeurs
+*   Et les différents contributeurs et partenaires du Centre de ressources.
 
 Sauf autorisation préalable et écrite, l’internaute s’interdit de les utiliser.  
  
@@ -133,9 +133,9 @@ Liens
 Le site contient des liens vers des sites de partenaires ou de tiers. Le Cerema, ne disposant d’aucun moyen pour contrôler ces sites, n’offre aucune garantie quant au respect par ces sites des lois et règlement en vigueur.  
 Le site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) autorise la mise en place d’un lien hypertexte pointant vers son contenu sous réserve de :
 
-* ne pas utiliser la technique du « lien profond » : les pages du site  [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) ne doivent pas être imbriquées à l’intérieur des pages d’un autre site, mais accessibles par l’ouverture d’une fenêtre séparée,
-* d’indiquer impérativement dans le lien la source "centre de ressources pour l’adaptation au changement climatique - [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/)",
-* n’utiliser les informations du site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) qu’à des fins personnelles, professionnelles ou associatives à l’exclusion de toute utilisation à des fins commerciales ou publicitaires.
+*   ne pas utiliser la technique du « lien profond » : les pages du site  [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) ne doivent pas être imbriquées à l’intérieur des pages d’un autre site, mais accessibles par l’ouverture d’une fenêtre séparée,
+*   d’indiquer impérativement dans le lien la source "centre de ressources pour l’adaptation au changement climatique - [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/)",
+*   n’utiliser les informations du site [www.adaptation-changement-climatique.gouv.fr](https://www.adaptation-changement-climatique.gouv.fr/) qu’à des fins personnelles, professionnelles ou associatives à l’exclusion de toute utilisation à des fins commerciales ou publicitaires.
 
 Cette autorisation ne s’applique que pour les sites dont le contenu n’est contraire ni à la loi ni aux bonnes mœurs, et dans la mesure où ces liens ne contreviennent pas aux intérêts des éditeurs et garantissent pour l’utilisateur la possibilité d’identifier l’origine et l’auteur du document.  
  
