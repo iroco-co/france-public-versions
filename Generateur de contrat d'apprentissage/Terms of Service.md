@@ -9,7 +9,7 @@ Les présentes conditions générales d’utilisation (dites « CGU ») définis
 
 La Plateforme Tableau de bord de l’apprentissage (ci-après la « Plateforme ») est un système d’information ayant pour objet :
 
-* La mise à disposition à différents acteurs de données clés concernant l’apprentissage en temps réel.
+*   La mise à disposition à différents acteurs de données clés concernant l’apprentissage en temps réel.
 
   
 La Plateforme est créée et administrée par la Délégation générale à l'Emploi et à la Formation professionnelle du ministère du Travail (ci-après « la DGEFP »).  
@@ -20,10 +20,10 @@ L’Utilisateur reconnaît que l’utilisation de la Plateforme nécessite le re
 
 Les termes ci-dessous définis ont, entre les parties, la signification suivante :
 
-* **« DGEFP »** : Délégation générale à l’emploi et à la formation professionnelle ;
-* **« Tableau de bord de l’apprentissage »** : Service numérique destiné à mettre à disposition de différents acteurs les données clés concernant l’apprentissage en temps réel ;
-* **« Ministère »** : Ministère du Travail, du plein Emploi et de l’Insertion ;
-* **« Utilisateur »** : désigne toute personne qui utilise les services proposés par la « Plateforme » (CFA ou organisme de formation, opérateur public, réseau d’organismes de formation, membre du Réseau des Carif-Oref, missions locales).
+*   **« DGEFP »** : Délégation générale à l’emploi et à la formation professionnelle ;
+*   **« Tableau de bord de l’apprentissage »** : Service numérique destiné à mettre à disposition de différents acteurs les données clés concernant l’apprentissage en temps réel ;
+*   **« Ministère »** : Ministère du Travail, du plein Emploi et de l’Insertion ;
+*   **« Utilisateur »** : désigne toute personne qui utilise les services proposés par la « Plateforme » (CFA ou organisme de formation, opérateur public, réseau d’organismes de formation, membre du Réseau des Carif-Oref, missions locales).
 
 ### Article 3 - Objet
 
@@ -69,20 +69,20 @@ En cas d’utilisation frauduleuse de son compte, l’Utilisateur s’engage à 
 
 Le Tableau de bord de l’apprentissage permet :
 
-* Le pilotage des dispositifs relatifs à la politique de l’apprentissage ;
-* L’aide à ceux qui peuvent agir à accompagner les apprentis en situation de rupture ou sans contrat ;
-* La simplification de la délivrance d’informations par les CFA, en utilisant la donnée pour préremplir les enquêtes nationales qui leur sont demandées ;
-* Le remplissage de contrats CERFA.
+*   Le pilotage des dispositifs relatifs à la politique de l’apprentissage ;
+*   L’aide à ceux qui peuvent agir à accompagner les apprentis en situation de rupture ou sans contrat ;
+*   La simplification de la délivrance d’informations par les CFA, en utilisant la donnée pour préremplir les enquêtes nationales qui leur sont demandées ;
+*   Le remplissage de contrats CERFA.
 
   
   
 Chaque Utilisateur peut :
 
-* Consulter des données de l’apprentissage à des fins de pilotage ;
-* Exporter des fichiers sous format agrégat de données de l’apprentissage ;
-* Consulter pour une partie des Utilisateurs habilités des listes nominatives d’apprentis en situation de rupture ou d’abandon à des fins d’accompagnement ;
-* Permettre aux organismes de formation de déposer des fichiers de données pour alimenter les chiffres de la Plateforme ;
-* Optimiser la création de ses contrats d’apprentissage via un formulaire CERFA assisté.
+*   Consulter des données de l’apprentissage à des fins de pilotage ;
+*   Exporter des fichiers sous format agrégat de données de l’apprentissage ;
+*   Consulter pour une partie des Utilisateurs habilités des listes nominatives d’apprentis en situation de rupture ou d’abandon à des fins d’accompagnement ;
+*   Permettre aux organismes de formation de déposer des fichiers de données pour alimenter les chiffres de la Plateforme ;
+*   Optimiser la création de ses contrats d’apprentissage via un formulaire CERFA assisté.
 
   
   
@@ -102,21 +102,21 @@ La DGEFP met en place les moyens nécessaires pour assurer le bon fonctionnement
 
 La DGEFP ne saurait être responsable :
 
-* En raison d'une interruption du service quelle que soit la durée ou la fréquence de cette interruption et quelle qu'en soit la cause, notamment en raison d'une maintenance nécessaire au fonctionnement, de pannes éventuelles, d'aléas techniques liés à la nature du réseau Internet, d'actes de malveillance ou de toute atteinte portée au fonctionnement de la Plateforme ;
-* Sauf faute ou négligence prouvée de la DGEFP, des atteintes à la confidentialité des données personnelles de l’Utilisateur résultant de l’utilisation de son identifiant ou de son mot de passe ;
-* Des conséquences provoquées par le caractère erroné ou frauduleux des informations fournies par un Utilisateur ;
-* Des dommages directs ou indirects résultant de l'attitude, de la conduite ou du comportement d'un autre Utilisateur ;
-* Des atteintes à la sécurité du système d’information, ainsi qu’aux données, pouvant causer des dommages aux matériels informatiques des Utilisateurs et à leurs données dès lors que le fait ne lui est pas imputable.
+*   En raison d'une interruption du service quelle que soit la durée ou la fréquence de cette interruption et quelle qu'en soit la cause, notamment en raison d'une maintenance nécessaire au fonctionnement, de pannes éventuelles, d'aléas techniques liés à la nature du réseau Internet, d'actes de malveillance ou de toute atteinte portée au fonctionnement de la Plateforme ;
+*   Sauf faute ou négligence prouvée de la DGEFP, des atteintes à la confidentialité des données personnelles de l’Utilisateur résultant de l’utilisation de son identifiant ou de son mot de passe ;
+*   Des conséquences provoquées par le caractère erroné ou frauduleux des informations fournies par un Utilisateur ;
+*   Des dommages directs ou indirects résultant de l'attitude, de la conduite ou du comportement d'un autre Utilisateur ;
+*   Des atteintes à la sécurité du système d’information, ainsi qu’aux données, pouvant causer des dommages aux matériels informatiques des Utilisateurs et à leurs données dès lors que le fait ne lui est pas imputable.
 
 ### Article 12 - Responsabilité des Utilisateurs
 
 Dans le cadre de l’utilisation de la Plateforme, l’Utilisateur s’engage à :
 
-* Se conformer aux stipulations décrites dans les CGU et aux dispositions des lois et règlements en vigueur, et à respecter les droits des tiers ;
-* Ne créer qu'un seul compte Utilisateur et ne communiquer que des informations, fichiers et autres contenus conformes à la réalité, honnêtes et loyaux ;
-* Ne pas divulguer via la Plateforme des propos ou des contenus illicites, et notamment tous contenus contrefaits, diffamatoires, injurieux, insultants, obscènes, offensants, discriminatoires, violents, xénophobes, incitant à la haine raciale ou faisant l'apologie du terrorisme, ou tout autre contenu contraire à la législation et réglementation applicable ainsi qu'aux bonnes mœurs et aux règles de bienséance ;
-* Ne pas intégrer et diffuser via la Plateforme du contenu qui serait contraire à la finalité de celle-ci ;
-* Ne pas communiquer ou envoyer, par l'intermédiaire de la Plateforme, du contenu, quel qu'il soit, qui comprendrait des liens pointant vers des sites internet illicites, offensants ou incompatibles avec la finalité de la Plateforme.
+*   Se conformer aux stipulations décrites dans les CGU et aux dispositions des lois et règlements en vigueur, et à respecter les droits des tiers ;
+*   Ne créer qu'un seul compte Utilisateur et ne communiquer que des informations, fichiers et autres contenus conformes à la réalité, honnêtes et loyaux ;
+*   Ne pas divulguer via la Plateforme des propos ou des contenus illicites, et notamment tous contenus contrefaits, diffamatoires, injurieux, insultants, obscènes, offensants, discriminatoires, violents, xénophobes, incitant à la haine raciale ou faisant l'apologie du terrorisme, ou tout autre contenu contraire à la législation et réglementation applicable ainsi qu'aux bonnes mœurs et aux règles de bienséance ;
+*   Ne pas intégrer et diffuser via la Plateforme du contenu qui serait contraire à la finalité de celle-ci ;
+*   Ne pas communiquer ou envoyer, par l'intermédiaire de la Plateforme, du contenu, quel qu'il soit, qui comprendrait des liens pointant vers des sites internet illicites, offensants ou incompatibles avec la finalité de la Plateforme.
 
 En outre, l'Utilisateur garantit expressément la véracité et la réalité des informations qu'il communique sur la Plateforme. Il est, par ailleurs, seul responsable de la préservation et de la confidentialité de son identifiant et mot de passe.  
   
