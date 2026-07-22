@@ -19,16 +19,16 @@ Le site internet [www.francetravail.fr](https://www.francetravail.fr/accueil/) 
 
  Le site permet à toute personne, sans qu’il soit nécessaire de créer un espace personnel, de :
 
-* s'abonner à des lettres d'information ;
-* solliciter France Travail à travers une foire aux questions (Questions et contacts);
-* consulter des offres d’emploi ;
-* rechercher des profils anonymes ;
-* estimer le coût salarial d’un collaborateur (anonyme) ;
-* s’informer sur le marché du travail ;
-* demander à être rappelé par un conseiller entreprise ;
-* rechercher des formations en cours ou terminées ;
-* s’informer sur les aides à l’embauche ;
-* rechercher des informations sur le droit du travail.
+*   s'abonner à des lettres d'information ;
+*   solliciter France Travail à travers une foire aux questions (Questions et contacts);
+*   consulter des offres d’emploi ;
+*   rechercher des profils anonymes ;
+*   estimer le coût salarial d’un collaborateur (anonyme) ;
+*   s’informer sur le marché du travail ;
+*   demander à être rappelé par un conseiller entreprise ;
+*   rechercher des formations en cours ou terminées ;
+*   s’informer sur les aides à l’embauche ;
+*   rechercher des informations sur le droit du travail.
 
 3\. Création d'un espace personnel
 ----------------------------------
@@ -39,18 +39,18 @@ France Travail met en place son système d’identification unique FranceTravail
 
 Pour l’identification lors de la création du compte, les informations nécessaires sont :
 
-* concernant le demandeur d’emploi : nom, prénom, sexe, mél, adresse, numéro d’inscription au répertoire national d’identification des personnes physiques (NIR – numéro de sécurité sociale) ;
-* concernant les candidats : nom, prénom, date de naissance, sexe, mél, adresse ;
-* concernant les recruteurs : nom, prénom, sexe, mél, numéro de téléphone, SIRET de l’entreprise ;
-* concernant les particuliers employeurs : nom, prénom, sexe, adresse, mél, numéro de téléphone, date et lieu de naissance, numéro d’inscription au répertoire national d’identification des personnes physiques (NIR – numéro de sécurité sociale).
+*   concernant le demandeur d’emploi : nom, prénom, sexe, mél, adresse, numéro d’inscription au répertoire national d’identification des personnes physiques (NIR – numéro de sécurité sociale) ;
+*   concernant les candidats : nom, prénom, date de naissance, sexe, mél, adresse ;
+*   concernant les recruteurs : nom, prénom, sexe, mél, numéro de téléphone, SIRET de l’entreprise ;
+*   concernant les particuliers employeurs : nom, prénom, sexe, adresse, mél, numéro de téléphone, date et lieu de naissance, numéro d’inscription au répertoire national d’identification des personnes physiques (NIR – numéro de sécurité sociale).
 
 Pour chaque espace personnel recrutement, un administrateur peut être désigné pour gérer les comptes recruteurs créés sur francetravail.fr par son établissement. Cela permet notamment de certifier les nouveaux comptes entreprise, autoriser ses collaborateurs à utiliser les services de francetravail.fr, supprimer/signaler/réactiver les espaces attachés à son SIRET, ou encore bloquer toute tentative de création d’un compte par une personne inconnue. Les adresses de courrier électronique utilisées pour la création d’espaces recruteurs malveillants sont bannies.
 
 Pour l’authentification lors de l’utilisation du compte, les informations nécessaires sont :
 
-* concernant les candidats et demandeurs d’emploi : nom d’utilisateur et mot de passe choisis par l’utilisateur. Par ailleurs, le code secret à 6 chiffres nécessaire pour réaliser son actualisation mensuelle par téléphone (3949) est fourni par France Travail, il peut être régénéré par France Travail ;
-* concernant les recruteurs : nom d’utilisateur et mot de passe choisis par l’utilisateur ;
-* concernant le particulier employeur : identifiant fourni par France Travail, mot de passe choisi par l’utilisateur.
+*   concernant les candidats et demandeurs d’emploi : nom d’utilisateur et mot de passe choisis par l’utilisateur. Par ailleurs, le code secret à 6 chiffres nécessaire pour réaliser son actualisation mensuelle par téléphone (3949) est fourni par France Travail, il peut être régénéré par France Travail ;
+*   concernant les recruteurs : nom d’utilisateur et mot de passe choisis par l’utilisateur ;
+*   concernant le particulier employeur : identifiant fourni par France Travail, mot de passe choisi par l’utilisateur.
 
 L’utilisateur communique des informations exactes et les met à jour régulièrement.
 
@@ -67,47 +67,47 @@ Les données indispensables pour la création d’un compte et l’utilisation d
 
  L’espace personnel candidat permet à toute personne, demandeur d’emploi ou non, de :
 
-* consulter et s’abonner à des offres d’emploi, télé-candidater à des offres d’emploi ;
-* publier son profil, de façon anonyme ou nominative, dans la banque de profils de France Travail ;
-* recevoir des propositions d’emploi ou de contact des employeurs disposant d’un espace recrutement ;
-* transmettre son profil ou d’autres données à des partenaires de France Travail pour faciliter la création ou l’utilisation d’un compte sur leur site de recherche d’emploi, leur réseau social professionnel ou leur service numérique en lien avec l’emploi, la formation ou l’orientation professionnelle ;
-* transmettre son profil au site internet Eures de l’Union européenne ;
-* rechercher des formations et enregistrer ses recherches ;
-* déposer une réclamation en ligne.
+*   consulter et s’abonner à des offres d’emploi, télé-candidater à des offres d’emploi ;
+*   publier son profil, de façon anonyme ou nominative, dans la banque de profils de France Travail ;
+*   recevoir des propositions d’emploi ou de contact des employeurs disposant d’un espace recrutement ;
+*   transmettre son profil ou d’autres données à des partenaires de France Travail pour faciliter la création ou l’utilisation d’un compte sur leur site de recherche d’emploi, leur réseau social professionnel ou leur service numérique en lien avec l’emploi, la formation ou l’orientation professionnelle ;
+*   transmettre son profil au site internet Eures de l’Union européenne ;
+*   rechercher des formations et enregistrer ses recherches ;
+*   déposer une réclamation en ligne.
 
 L’espace personnel candidat permet aussi aux demandeurs d’emploi de :
 
-* s’inscrire sur la liste des demandeurs d’emploi, faire une demande d’allocation d’aide au retour à l’emploi (ARE) et préparer le premier entretien du parcours personnalisé d’accès à l’emploi. Cette démarche s’effectue obligatoirement par Internet (avec une assistance en agence si nécessaire et, dans certains cas, la présentation de justificatifs à l’agence) ;
-* actualiser sa situation tous les mois (renouveler l’inscription sur la liste des demandeurs d’emploi) ;
-* accéder dans son espace personnel aux coordonnées de son conseiller, aux courriers de France Travail (convocations, notifications), aux avis de versement d’allocations et attestations de France Travail. Si le demandeur d’emploi y consent, la plupart de ces documents ne sera plus adressée par voie postale (mais les décisions de sanction sont toujours adressées par voie postale) ;
-* télécharger dans son espace personnel des justificatifs, attestations, courriers destinés à France Travail ;
-* s’inscrire à des prestations dans le cadre de son parcours personnalisé d’accès à l’emploi ;
-* demander des aides ;
-* prendre rendez-vous avec un conseiller et choisir sa modalité d’entretien (visioconférences, téléphone, agence) ;
-* réaliser, avec son consentement, des entretiens avec un conseiller France Travail par visioconférences ;
-* prendre rendez-vous pour une action de formation, valider un devis de formation, obtenir les justificatifs de formation.
+*   s’inscrire sur la liste des demandeurs d’emploi, faire une demande d’allocation d’aide au retour à l’emploi (ARE) et préparer le premier entretien du parcours personnalisé d’accès à l’emploi. Cette démarche s’effectue obligatoirement par Internet (avec une assistance en agence si nécessaire et, dans certains cas, la présentation de justificatifs à l’agence) ;
+*   actualiser sa situation tous les mois (renouveler l’inscription sur la liste des demandeurs d’emploi) ;
+*   accéder dans son espace personnel aux coordonnées de son conseiller, aux courriers de France Travail (convocations, notifications), aux avis de versement d’allocations et attestations de France Travail. Si le demandeur d’emploi y consent, la plupart de ces documents ne sera plus adressée par voie postale (mais les décisions de sanction sont toujours adressées par voie postale) ;
+*   télécharger dans son espace personnel des justificatifs, attestations, courriers destinés à France Travail ;
+*   s’inscrire à des prestations dans le cadre de son parcours personnalisé d’accès à l’emploi ;
+*   demander des aides ;
+*   prendre rendez-vous avec un conseiller et choisir sa modalité d’entretien (visioconférences, téléphone, agence) ;
+*   réaliser, avec son consentement, des entretiens avec un conseiller France Travail par visioconférences ;
+*   prendre rendez-vous pour une action de formation, valider un devis de formation, obtenir les justificatifs de formation.
 
 Il est interdit de capter et/ou diffuser l’image et/ou la voix des conseillers de France Travail, notamment lors des visioconférences auxquelles le demandeur d’emploi participe, sous peine de sanction pénale.  
 France Travail peut utiliser les numéros de téléphone fixe et/ou de mobile ainsi que l’adresse électronique pour contacter l’usager à propos de :
 
-* l’avancement de ses démarches liées à l’inscription sur la liste des demandeurs d’emploi ou à ses demandes d’allocations ou d’aides à l’emploi, pour tous les demandeurs d’emploi. Les courriers susceptibles d’avoir un impact sur l’inscription sur la liste des demandeurs d’emploi ou sur le versement des allocations sont adressés par voie postale. Si le demandeur d’emploi a consenti à la dématérialisation des courriers, un courrier électronique l’alerte lorsqu’un courrier (document au format pdf) est déposé dans son espace personnel ;
-* son accompagnement dans le cadre du parcours personnalisé d’accès à l’emploi (si le demandeur d’emploi opte pour un accompagnement dématérialisé) ;
-* son information sur l’emploi, l’orientation et la formation ;
-* la réalisation d’enquêtes de satisfaction sur les services de France Travail.
+*   l’avancement de ses démarches liées à l’inscription sur la liste des demandeurs d’emploi ou à ses demandes d’allocations ou d’aides à l’emploi, pour tous les demandeurs d’emploi. Les courriers susceptibles d’avoir un impact sur l’inscription sur la liste des demandeurs d’emploi ou sur le versement des allocations sont adressés par voie postale. Si le demandeur d’emploi a consenti à la dématérialisation des courriers, un courrier électronique l’alerte lorsqu’un courrier (document au format pdf) est déposé dans son espace personnel ;
+*   son accompagnement dans le cadre du parcours personnalisé d’accès à l’emploi (si le demandeur d’emploi opte pour un accompagnement dématérialisé) ;
+*   son information sur l’emploi, l’orientation et la formation ;
+*   la réalisation d’enquêtes de satisfaction sur les services de France Travail.
 
 ### 3.2. Espace personnel « recrutement »
 
  L’espace personnel « recrutement » permet de :
 
-* déposer des offres d’emploi ;
-* diffuser des offres d’emploi sur francetravail.fr ;
-* recevoir des candidatures en réponse aux offres d’emploi ;
-* consulter des profils ;
-* envoyer des propositions d’emploi ou de contact aux candidats dont le profil correspond à sa recherche ;
-* accéder dans son espace personnel aux coordonnées de son conseiller, du service entreprise de son agence France Travail ;
-* créer une page employeur;
-* accéder à une plateforme de recrutement (Salons en ligne de France Travail).
-* demander et gérer une demande de Préparation opérationnelle à l’emploi individuelle (POEI).
+*   déposer des offres d’emploi ;
+*   diffuser des offres d’emploi sur francetravail.fr ;
+*   recevoir des candidatures en réponse aux offres d’emploi ;
+*   consulter des profils ;
+*   envoyer des propositions d’emploi ou de contact aux candidats dont le profil correspond à sa recherche ;
+*   accéder dans son espace personnel aux coordonnées de son conseiller, du service entreprise de son agence France Travail ;
+*   créer une page employeur;
+*   accéder à une plateforme de recrutement (Salons en ligne de France Travail).
+*   demander et gérer une demande de Préparation opérationnelle à l’emploi individuelle (POEI).
 
 Les offres d’emploi diffusées sur francetravail.fr sont transmises au portail [Eures de l’Union européenne](https://ec.europa.eu/eures/public/fr/homepage) et sont mises à disposition via une API des partenaires de France Travail qui adhèrent à la [licence de réutilisation](https://www.emploi-store-dev.fr/portail-developpeur/detailapicatalogue/59438edb243a5f952c5d9e8c) des offres (à l’exception des données de contact). Ces offres pourront être réutilisées pour tout usage et notamment être rediffusées sur des sites tiers.  
 Il est interdit de constituer des fichiers de candidatures à d’autres fins qu’un recrutement par le titulaire de l’espace et à plus forte raison à des fins de revente ou à des fins publicitaires.  
@@ -117,15 +117,15 @@ Le représentant légal de l’entreprise (au niveau du SIREN), est considéré 
 
 L’espace personnel « employeur » permet de :
 
-* délivrer l’attestation visée à l'article R. 1234-9 du code du travail permettant aux salariés de bénéficier des allocations de chômage à la fin du contrat de travail ;
-* effectuer les demandes de Contrat de sécurisation professionnelle (CSP) ;
-* accomplir certaines autres obligations déclaratives pour des catégories de salariés spécifiques ;
+*   délivrer l’attestation visée à l'article R. 1234-9 du code du travail permettant aux salariés de bénéficier des allocations de chômage à la fin du contrat de travail ;
+*   effectuer les demandes de Contrat de sécurisation professionnelle (CSP) ;
+*   accomplir certaines autres obligations déclaratives pour des catégories de salariés spécifiques ;
 
 ### 3.4. Espace personnel « particulier employeur »
 
 L’espace « particulier employeur » permet de :
 
-* obtenir une attestation employeur.
+*   obtenir une attestation employeur.
 
 4\. Respect de la réglementation en vigueur
 -------------------------------------------
@@ -151,16 +151,16 @@ L’employeur accomplit les démarches nécessaires à l’embauche des travaill
 
 La diffusion des offres d’emploi auprès du public est réglementée (articles L.5331-1 à L.5332-5 et R. 5332-1 et -2 du code du travail) et le non-respect de ces règles est pénalement sanctionnée (article L.5334-1 du code du travail). Les grands principes à respecter lors de la rédaction de vos offres d’emploi sont rappelés ci-dessous :
 
-* toute offre publiée ou diffusée doit être datée (article L5332-1 Code du travail) ;
-* l’accès aux offres d’emploi doit être gratuit (articles L.5321-3 et L.5324-1 du code du travail). L’employeur s’engage notamment à ne pas mentionner un numéro de téléphone surtaxé dans l’offre d’emploi. Dans le cas contraire, France Travail peut supprimer la mention du numéro de téléphone surtaxé ;
-* les offres d’emploi doivent être rédigées en langue française (article L.5331-4 du code du travail) ;
-* l’offre doit préciser clairement si l’emploi porte sur un travail salarié (contrat de travail) ou non salarié (absence de contrat de travail). La personne à l’origine de la diffusion de l’offre d’emploi s’engage notamment à ne jamais proposer une offre d’emploi pour un emploi salarié alors que la procédure de recrutement vise en réalité à proposer un emploi non salarié, le cas échéant, en échange du versement d’une somme d’argent ;
-* l’offre d’emploi peut être anonyme. En ce cas, le nom de l’entreprise n’apparaît pas dans l’offre. Cependant, l’employeur doit faire connaître son nom ou sa raison sociale ainsi que son adresse à France Travail (article L.5332-2 du code du travail). La personne à l’origine de la diffusion de l’offre d’emploi s’engage à ne pas usurper l’identité d’une entreprise tierce ;
-* l’offre doit correspondre à un emploi réel et disponible (article L.5331-3 du code du travail et délibération de la CNIL n°02-017 du 21 mars 2002 portant adoption d’une recommandation relative à la collecte et au traitement d’informations nominatives lors d’opérations de recrutement) ;
-* l’offre doit correspondre à un emploi réel et disponible (article L. 5331-3 du code du travail ) ;
-* il est interdit de publier ou de diffuser une offre d’emploi ou de travail à domicile comportant des allégations fausses ou susceptibles d’induire en erreur, sous peine d’un d’emprisonnement d’un an et d’une amende de 37 500 € (articles L.5331-3 et 5334-1 du code du travail). L’employeur est responsable du contenu des offres d’emploi dont il demande la publication à France Travail. L’employeur est également seul responsable de la procédure de recrutement qu’il met en place pour pourvoir ses offres d’emploi ;
-* l'employeur ne peut exiger dans une offre d’emploi que les renseignements et documents ayant un lien direct avec l’exercice du poste à pourvoir (articles L.1121-1 et L.1132-1du code du travail) ;
-* sauf exceptions prévues par la loi ou par un règlement, l’offre d’emploi ne doit pas mentionner de critère discriminatoire fondé sur le sexe, l’orientation sexuelle, l’identité sexuelle, l’âge, la situation de famille, les mœurs, l’état de grossesse, la particulière vulnérabilité résultant de sa situation économique apparente ou connue de son auteur, l’origine, l’appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, les opinions politiques, les activités syndicales ou mutualistes, les convictions religieuses, les caractéristiques génétiques, l’apparence physique, le patronyme, l’état de santé ou le handicap, ou de sa perte d’autonomie, la capacité à s’exprimer dans une langue autre que le français, sous peine de trois ans d’emprisonnement et d’une amende de 45 000 € (articles L.5321-2, L.1132-1, L.1142-1 du code du travail, articles 225-1 et suivants du code pénal).
+*   toute offre publiée ou diffusée doit être datée (article L5332-1 Code du travail) ;
+*   l’accès aux offres d’emploi doit être gratuit (articles L.5321-3 et L.5324-1 du code du travail). L’employeur s’engage notamment à ne pas mentionner un numéro de téléphone surtaxé dans l’offre d’emploi. Dans le cas contraire, France Travail peut supprimer la mention du numéro de téléphone surtaxé ;
+*   les offres d’emploi doivent être rédigées en langue française (article L.5331-4 du code du travail) ;
+*   l’offre doit préciser clairement si l’emploi porte sur un travail salarié (contrat de travail) ou non salarié (absence de contrat de travail). La personne à l’origine de la diffusion de l’offre d’emploi s’engage notamment à ne jamais proposer une offre d’emploi pour un emploi salarié alors que la procédure de recrutement vise en réalité à proposer un emploi non salarié, le cas échéant, en échange du versement d’une somme d’argent ;
+*   l’offre d’emploi peut être anonyme. En ce cas, le nom de l’entreprise n’apparaît pas dans l’offre. Cependant, l’employeur doit faire connaître son nom ou sa raison sociale ainsi que son adresse à France Travail (article L.5332-2 du code du travail). La personne à l’origine de la diffusion de l’offre d’emploi s’engage à ne pas usurper l’identité d’une entreprise tierce ;
+*   l’offre doit correspondre à un emploi réel et disponible (article L.5331-3 du code du travail et délibération de la CNIL n°02-017 du 21 mars 2002 portant adoption d’une recommandation relative à la collecte et au traitement d’informations nominatives lors d’opérations de recrutement) ;
+*   l’offre doit correspondre à un emploi réel et disponible (article L. 5331-3 du code du travail ) ;
+*   il est interdit de publier ou de diffuser une offre d’emploi ou de travail à domicile comportant des allégations fausses ou susceptibles d’induire en erreur, sous peine d’un d’emprisonnement d’un an et d’une amende de 37 500 € (articles L.5331-3 et 5334-1 du code du travail). L’employeur est responsable du contenu des offres d’emploi dont il demande la publication à France Travail. L’employeur est également seul responsable de la procédure de recrutement qu’il met en place pour pourvoir ses offres d’emploi ;
+*   l'employeur ne peut exiger dans une offre d’emploi que les renseignements et documents ayant un lien direct avec l’exercice du poste à pourvoir (articles L.1121-1 et L.1132-1du code du travail) ;
+*   sauf exceptions prévues par la loi ou par un règlement, l’offre d’emploi ne doit pas mentionner de critère discriminatoire fondé sur le sexe, l’orientation sexuelle, l’identité sexuelle, l’âge, la situation de famille, les mœurs, l’état de grossesse, la particulière vulnérabilité résultant de sa situation économique apparente ou connue de son auteur, l’origine, l’appartenance ou la non-appartenance, vraie ou supposée, à une ethnie, une nation ou une race, les opinions politiques, les activités syndicales ou mutualistes, les convictions religieuses, les caractéristiques génétiques, l’apparence physique, le patronyme, l’état de santé ou le handicap, ou de sa perte d’autonomie, la capacité à s’exprimer dans une langue autre que le français, sous peine de trois ans d’emprisonnement et d’une amende de 45 000 € (articles L.5321-2, L.1132-1, L.1142-1 du code du travail, articles 225-1 et suivants du code pénal).
 
 France Travail peut dépublier toute offre d’emploi ne répondant pas aux dispositions du présent article et, le cas échéant, le compte recrutement associé à la création de ces offres d’emploi.
 
@@ -168,23 +168,23 @@ France Travail peut dépublier toute offre d’emploi ne répondant pas aux disp
 
 L’utilisateur s’engage, sous peine de sanctions pénales, à ne pas diffuser de contenus illicites, particulièrement ceux constituant les infractions visées à l’article 6 IV de la loi n°2004-575 du 21 juin 2004 pour une république numérique (LCEN), notamment l’apologie ou l’incitation à commettre les actes suivants :
 
-* crimes contre l’humanité, génocides ou à l’esclavage ;
-* actes de terrorisme ou consistant à s’armer contre l’Etat ou une partie de la population ou des violences contre les personnes dépositaires de l’autorité publique ou chargées d’une mission de service public ;
-* discrimination, haine ou violence à l’égard d’une personne ou d’un groupe de personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance à une ethnie, une nation, une race ou une religion déterminée, ou à raison de leur sexe, de leur orientation sexuelle ou identité de genre ou de leur handicap ;
-* pratiques, comportements ou propos répétés visant à modifier ou réprimer l’orientation sexuelle ou l’identité de genre ;
-* proxénétisme, pédopornographie, relations sexuelles avec des mineurs ;
-* harcèlement, notamment sexuel, moral ou scolaire ;
-* suicide ;
-* trafic de stupéfiant ;
-* consommation d’alcool par les mineurs ;
-* violence de façon générale, notamment à l’encontre des femmes ;
-* propos injurieux ou diffamatoires.
+*   crimes contre l’humanité, génocides ou à l’esclavage ;
+*   actes de terrorisme ou consistant à s’armer contre l’Etat ou une partie de la population ou des violences contre les personnes dépositaires de l’autorité publique ou chargées d’une mission de service public ;
+*   discrimination, haine ou violence à l’égard d’une personne ou d’un groupe de personnes à raison de leur origine ou de leur appartenance ou de leur non-appartenance à une ethnie, une nation, une race ou une religion déterminée, ou à raison de leur sexe, de leur orientation sexuelle ou identité de genre ou de leur handicap ;
+*   pratiques, comportements ou propos répétés visant à modifier ou réprimer l’orientation sexuelle ou l’identité de genre ;
+*   proxénétisme, pédopornographie, relations sexuelles avec des mineurs ;
+*   harcèlement, notamment sexuel, moral ou scolaire ;
+*   suicide ;
+*   trafic de stupéfiant ;
+*   consommation d’alcool par les mineurs ;
+*   violence de façon générale, notamment à l’encontre des femmes ;
+*   propos injurieux ou diffamatoires.
 
 Par ailleurs, l’utilisateur s’engage à ne pas mettre en ligne des contenus inappropriés, notamment :
 
-* sans rapport avec l’objet des services de France Travail ;
-* comportant des opinions, politiques, religieuses ou philosophiques ;
-* contraires aux bonnes mœurs.
+*   sans rapport avec l’objet des services de France Travail ;
+*   comportant des opinions, politiques, religieuses ou philosophiques ;
+*   contraires aux bonnes mœurs.
 
 ###   
  4.4. Signalements de contenus illicites ou inappropriés
@@ -215,11 +215,3 @@ Les autres contenus constituent des informations publiques librement réutilisab
 
 Que pensez-vous de cet article ?  
 Notez-le en 1 clic
-
- 
-
-Évaluation de larticle {0} :
-
-140 notes
-
-notÃ©  4 sur 5
