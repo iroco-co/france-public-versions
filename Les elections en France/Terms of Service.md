@@ -1,7 +1,7 @@
 Voir le fil d’Ariane
 
-1. [Accueil](https://www.elections.interieur.gouv.fr/)
-2. Mentions légales
+1.  [Accueil](https://www.elections.interieur.gouv.fr/)
+2.  Mentions légales
 
 Mentions légales
 ================
@@ -43,9 +43,9 @@ Copyright et droit d'auteur
 
 Les informations mises en ligne sur le site ["Les élections en France"](https://www.elections.interieur.gouv.fr/ "Lien externe - &amp;quot;Les élections en France&amp;quot; - Nouvelle fenêtre") sont publiques et ne sont couvertes par aucun droit d’auteur (art. L. 122-5 du Code de la propriété intellectuelle) ; elles peuvent être reproduites librement, sous trois conditions :
 
-* le respect de l’intégrité de l’information reproduite ;
-* la citation de la source ;
-* la mention selon laquelle les droits de reproduction sont réservés et strictement limités.
+*   le respect de l’intégrité de l’information reproduite ;
+*   la citation de la source ;
+*   la mention selon laquelle les droits de reproduction sont réservés et strictement limités.
 
 Toute utilisation à des fins commerciales ou publicitaire est interdite.
 
@@ -106,7 +106,7 @@ Pour lire le format PDF, plusieurs lecteurs libres et gratuits existent. Le site
 
 ### Accès au site
 
-Le ministère de l’Intérieur ainsi que l’hébergeur s’efforcent de permettre que les internautes puissent avoir accès en continu au site ["Les élections en France"](https://www.elections.interieur.gouv.fr/www.elections.interieur.gouv.fr ""Les élections en France""). 
+Le ministère de l’Intérieur ainsi que l’hébergeur s’efforcent de permettre que les internautes puissent avoir accès en continu au site ["Les élections en France"](https://www.elections.interieur.gouv.fr/www.elections.interieur.gouv.fr "\"Les élections en France\""). 
 
 Néanmoins, le ministère se réserve le droit de ne pouvoir garantir l’accessibilité à son site internet et à l’ensemble des téléservices proposés en cas de force majeure (panne, intention technique de maintenance).
 
