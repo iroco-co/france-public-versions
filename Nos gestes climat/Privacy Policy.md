@@ -1,314 +1,314 @@
-When you use our simulator, all data entered and calculations performed remain strictly on your browser. We do not collect any personal information related to your responses, unless you voluntarily choose to provide your email address. In this case, your simulation data may be saved on our servers, solely for the purpose of allowing you to retrieve it later.
+Lorsque vous utilisez notre simulateur, l'ensemble des données saisies et des calculs effectués restent strictement sur votre navigateur. Nous ne collectons aucune information personnelle liée à vos réponses, sauf si vous choisissez volontairement de renseigner votre adresse e-mail. Dans ce cas, les données de votre simulation pourront être enregistrées sur nos serveurs, dans le seul but de vous permettre de les retrouver ultérieurement.
 
-We anonymously collect certain navigation data — such as pages visited or visit duration — exclusively for the purpose of improving the simulator's functionality and ergonomics. Cookies may be used to ensure the proper functioning of the site and measure its audience. You can consult the list of cookies used and associated data below on this page.
+Nous collectons de manière anonyme certaines données de navigation — telles que les pages consultées ou la durée des visites — dans le but exclusif d’améliorer le fonctionnement et l’ergonomie du simulateur. Des cookies peuvent être utilisés pour assurer le bon fonctionnement du site et mesurer son audience. Vous pouvez consulter la liste des cookies utilisés et les données associées plus bas sur cette page.
 
-**Privacy Policy**
-==================
+**Politique de confidentialité**
+================================
 
-Updated on 17/07/2025
+Mis à jour le 17/07/2025
 
-The French Environment and Energy Management Agency, a public industrial and commercial establishment whose headquarters is located at 20, avenue du Grésillé 49000 Angers (hereinafter "ADEME"), attaches great importance to the protection of Personal Data that it has to collect and process as data controller, within the framework of the Nos Gestes Climat website activity (hereinafter the "Site").
+L’Agence de l’Environnement et de la Maîtrise de l’Énergie, établissement public à caractère industriel et commercial dont le siège est situé 20, avenue du Grésillé 49000 Angers (ci-après « ADEME »), attache une grande importance à la protection des Données à caractère personnel qu’elle a à collecter et traiter en tant que responsable de traitement, dans le cadre de l’activité du site Nos Gestes Climat (ci-après le « Site »).
 
-Thus, the collection and Processing of Personal Data carried out by ADEME within the framework of the operation of its activity and the use of its products or services, its information or communication websites, its databases, its web applications, potentially requiring account creation and allowing user/application interaction and its mobile applications are governed by this data protection policy (hereinafter referred to as the "Policy").
+Ainsi, la collecte et le Traitement des Données à caractère personnel effectués par l’ADEME dans le cadre de l’exploitation de son activité et de l’utilisation de ses produits ou services, ses sites Internet d’information ou de communication, ses bases de données, ses applications web, nécessitant éventuellement une création de compte et permettant une interaction utilisateur/application et ses applications mobiles sont régis par la présente politique de protection des données (ci-après désignée la « Politique »).
 
-All Personal Data Processing implemented within the framework of accessible Services complies with applicable regulations on personal data protection and in particular the provisions of the "Informatique et libertés" law of January 6, 1978 as amended and the General Data Protection Regulation (EU Regulation 2016/679) ("GDPR").
+L’ensemble des Traitements de Données personnelles mis en œuvre dans le cadre des Services accessibles respecte la réglementation applicable en matière de protection des données personnelles et notamment les dispositions de la loi « Informatique et libertés » du 6 janvier 1978 modifiée et le Règlement général sur la Protection des données (Règlement UE 2016/679) (« RGPD »).
 
-To ensure the proper application of these rules, ADEME has designated a Data Protection Officer who is the privileged relay of the National Commission for Information Technology and Civil Liberties ("CNIL"). ADEME also implements appropriate internal procedures to raise awareness among its employees and ensure compliance with these rules within its organization.
+Afin de veiller à la bonne application de ces règles, l’ADEME a désigné un délégué à la protection des données qui est le relais privilégié de la Commission nationale de l’informatique et des libertés (« CNIL »). L’ADEME met également en œuvre les procédures internes adéquates afin de sensibiliser ses employés et d’assurer le respect de ces règles au sein de son organisation.
 
-This Policy aims to present to Data Subjects as defined below:
+Cette Politique a pour but de présenter aux Personnes concernées telles que définies ci-après :
 
-*   the manner in which ADEME processes Personal Data, as defined below, that it collects and that Data Subjects, as defined below, provide with their consent or on the basis of any other legal basis to enable the provision of ADEME Products or Services in particular;
-*   the rights of Data Subjects;
-*   any beneficiaries of data transfers.
+*   la manière dont l’ADEME traite les Données à caractère personnel, telles que définies ci-après, qu’elle collecte et que les Personnes concernées, telles que définies ci-après, fournissent avec leur consentement ou sur le fondement de toute autre base légale pour permettre la fourniture des Produits ou Services de l’ADEME notamment ;
+*   les droits des Personnes concernées ;
+*   les éventuels bénéficiaires d’un transfert de données.
 
-Data Subjects are thus invited to read this Policy carefully to know and understand ADEME's practices regarding Personal Data Processing that ADEME implements.
+Les Personnes concernées sont ainsi invitées à lire attentivement la présente Politique pour connaître et comprendre les pratiques de l’ADEME quant aux Traitements des Données à caractère personnel que l’ADEME met en œuvre.
 
-1\. Definitions
+1\. Définitions
 ---------------
 
-Terms used with a capital letter have the definition given to them below.
+Les termes employés avec une majuscule ont la définition qui leur est donnée ci-après.
 
-Terms have the same definition whether used in singular or plural.
+Les termes ont la même définition qu’ils soient employés au singulier ou au pluriel.
 
-*   "Personal Data" refers to any information relating to an identified or identifiable natural person.
-*   "Data Subject(s)" refers to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier, such as a name, an identification number, location data, an online identifier, or to one or more specific elements of their physical, physiological, genetic, mental, economic, cultural or social identity.
-*   "Products" refers to ADEME's products.
-*   "Data Controller" refers to ADEME which is the legal person who, alone or jointly with others, determines the purposes and means of processing.
-*   "Services" refers to services provided by ADEME.
-*   "Sites" refers to all web pages and resources accessible on the Internet.
-*   "Processing" refers to any operation or set of operations performed or not using automated processes and applied to personal data or sets of personal data, such as collection, recording, organization, structuring, storage, adaptation or modification, extraction, consultation, use, communication by transmission, dissemination or any other form of making available, comparison or interconnection, limitation, erasure or destruction.
+*   « Données à caractère personnel » ou « Données personnelles » désignent toute information se rapportant à une personne physique identifiée ou identifiable.
+*   « Personne(s) concernée(s) » désigne une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.
+*   « Produits » désigne les produits de l’ADEME.
+*   « Responsable du traitement » désigne l’ADEME qui est la personne morale qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement.
+*   « Services » désigne les services fournis par l’ADEME.
+*   « Sites » désigne l’ensemble des pages web et des ressources accessibles sur Internet.
+*   « Traitement » désigne toute opération ou tout ensemble d'opérations effectuées ou non à l'aide de procédés automatisés et appliquées à des données ou des ensembles de données à caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la structuration, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utilisation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rapprochement ou l'interconnexion, la limitation, l'effacement ou la destruction.
 
-2\. What are ADEME's commitments regarding Personal Data protection?
---------------------------------------------------------------------
+2\. Quels sont les engagements de l’ADEME en matière de protection des Données personnelles ?
+---------------------------------------------------------------------------------------------
 
-ADEME undertakes to guarantee a high level of protection of Personal Data of Data Subjects who use its Sites and other Products or Services and of any other person whose Personal Data it processes.
+L’ADEME s'engage à garantir un niveau de protection élevé des Données personnelles des Personnes concernées qui utilisent ses Sites et autres Produits ou Services et de toute autre personne dont elle traite les Données à caractère personnel.
 
-ADEME undertakes to comply with applicable regulations (notably articles 5 and 6 of the GDPR) for all Personal Data Processing that it implements. More particularly, ADEME undertakes in particular to respect the following principles:
+L’ADEME s’engage à respecter la règlementation applicable (notamment les articles 5 et 6 du RGPD) à l’ensemble des Traitements de Données à caractère personnel qu’elle met en œuvre. Plus particulièrement, l’ADEME s’engage notamment à respecter les principes suivants :
 
-*   Personal Data is processed lawfully, fairly and transparently (lawfulness, fairness, transparency);
-*   Personal Data is collected for determined, explicit and legitimate purposes, and is not subsequently processed in a manner incompatible with these purposes (purpose limitation);
-*   Personal Data is kept adequately, relevantly and is limited to what is necessary in relation to the purposes for which it is processed (data minimization);
-*   Personal Data is accurate, kept up to date and all reasonable measures are taken to ensure that inaccurate data, having regard to the purposes for which it is processed, are erased or rectified without delay (accuracy).
+*   les Données à caractère personnel sont traitées de manière licite, loyale et transparente (licéité, loyauté, transparence) ;
+*   les Données à caractère personnel sont collectées pour des finalités déterminées, explicites et légitimes, et ne sont pas traitées ultérieurement d’une manière incompatible avec ces finalités (limitation des finalités) ;
+*   les Données à caractère personnel sont conservées de manière adéquate, pertinente et sont limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées (minimisation des données) ;
+*   les Données à caractère personnel sont exactes, tenues à jour et toutes les mesures raisonnables sont prises pour que les données inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder (exactitude).
 
-ADEME implements appropriate technical and organizational measures to guarantee a level of security adapted to the risk inherent in its Processing operations, meet regulatory requirements and protect the rights and Personal Data of Data Subjects from the design of Processing operations.
+L’ADEME met en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité adapté au risque inhérent à ses opérations de Traitement, répondre aux exigences règlementaires et protéger les droits et les Données à caractère personnel des Personnes concernées dès la conception des opérations de Traitement.
 
-Furthermore, ADEME contractually imposes the same level of Personal Data protection on its subcontractors (service providers, suppliers, etc.).
+Par ailleurs, l’ADEME impose contractuellement le même niveau de protection des Données à caractère personnel à ses sous-traitants (prestataires, fournisseurs, etc.).
 
-Finally, ADEME undertakes to respect any other principle imposed by applicable regulations on Personal Data protection, and more precisely concerning the rights conferred on Data Subjects, the retention periods of Personal Data as well as obligations relating to cross-border transfers of Personal Data.
+Enfin, l’ADEME s’engage à respecter tout autre principe s’imposant au regard de la règlementation applicable en matière de protection des Données personnelles, et plus précisément concernant les droits conférés aux Personnes concernées, les durées de conservation des Données à caractère personnel ainsi que les obligations relatives aux transferts transfrontaliers de Données à caractère personnel.
 
-3\. What are the categories of Personal Data collected?
--------------------------------------------------------
+3\. Quelles sont les catégories de Données à caractère personnel collectées ?
+-----------------------------------------------------------------------------
 
-In the context of using its products or services as well as its websites, several types of Personal Data may be collected by ADEME.
+Dans le cadre de l’utilisation de ses produits ou services ainsi que de ses Sites internet, plusieurs types de Données à caractère personnel peuvent être collectés par l’ADEME.
 
-Mainly, the data collected corresponds to the following categories:
+Principalement, les données collectées correspondant aux catégories suivantes :
 
-*   identification data: name, first name, pseudonym, date of birth;
-*   contact data: postal address, simulation region, email address.
-*   Data relating to transport habits (type of vehicle, type of transport mode, distances traveled, ownership, type of car)
-*   Data relating to housing (ownership, surface area)
-*   Data relating to consumption (food, purchases)
+*   données d’identification : nom, prénom, pseudonyme, date de naissance ;
+*   données de contact : adresse postale, région de simulation, adresse email.
+*   Données relatives aux habitudes de transport (type de véhicule, type de mode de transport, distance parcourues, propriété, type de voiture)
+*   Données relatives au logement (propriété, surface)
+*   Données relatives à la consommation (alimentation, achats)
 
-4\. Means of collecting Personal Data
--------------------------------------
+4\. Moyens de collecte des Données à caractère personnel
+--------------------------------------------------------
 
-Data Subjects may communicate their Personal Data to ADEME through various means and in particular on the Sites during internet navigation and through Products or Services, by filling out various collection forms, when subscribing to a newsletter, when creating an account, when submitting an application, when contacting ADEME or when transmitting Personal Data in other circumstances.
+Les Personnes concernées sont susceptibles de communiquer à l’ADEME leurs Données à caractère personnel par différents moyens et notamment sur les Sites lors de navigations internet et par le biais des Produits ou Services, en remplissant divers formulaires de collecte, lors d’une souscription à une newsletter, lors de la création d’un compte, lors du dépôt d’une candidature, lors de tout contact avec l’ADEME ou lors de toute autre transmission de Données à caractère personnel dans d’autres circonstances.
 
-5\. Processing purposes and legal bases
----------------------------------------
+5\. Finalités de traitements et bases juridiques
+------------------------------------------------
 
-The purposes of Personal Data Processing carried out by ADEME are based on the following legal bases: contractual execution, consent of Data Subjects, ADEME's legal and regulatory obligations, its legitimate interest or public interest mission.
+Les finalités des Traitement(s) de Données à caractère personnel effectués par l’ADEME reposent sur les bases légales suivantes : l’exécution contractuelle, le consentement des Personnes concernées, les obligations légales et réglementaires de l’ADEME, son intérêt légitime ou la mission d’intérêt public.
 
-The purposes associated with each legal basis are listed below:
+Les finalités associées à chaque base légale sont listées ci-dessous :
 
-*   Based on the execution of pre-contractual measures taken at the request of Data Subjects and/or on the execution of the contract they have entered into, ADEME implements Processing pursuing the following purposes:
-    *   management of the relationship of Site users with ADEME, including:
-        *   creation of a user account;
-        *   use of sites and services;
-        *   management of communications and monitoring of exchanges with users.
-*   Based on the consent of Data Subjects, ADEME implements Processing pursuing the following purposes:
-    *   provision of personalized Services, such as announcements, newsletters, training, etc.;
-    *   provision of optional Services such as interactive discussion spaces or chats;
-    *   management of user participation in games and contests;
-    *   management of cookies subject to consent (notably via Google which allows better management of our expenses and targeting).
-*   Based on compliance with its legal and regulatory obligations, ADEME implements Processing pursuing the following purposes:
-    *   development of Products and Services to facilitate the completion of administrative formalities necessary for processing requests from internet users and users;
-    *   management of responses to official requests from public or judicial authorities authorized for this purpose;
-    *   compliance with regulations applicable to our activity;
-    *   management of requests for exercise of rights.
-*   Based on its legitimate interests, ADEME implements Processing pursuing the following purposes:
-    *   development and improvement of new Products or Services and offers of Products or Services to internet users and/or benefiting the public;
-    *   fight against fraud, abuse, including also the management of consequences of this fraud or abuse;
-    *   management of security breaches or any technical problem encountered by Products or Services;
-    *   carrying out commercial prospecting operations aimed at professionals;
-    *   management of clients or employees within a group of companies for internal administrative management purposes;
-    *   management of user information requests and complaints;
-    *   establishment of any means of proof necessary for the defense of ADEME's rights;
-    *   management of cookies not subject to consent.
-*   Based on the public interest mission, ADEME implements Processing pursuing the following purposes:
-    *   Management of aid requests to facilitate the completion of administrative formalities necessary for processing user requests;
-    *   management of communications and monitoring of exchanges with users;
-    *   compliance with regulations applicable to our activity.
+*   En se fondant sur l’exécution des mesures pré-contractuelles prises à la demande des Personnes concernées et/ou sur l’exécution du contrat qu’elles ont souscrit, l’ADEME met en œuvre des Traitements poursuivant les finalités suivantes :
+    *   la gestion de la relation des utilisateurs des Sites avec l’ADEME, et ce incluant notamment :
+        *   la création d’un compte utilisateur ;
+        *   l’utilisation des sites et des services ;
+        *   la gestion des communications et le suivi des échanges avec les utilisateurs.
+*   En se fondant sur le consentement des Personnes concernées, l’ADEME met en œuvre des Traitements poursuivant les finalités suivantes :
+    *   la fourniture de Services personnalisés, tels que des annonces, newsletters, formations, etc. ;
+    *   la fourniture de Services facultatifs tels que les espaces de discussion interactifs ou tchats ;
+    *   la gestion de la participation des utilisateurs aux jeux et concours ;
+    *   la gestion des cookies soumis à consentement (notamment via Google qui permet de mieux piloter nos dépenses et ciblages).
+*   En se fondant sur le respect de ses obligations légales et réglementaires, l’ADEME met en œuvre des Traitements poursuivant les finalités suivantes :
+    *   le développement de Produits et Service permettant de faciliter l’accomplissement des formalités administratives nécessaires au traitement des demandes des internautes et utilisateurs ;
+    *   la gestion des réponses aux demandes officielles d’autorités publiques ou judiciaires habilitées à cet effet ;
+    *   le respect de la réglementation applicable à notre activité ;
+    *   la gestion des demandes d’exercice de droits.
+*   En se fondant sur ses intérêts légitimes, l’ADEME met en œuvre des Traitements poursuivant les finalités suivantes :
+    *   le développement et l’amélioration de nouveaux Produits ou Services et offres de Produits ou Services aux internautes et/ou profitant au public;
+    *   la lutte contre la fraude, les abus, en ce incluant également la gestion des conséquences de cette fraude ou de ces abus ;
+    *   la gestion des atteintes à la sécurité ou tout problème d’ordre technique rencontré par les Produits ou Services ;
+    *   la réalisation d’opérations de prospection commerciale à destination des professionnels ;
+    *   la gestion des clients ou des employés au sein d’un groupe d’entreprises à des fins de gestion administrative interne ;
+    *   la gestion des demandes d’information et réclamations des utilisateurs ;
+    *   l’établissement de tout moyen de preuve nécessaire à la défense des droits de l’ADEME ;
+    *   la gestion des cookies non soumis à consentement.
+*   En se fondant sur la mission d’intérêt public, l’ADEME met en œuvre des Traitements poursuivant les finalités suivantes :
+    *   La gestion des demandes d’aides permettant de faciliter l’accomplissement des formalités administratives nécessaires au traitement des demandes des utilisateurs ;
+    *   la gestion des communications et le suivi des échanges avec les utilisateurs ;
+    *   le respect de la réglementation applicable à notre activité.
 
-In the context of temporary and specific partnerships (contests, prizes to be won), ADEME's partners receive only email and identification data to contact the winners and provide them with the prizes.
+Dans le cadre de partenariat temporaire et spécifique (jeux-concours, lots à gagner), les partenaires de l'ADEME reçoivent les seules données d'e-mail et d'identification pour contacter les personnes victorieuses et leur fournir les gains.
 
-6\. How long is Personal Data retained?
----------------------------------------
+6\. Combien de temps les Données à caractère personnel sont-elles conservées ?
+------------------------------------------------------------------------------
 
-ADEME undertakes to retain Personal Data of Data Subjects for a period not exceeding that necessary for the accomplishment of the purposes for which it is processed, increased by the legal limitation period. Furthermore, ADEME retains Personal Data of Data Subjects in accordance with retention periods imposed by applicable laws in force, where applicable.
+L’ADEME s’engage à conserver les Données à caractère personnel des Personnes concernées pour une durée n’excédant pas celle nécessaire à l’accomplissement des finalités pour lesquelles elles sont traitées, augmentée du délai de prescription légale. De plus, l’ADEME conserve les Données à caractère personnel des Personnes concernées conformément aux durées de conservation imposées par les lois applicables en vigueur, le cas échéant.
 
-More precisely, ADEME organizes its data retention policy as follows:
+Plus précisément, l’ADEME organise sa politique de conservation des données de la manière suivante :
 
-| PURPOSES | RETENTION PERIODS |
+| FINALITÉS | DURÉES DE CONSERVATION |
 | --- | --- |
-| Management of ADEME Site users relationship | Data is retained for the entire duration of the contractual relationship: user account lifetime or last incoming contact (login or modification to personal space), increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. |
-| Provision of personalized Services | Data is retained for three (3) years from the last incoming contact |
-| Provision of optional Services | Data is retained for three (3) years from the last incoming contact |
-| Management of user participation in games and contests | Data is retained for three (3) years from the last incoming contact |
-| Development of Products and Services to facilitate the completion of administrative formalities necessary for processing requests from internet users and users | Data is retained for the entire duration of the completion of administrative formalities, increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. |
-| Management of responses to official requests from public or judicial authorities authorized for this purpose | Data is retained for the entire duration of the authorities' investigation. |
-| Management of requests for exercise of rights | Data is retained for one (1) or six (6) years, depending on the right exercised. |
-| Fight against fraud, abuse | Data may be retained for up to twelve (12) months from the issuance of alerts before being qualified. Alerts qualified as irrelevant or unqualified after the twelve (12) month period are deleted. Qualified alerts are retained for a maximum period of five (5) years from the closure of the fraud file. For persons registered on a list of proven fraudsters, data concerning them is deleted after the five (5) year period from the date of registration on this list. If legal proceedings have been initiated, data is retained until the end of the legal proceedings, increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. |
-| Management of security breaches | IT traces are retained for thirteen (13) months. |
-| Carrying out commercial prospecting operations aimed at professionals | Data is retained for three (3) years from the last incoming contact. |
-| Management of clients or employees within a group of companies for internal administrative management purposes | Data is retained for the entire duration of the contractual relationship, increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. |
-| Management of user information requests and complaints | In case of contractual relationship with ADEME, data is retained for the entire duration of the contractual relationship, increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. In case of absence of contractual relationship with ADEME, data is retained for three (3) years from the last incoming contact. |
-| Establishment of any means of proof necessary for the defense of ADEME's rights | In case of contractual relationship with ADEME, data is retained for the entire duration of the contractual relationship, increased by the legal limitation period. The limitation period for common law in civil and commercial matters is five (5) years from the end of the contract. In case of absence of contractual relationship with ADEME, data is retained for three (3) years from the last incoming contact. |
-| Cookie management | Your cookie choices are retained for 6 months. Data collected through cookies is retained for 25 months. This allows us to analyze the evolution of your footprints over time. |
+| Gestion de la relation des utilisateurs des Sites de l'ADEME | Les données sont conservées pendant toute la durée de la relation contractuelle : durée de vie du compte utilisateur ou dernier contact entrant (connexion ou modification à l'espace personnel), augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. |
+| Fourniture de Services personnalisés | Les données sont conservées pendant trois (3) ans à partir du dernier contact entrant |
+| Fourniture de Services facultatifs | Les données sont conservées pendant trois (3) ans à partir du dernier contact entrant |
+| Gestion de la participation des utilisateurs aux jeux et concours | Les données sont conservées pendant trois (3) ans à partir du dernier contact entrant |
+| Développement de Produits et Service permettant de faciliter l'accomplissement des formalités administratives nécessaires au traitement des demandes des internautes et utilisateurs | Les données sont conservées pendant toute la durée de l'accomplissement des formalités administratives, augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. |
+| Gestion des réponses aux demandes officielles d'autorités publiques ou judiciaires habilitées à cet effet | Les données sont conservées pendant toute la durée de l'instruction des autorités. |
+| Gestion des demandes d'exercice de droits | Les données sont conservées pendant un (1) ou six (6) ans, selon le droit exercé. |
+| Lutte contre la fraude, les abus | Les données sont susceptibles d'être conservées jusqu'à douze (12) mois à compter de l'émission des alertes avant d'être qualifiées. Les alertes qualifiées de non pertinentes ou non qualifiées à l'issue du délai de douze (12) mois sont supprimées. Les alertes qualifiées sont conservées pour une durée maximale de cinq (5) ans à compter de la clôture du dossier de fraude. Pour les personnes inscrites sur une liste des fraudeurs avérés, les données les concernant sont supprimées passé le délai de cinq (5) ans à compter de la date d'inscription sur cette liste. Si une procédure judiciaire a été engagée, les données sont conservées jusqu'au terme de la procédure judiciaire, augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. |
+| Gestion des atteintes à la sécurité | Les traces informatiques sont conservées pendant treize (13) mois. |
+| Réalisation d'opérations de prospection commerciale à destination des professionnels | Les données sont conservées pendant trois (3) ans à partir du dernier contact entrant. |
+| Gestion des clients ou des employés au sein d'un groupe d'entreprises à des fins de gestion administrative interne | Les données sont conservées pendant toute la durée de la relation contractuelle, augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. |
+| Gestion des demandes d'information et réclamations des utilisateurs | En cas de relation contractuelle avec l'ADEME, les données sont conservées pendant toute la durée de la relation contractuelle, augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. En cas d'absence de relation contractuelle avec l'ADEME, les données sont conservées pendant trois (3) ans à partir du dernier contact entrant. |
+| Établissement de tout moyen de preuve nécessaire à la défense des droits de l'ADEME | En cas de relation contractuelle avec l'ADEME, les données sont conservées pendant toute la durée de la relation contractuelle, augmentée de la durée d'acquisition des prescriptions légales. Le délai de prescription de droit commun en matière civile et commerciale est de cinq (5) ans à compter de la fin du contrat. En cas d'absence de relation contractuelle avec l'ADEME, les données sont conservées pendant trois (3) ans à partir du dernier contact entrant. |
+| Gestion des cookies | Votre choix en matière de cookies est conservé 6 mois. Les données collectées grâce aux cookies sont conservées 25 mois. Cela nous permet d'analyser l'évolution de vos empreintes dans le temps. |
 
-7\. Who is likely to have access to Data Subjects' Personal Data?
------------------------------------------------------------------
+7\. Qui est susceptible d'accéder aux Données à caractère personnel des Personnes concernées ?
+----------------------------------------------------------------------------------------------
 
-Categories of recipients of Data Subjects' Personal Data
+Catégories de destinataires des Données à caractère personnel des Personnes concernées
 
-The data collected on ADEME's Sites and Products or Services and by any other means may be communicated to:
+Les données collectées sur les Sites et Produits ou Services de l’ADEME et par tout autre biais sont susceptibles d’être communiquées :
 
-*   ADEME's authorized personnel, its partners or its service providers, in the context of carrying out all or part of services;
-*   city and community agents, company managers creating organizational campaigns.
+*   au personnel habilité de l’ADEME, à ses partenaires ou à ses prestataires de services, dans le cadre de l’accomplissement de tout ou partie de prestations ;
+*   aux agents des villes et collectivités, aux responsables d’entreprise créant des campagnes organisation.
 
-Cross-border data transfers outside the European Union
+Transferts de données hors de l’Union européenne
 
-Some of the recipients mentioned above may be established outside the European Union and have access to all or part of the personal information collected by ADEME due to a specific legal authorization.
+Certains des destinataires mentionnés ci-dessus sont susceptibles d’être établis en dehors de l’Union européenne et d’avoir accès à tout ou partie des informations personnelles collectées par l’ADEME en raison d’une habilitation légale spécifique.
 
-In this context, ADEME undertakes to guarantee the protection of Data Subjects' Personal Data in accordance with the strictest rules, in particular through the signature, on a case-by-case basis, of contractual clauses based on the European Commission model, or any other mechanism compliant with the GDPR, as soon as Data Subjects' Personal Data is processed by a service provider outside the European Economic Area and whose country is not considered by the European Commission as ensuring an adequate level of protection.
+Dans ce cadre, l’ADEME s’engage à garantir la protection des Données à caractère personnel des Personnes concernées conformément aux règles les plus strictes notamment à travers la signature, au cas par cas, de clauses contractuelles basées sur le modèle de la Commission européenne, ou tout autre mécanisme conforme au RGPD, dès lors que les Données à caractère personnel des Personnes concernées sont traitées par un prestataire en dehors de l’Espace économique européen et dont le pays n’est pas considéré par la Commission Européenne comme assurant un niveau de protection adéquat.
 
-In any case, ADEME undertakes to inform Data Subjects in advance in case of data transfer outside the European Union.
+En tout état de cause, l’ADEME s’engage à informer préalablement les Personnes concernées en cas de transfert de données hors de l’Union européenne.
 
-### 7.1 Subcontractors
+### 7.1 Sous-traitants
 
-| Partner | Destination Country | Hosting Country | Processing Performed | Guarantee |
+| Partenaire | Pays destinataire | Pays d'hébergement | Traitement réalisé | Garantie |
 | --- | --- | --- | --- | --- |
-| Scalingo | France | France | Site hosting | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
-| Scalingo | France | France | Database | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
-| Google | United States | United States | Audience measurement | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
-| Posthog | United States | United States | Audience measurement | [https://posthog.com/privacy](https://posthog.com/privacy) |
-| Matomo | France | France (self-hosted or EU server) | Audience measurement | [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/) |
-| Tally | Belgium | Europe / Ireland (AWS) | Online forms | [https://tally.so/help/privacy-policy](https://tally.so/help/privacy-policy) |
-| Brevo | Europe | Europe (OVH) | E-mail campaigns | [https://www.brevo.com/fr/legal/termsofuse/](https://www.brevo.com/fr/legal/termsofuse/) |
-| SalesForce | Germany | Germany | E-mail campaigns | [https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf) |
+| Scalingo | France | France | Hébergement site | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
+| Scalingo | France | France | Base de données | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
+| Google | États-Unis | Etats-Unis | Mesure d'audience | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
+| Posthog | États-Unis | Etats-Unis | Mesure d'audience | [https://posthog.com/privacy](https://posthog.com/privacy) |
+| Matomo | France | France (auto-hébergé ou serveur UE) | Mesure d'audience | [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/) |
+| Tally | Belgique | Europe / Irlande (AWS) | Formulaires en ligne | [https://tally.so/help/privacy-policy](https://tally.so/help/privacy-policy) |
+| Brevo | Union européenne | Union Européenne (OVH) | Campagne d’e-mailing | [https://www.brevo.com/fr/legal/termsofuse/](https://www.brevo.com/fr/legal/termsofuse/) |
+| SalesForce | Allemagne | Allemagne | Campagne d’e-mailing | [https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf) |
 
 ### 7.2 Cookies
 
-#### 1\. Preamble
+#### 1\. Préambule
 
-To allow internet users to benefit from the services offered by the Nos Gestes Climat website (hereinafter the "Site") such as its consultation, the optimization of its use or its personalization according to the internet user, the Site uses cookies. You can at any time deactivate the cookies to which you have consented, and this free of charge, from the deactivation possibilities offered to you and recalled above.
+Pour permettre aux internautes de bénéficier des services proposés par le site Nos Gestes Climat (ci-après le « Site ») tels que sa consultation, l'optimisation de son utilisation ou sa personnalisation en fonction de l'internaute, le Site utilise des cookies. Vous pouvez à tout moment désactiver les cookies auxquels vous avez consenti, et ce gratuitement, à partir des possibilités de désactivation qui vous sont offertes et rappelées ci-avant.
 
-#### 2\. Definitions
+#### 2\. Définitions
 
-Cookies are information relating to the navigation of your terminal (computer, tablet, smartphone, etc.) on the Site. They are used to send information to your browser and allow this browser to return information to the Site (for example a session identifier or the choice of a language).
+Les cookies sont des informations relatives à la navigation de votre terminal (ordinateur, tablette, smartphone, etc.) sur le Site. Ils sont utilisés pour envoyer des informations à votre navigateur et permettre à ce navigateur de renvoyer des informations au Site (par exemple un identifiant de session ou le choix d'une langue).
 
-Only the issuer of a cookie can read or modify the information it contains. There are different types of cookies:
+Seul l'émetteur d'un cookie peut lire ou modifier les informations qui y sont contenues. Il existe différents types de cookies :
 
-*   session cookies that disappear as soon as you leave the Site;
+*   des cookies de session qui disparaissent dès que vous quittez le Site ;
     
-*   permanent cookies that remain on your terminal until their lifetime expires or until you delete them using your browser's features.
+*   des cookies permanents qui demeurent sur votre terminal jusqu'à expiration de leur durée de vie ou jusqu'à ce que vous les supprimiez à l'aide des fonctionnalités de votre navigateur.
     
 
-You are informed that, during your visits to this Site, cookies may be installed on your terminal equipment.
+Vous êtes informés que, lors de vos visites sur ce Site, des cookies peuvent être installés sur votre équipement terminal.
 
-#### 3\. Purposes of cookies used
+#### 3\. Finalités des cookies utilisés
 
-Cookies are used on the Site for different purposes, to facilitate your navigation, to offer you personalized content or to carry out visit statistics.
+Les cookies sont utilisés sur le Site pour différentes finalités, pour faciliter votre navigation, pour vous proposer des contenus personnalisés ou pour réaliser des statistiques de visites.
 
-The Site uses navigation cookies essential for the use of the Site. They have the exclusive purpose of technical network management and enabling or facilitating electronic communication (detection of connection errors, identification of connection points...).
+Le Site utilise des cookies de navigation indispensables à l'utilisation du Site. Ils ont pour finalité exclusive la gestion technique du réseau et de permettre ou faciliter la communication par voie électronique (détection des erreurs de connexion, identification des points de connexion…).
 
-The Site uses preference cookies, to offer you navigation according to your profile (companies, communities/institutional/journalist) and allow you to access Site content more easily. Preference cookies also allow you to store content in favorites on some of our sites.
+Le Site utilise des cookies de préférence, pour vous proposer une navigation selon votre profil (entreprises, collectivités/institutionnel/journaliste) et vous permettre d'accéder plus facilement aux contenus du Site. Les cookies de préférence permettent également de stocker des contenus en favoris sur certains de nos sites.
 
-The Site also uses authentication cookies, essential to allow you to access your personal space from different sites;
+Le Site utilise également des cookies d'authentification, indispensables pour vous permettre d'accéder à votre espace personnel depuis différents sites ;
 
-Finally, the Site also uses performance cookies, for the purpose of:
+Enfin, le Site utilise également des cookies de performance, dans le but :
 
-*   analyzing the traffic and use made of the Site, in order to:
+*   d'analyser la fréquentation et l'utilisation qui est faite du Site, afin de :
     
-    *   evolve it towards improving the navigation experience, with the final objective of offering you a Site that is always more adapted;
+    *   le faire évoluer dans le sens d'une amélioration de l'expérience de navigation, dans l'objectif final de vous proposer un Site toujours plus adapté ;
         
-    *   carry out statistical studies;
+    *   de réaliser des études statistiques ;
         
-    *   memorize your browser's display preferences (language used, display settings, operating system used, etc.) and adapt the Site's presentation during your visits, according to the materials and software for visualization or reading that your terminal equipment includes and which are used for navigation on the Site;
+    *   de mémoriser les préférences d'affichage de votre navigateur (langue utilisée, paramètres d'affichage, système d'exploitation utilisé, etc.) et d'adapter la présentation du Site lors de vos visites, selon les matériels et logiciels de visualisation ou de lecture que comporte votre équipement terminal et qui sont utilisés pour la navigation sur le Site ;
         
-    *   implement security measures;
+    *   de mettre en œuvre des mesures de sécurité ;
         
-*   improve the relevance of advertisements broadcast on the Site;
+*   d'améliorer la pertinence des annonces publicitaires diffusées sur le Site ;
     
-*   make the Site more user-friendly and interactive
+*   de rendre le Site plus convivial et interactif
     
 
-| Cookie Category | Cookie Name | Retention Period | Purposes | Publisher | Destination |
+| Catégorie de cookie | Nom du cookie | Durée de conservation | Finalités | Éditeur | Destination |
 | --- | --- | --- | --- | --- | --- |
-| Tag and behavior management and tracking | Posthog | 13 months | Conversion analysis | Posthog | United States |
-| Tag and behavior management and tracking | Google Tag Manager | 13 months | Behavioral tracking analysis | Google | United States |
-| Tag and behavior management and tracking | Matomo | 13 months | Anonymized audience measurement | Matomo & ADEME | France |
-| Audience measurement | Google Tag Manager | 13 months | Audience measurement | Google | United States |
-| Audience measurement | Google Ads | 13 months | Audience measurement | Google | United States |
-| User preference | Language/region change | Session | Conservation of language preferences | Internal / CMS | France / EU |
-| Form collection | Tally | 13 months | Form response collection | Tally | Belgium / EU |
-| Session cookie | Session cookie | Session | User session maintenance | Internal | France / EU |
+| Gestion et suivi de tags et de comportement | Posthog | 13 mois | Analyse de conversions | Posthog | États-Unis |
+| Gestion et suivi de tags et de comportement | Google Tag Manager | 13 mois | Analyse de suivi comportemental | Google | États-Unis |
+| Gestion et suivi de tags et de comportement | Matomo | 13 mois | Mesure d'audience anonymisée | Matomo & ADEME | France |
+| Mesure d'audience | Google Tag Manager | 13 mois | Mesure d'audience | Google | États-Unis |
+| Mesure d'audience | Google Ads | 13 mois | Mesure d'audience | Google | États-Unis |
+| Préférence utilisateur | Changement de langue / région | Session | Conservation des préférences linguistiques | Interne / CMS | France / UE |
+| Collecte de formulaires | Tally | 13 mois | Récolte de réponses à des formulaires | Tally | Belgique / UE |
+| Cookie de session | Cookie de session | Session | Maintien de la session utilisateur | Interne | France / UE |
 
 ##### Matomo
 
-See the complete list of Matomo cookies [https://matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
+Voir la liste complètes des cookies Matomo [https://matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
 
-Nos Gestes Climat uses the Matomo audience measurement solution configured in "exempt" mode, in accordance with [CNIL recommendations](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience). It therefore does not require the consent of data subjects. You can nevertheless object to the tracking of your navigation by unchecking the box below.
+Nos Gestes Climat utilise la solution de mesure d’audience Matomo en l’ayant configuré en mode “exempté”, conformément aux [recommandations de la CNIL](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience). Elle ne nécessite donc pas le consentement des personnes concernées. Vous pouvez malgré tout vous opposer au suivi de votre navigation, en décochant la case ci-dessous.
 
 ##### Posthog
 
-Nos Gestes Climat uses the Posthog audience measurement solution. If you have refused the deposit of a tracking cookie from the consent banner (cookies), you can also object to the tracking of your navigation and any tracking, by unchecking the box below:
+Nos Gestes Climat utilise la solution de mesure d’audience Posthog. Si vous avez refusé le dépôt d’un cookie de suivi depuis le bandeau de consentement (cookies), vous pouvez également vous opposer au suivi de votre navigation et de tout traçage, en décochant la case ci-dessous :
 
-You are tracked anonymously by Posthog. Uncheck this box to exclude yourself from anonymous tracking.
+Vous êtes suivi de façon anonyme par Posthog. Décochez cette case pour vous exclure également du suivi anonyme.
 
-See also the complete list of Posthog cookies: [https://www.cookie.is/service/posthog-analytics#](https://www.cookie.is/service/posthog-analytics#)
+Voir également la liste complètes des cookies Posthog : [https://www.cookie.is/service/posthog-analytics#](https://www.cookie.is/service/posthog-analytics#)
 
-To go further, you can consult the sheets proposed by the National Commission for Information Technology and Civil Liberties (CNIL):
+Pour aller plus loin, vous pouvez consulter les fiches proposées par la Commission Nationale de l’Informatique et des Libertés (CNIL) :
 
-*   [Cookies and trackers: what does the law say?](https://www.cnil.fr/fr/cookies-et-traceurs-que-dit-la-loi)
-*   [Cookies: tools to master them](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser)
+*   [Cookies et traceurs : que dit la loi ?](https://www.cnil.fr/fr/cookies-et-traceurs-que-dit-la-loi)
+*   [Cookies : les outils pour les maîtriser](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser)
 
-8\. How are the rights recognized to Data Subjects exercised?
--------------------------------------------------------------
+8\. Comment sont exercés les droits reconnus aux Personnes concernées ?
+-----------------------------------------------------------------------
 
-In accordance with the GDPR, Data Subjects can, at any time, exercise their rights of access, rectification, deletion of data concerning them as well as their rights of limitation and opposition to Processing and portability of their Personal Data by sending an email to contact@nosgestesclimat.fr
+Conformément au RGPD, les Personnes concernées peuvent, à tout moment, exercer leurs droits d’accès, de rectification, de suppression des données les concernant ainsi que leurs droits de limitation et d’opposition au Traitement et à la portabilité de leurs Données à caractère personnel en envoyant un mail à contact@nosgestesclimat.fr
 
-Furthermore, when Personal Data Processing implemented by ADEME is based on the consent of Data Subjects, the latter can withdraw it at any time. ADEME will then cease to process Data Subjects' Personal Data without the previous operations for which Data Subjects had consented being called into question.
+De plus, lorsque les Traitements de Données à caractère personnel mis en œuvre par l’ADEME sont fondés sur le consentement des Personnes concernées, ces dernières peuvent le retirer à n’importe quel moment. L’ADEME cessera alors de traiter les Données à caractère personnel des Personnes concernées sans que les opérations antérieures pour lesquelles les Personnes concernées avaient consenti ne soient remises en cause.
 
-In addition, Data Subjects may legally have the right to define post-mortem directives relating to the retention, erasure and communication of their Personal Data, and this with a trusted third party, certified and responsible for respecting their will, in accordance with the requirements of the applicable legal framework.
+En outre, les Personnes concernées peuvent légalement disposer du droit de définir des directives post-mortem relatives à la conservation, à l’effacement et à la communication de leurs Données à caractère personnel, et ce auprès d’un tiers de confiance, certifié et chargé de faire respecter leur volonté, conformément aux exigences du cadre juridique applicable.
 
-Furthermore, any minor at the time of collection of their Personal Data may obtain its erasure as soon as possible.
+Par ailleurs, toute personne mineure au moment de la collecte de ses Données à caractère personnel peut en obtenir l’effacement dans les meilleurs délais.
 
-Data subjects may request to exercise their right to object to Personal Data Processing concerning them for reasons relating to their particular situation when the Processing is based on ADEME's legitimate interest. This right of opposition also applies to profiling.
+Les personnes concernées peuvent demander à exercer leur droit d’opposition à un Traitement de Données personnelles les concernant pour des raisons tenant à leur situation particulière lorsque le Traitement est fondé sur l’intérêt légitime de l’ADEME. Ce droit d’opposition s’applique également au profilage.
 
-In case of exercise of such a right of opposition, ADEME will cease processing except when there are legitimate and compelling reasons for Processing that prevail over the interests, rights and freedoms of Data Subjects or for the establishment, exercise or defense of a right in court.
+En cas d’exercice d’un tel droit d’opposition, l’ADEME cessera le traitement sauf lorsqu’il existe des motifs légitimes et impérieux pour le Traitement qui prévalent sur les intérêts, droits et libertés des Personnes concernées ou pour la constatation, l’exercice ou la défense d’un droit en justice.
 
-Data Subjects may also object to any processing related to prospecting without it being necessary to invoke reasons relating to their particular situation.  
-Under the right of access, ADEME may request Data Subjects to pay reasonable fees based on administrative costs for any additional copy of data to that which will be communicated.
+Les Personnes concernées peuvent également s’opposer à tout traitement lié à la prospection sans qu’il soit nécessaire d’invoquer des raisons tenant à leur situation particulière.  
+Au titre du droit d’accès, l’ADEME pourra demander aux Personnes concernées le paiement de frais raisonnables basés sur les coûts administratifs pour toute copie supplémentaire des données à celle qui sera communiquée.
 
-These rights are exercised by postal mail to the following address:
+Ces droits s’exercent par courrier postal à l’adresse suivante :
 
 ADEME  
-Data Protection Officer  
+Délégué à la Protection des Données/Data Protection Officer  
 20, avenue du Grésillé — BP 90406  
 49004 Angers Cedex 01  
-_or by Email to the following address: rgpd@ademe.fr_
+_ou par Email à l’adresse suivante : rgpd@ademe.fr_
 
-You also have the right to refer to the National Commission for Information Technology and Civil Liberties for any complaint
+Vous êtes également en droit de saisir la Commission Nationale de l’Informatique et des Libertés pour toute réclamation
 
-In this context, it is requested to please accompany the requests with the elements necessary for identification (name, first name, email) of Data Subjects as well as any other information necessary to confirm their identity.
+Dans ce cadre, il est demandé de bien vouloir accompagner les demandes des éléments nécessaires à l’identification (nom, prénom, email) des Personnes concernées ainsi que toute autre information nécessaire à la confirmation de leur identité.
 
-For certain specific Services, these rights may be exercised directly online (management of your user account, management of your subscriptions to newsletters, news, _etc_.).
+Pour certains Services spécifiques, ces droits sont susceptibles de s’exercer directement en ligne (gestion de votre compte utilisateur, gestion de vos abonnements aux newsletters, aux actualités, _etc_.).
 
-In case of violation of applicable regulations on Personal Data protection, Data Subjects also have the right to complain to the National Commission for Information Technology and Civil Liberties on French territory:
+En cas de violation de la réglementation applicable en matière de protection des Données à caractère personnel, les Personnes concernées disposent également d’un droit de réclamation auprès de la Commission nationale de l’informatique et des libertés sur le territoire français :
 
 CNIL  
 3 place de Fontenoy - TSA 80715  
 75334 Paris cedex 07  
-tel.: 01 53 73 22 22  
-or at [the following address](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment), and this without prejudice to any other administrative or judicial recourse.
+tél. : 01 53 73 22 22  
+ou à [l’adresse suivante](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment), et ce sans préjudice de tout autre recours administratif ou juridictionnel.
 
-9\. Information security / transaction security
------------------------------------------------
+9\. Sécurité information / sécurisation des transactions
+--------------------------------------------------------
 
-ADEME implements all useful technical and organizational measures, considering the nature, scope and context of the Personal Data you communicate to us and the risks presented by their Processing, to preserve the security of your Personal Data and, in particular, prevent any destruction, loss, alteration, disclosure, intrusion or unauthorized access to this data, accidentally or unlawfully.
+L’ADEME met en œuvre toutes les mesures techniques et organisationnelles utiles, au regard de la nature, de la portée et du contexte des Données personnelles que vous nous communiquez et des risques présentés par leur Traitement, pour préserver la sécurité de vos Données personnelles et, notamment, empêcher toute destruction, perte, altération, divulgation, intrusion ou accès non autorisé à ces données, de manière accidentelle ou illicite.
 
-The security and confidentiality of Personal Data depend on everyone's good practices. This is why Data Subjects are invited not to communicate their passwords to third parties, to systematically disconnect from their profile and their social account (especially in case of linked accounts) and to close their browser window at the end of their work session, particularly if internet access is made from a computer shared with other people.
+La sécurité et la confidentialité des Données à caractère personnel reposent sur les bonnes pratiques de chacun. C’est la raison pour laquelle les Personnes concernées sont invitées à ne pas communiquer leurs mots de passe à des tiers, à se déconnecter systématiquement de leur profil et de leur compte social (notamment en cas de comptes liés) et à fermer la fenêtre de leur navigateur à l’issue de leur session de travail, particulièrement si l’accès à internet se fait depuis un poste informatique partagé avec d’autres personnes.
 
-10\. Personal Data concerning minors
-------------------------------------
+10\. Données à caractère personnel concernant les mineurs
+---------------------------------------------------------
 
-ADEME does not collect or process Personal Data relating to children under 16 years of age without prior agreement from parents or holders of parental responsibility for the child.
+L’ADEME ne collecte ni ne traite de Données personnelles relatives aux enfants de moins de 16 ans sans accord préalable des parents ou titulaires de la responsabilité parentale à l’égard de l’enfant.
 
-If Personal Data concerning children is collected via ADEME's Site and/or via Services or Products, parents or holders of the exercise of parental authority have the possibility to object by contacting ADEME at the address indicated above.
+Si des Données à caractère personnel concernant des enfants sont collectées via le Site de l’ADEME et/ou via des Services ou Produits, les parents ou titulaires de l’exercice de l’autorité parentale ont la possibilité de s’y opposer en contactant l’ADEME à l’adresse indiquée ci-dessus.
 
-Furthermore, as stated above, the minor child at the time of collection of their Personal Data may obtain its erasure as soon as possible.
+Par ailleurs, comme énoncé ci-dessus, l’enfant mineur au moment de la collecte de ses Données à caractère personnel peut en obtenir l’effacement dans les meilleurs délais.
 
-11\. Links to access other sites
---------------------------------
+11\. Liens pour accéder à d’autres sites
+----------------------------------------
 
-On several pages of ADEME's Sites it is possible to click to access other internet sites of other companies. ADEME recommends reading these sites' policy regarding Processing and protection of Personal Data, because the conditions on these sites may differ from those applicable on ADEME's Sites and the latter will in no case be responsible for the Processing of Personal Data by these other internet sites.
+Sur plusieurs pages des Sites de l’ADEME il est possible de cliquer pour accéder à d’autres sites internet d’autres entreprises. L’ADEME recommande de lire la politique de ces sites relative au Traitement et à la protection des Données personnelles, car les conditions sur ces sites peuvent différer de celles applicables sur les Sites de l’ADEME et cette dernière ne sera en aucun cas responsable quant au Traitement des Données personnelles par ces autres sites internet.
 
 12\. Modifications
 ------------------
 
-ADEME reserves the right to adapt this Policy.
+L’ADEME se réserve le droit d’adapter la présente Politique.
 
-If ADEME makes a modification to this Policy, it will publish the new version on the relevant supports and update the "last update" date appearing at the top of this Policy.
+Si l’ADEME apporte une modification à la présente Politique, elle publiera la nouvelle version sur les supports concernés et actualisera la date de « dernière mise à jour » figurant en haut de la présente Politique.
 
-ADEME therefore invites you to regularly consult the relevant supports where the Policy is published.
+L’ADEME vous invite donc à consulter régulièrement les supports concernés où est publiée la Politique.
