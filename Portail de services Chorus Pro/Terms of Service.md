@@ -14,8 +14,8 @@ Il permet également la saisie unitaire ou le dépôt de factures offrant un ser
 
 Le portail Chorus Pro offre ainsi aux fournisseurs deux ensembles de fonctionnalités :
 
-1. L'accès au statut de traitement des factures dans l'application de gestion comptable de la collectivité locale ou de l'établissement public, pour toutes les factures transmises par l'intermédiaire de la solution Chorus Pro.
-2. La saisie en ligne ou le dépôt de factures.
+1.  L'accès au statut de traitement des factures dans l'application de gestion comptable de la collectivité locale ou de l'établissement public, pour toutes les factures transmises par l'intermédiaire de la solution Chorus Pro.
+2.  La saisie en ligne ou le dépôt de factures.
 
 ARTICLE 2 : Accès au portail et disponibilité
 ---------------------------------------------
@@ -66,11 +66,11 @@ La responsabilité de l'AIFE ne saurait être engagée sur l'indisponibilité to
 
 La responsabilité de l'AIFE ne peut en aucun cas être engagée à la suite de tout dommage, erreur ou carence lorsque l'inexécution ou la mauvaise exécution reprochée résulte :
 
-* D'une faute, négligence, omission ou défaillance du fournisseur,
-* D'une communication tardive d'informations par le fournisseur,
-* Du non-respect des recommandations de l'AIFE,
-* D'une faute, négligence ou omission d'un tiers sur lequel l'AIFE n'a aucun pouvoir de surveillance,
-* En cas de survenance d'un évènement de force majeure.
+*   D'une faute, négligence, omission ou défaillance du fournisseur,
+*   D'une communication tardive d'informations par le fournisseur,
+*   Du non-respect des recommandations de l'AIFE,
+*   D'une faute, négligence ou omission d'un tiers sur lequel l'AIFE n'a aucun pouvoir de surveillance,
+*   En cas de survenance d'un évènement de force majeure.
 
 ARTICLE 7 : Saisie de facture directement sur le portail
 --------------------------------------------------------
@@ -92,10 +92,10 @@ L'AIFE traite les données personnelles des utilisateurs (« personnes concerné
 
 Les utilisateurs de Chorus Pro sont :
 
-* Les fournisseurs
-* Les agents publics, utilisateurs de l'application
-* Les prestataires de frais de justice
-* Les exploitants agricoles
+*   Les fournisseurs
+*   Les agents publics, utilisateurs de l'application
+*   Les prestataires de frais de justice
+*   Les exploitants agricoles
 
 Les personnes concernées ont bien noté que les informations (données personnelles ci-dessous listées) sont obligatoires pour utiliser les fonctionnalités du portail. A défaut de communication de ces informations, le portail ne peut pas être utilisé. Toute déclaration fausse ou irrégulière engage la responsabilité des personnes concernées.
 
@@ -103,10 +103,10 @@ Les personnes concernées ont bien noté que les informations (données personne
 
 Par données personnelles, on entend les données relatives aux personnes concernées, les utilisateurs du portail. Sont principalement collectées dans le cadre de la réalisation de la prestation avec l'AIFE les catégories de données personnelles suivantes :
 
-* Etat civil, identité, données d'identification (nom, prénom, adresse postale, adresse mail des fournisseurs de l'Etat, des agriculteurs et des prestataires de justice et nom, prénom, adresse professionnelle, téléphone, fax, adresse mail de l'agent utilisateur, voix des utilisateurs sollicitant le support téléphonique de Chorus Pro (enregistrement avec accord de l'utilisateur),
-* Informations d'ordre économique et financier (RIB des fournisseurs de l'Etat),
-* Données de connexion (logs applicatifs),
-* Autres : numéro PACAGE pour la fonctionnalité de DEMATIC (demande en ligne de remboursement de la Taxe Intérieure de Consommation par les professions agricoles).
+*   Etat civil, identité, données d'identification (nom, prénom, adresse postale, adresse mail des fournisseurs de l'Etat, des agriculteurs et des prestataires de justice et nom, prénom, adresse professionnelle, téléphone, fax, adresse mail de l'agent utilisateur, voix des utilisateurs sollicitant le support téléphonique de Chorus Pro (enregistrement avec accord de l'utilisateur),
+*   Informations d'ordre économique et financier (RIB des fournisseurs de l'Etat),
+*   Données de connexion (logs applicatifs),
+*   Autres : numéro PACAGE pour la fonctionnalité de DEMATIC (demande en ligne de remboursement de la Taxe Intérieure de Consommation par les professions agricoles).
 
 ### Fondement légal
 
