@@ -125,10 +125,10 @@ Pour les cookies donnant lieu à consentement préalable, l’utilisateur peut a
 
 L’utilisateur peut accepter ou refuser le dépôt de tout ou partie des cookies, à tout moment, en modifiant les paramètres de son navigateur (consulter la fonction « Aide » du navigateur pour en savoir plus) ou en se rendant sur l’une des pages suivantes, selon le navigateur utilisé :
 
-* Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
-* Internet Explorer : [https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
-* Mozilla Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
-* Safari : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
+*   Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
+*   Internet Explorer : [https://support.microsoft.com/fr-fr/help/17442](https://support.microsoft.com/fr-fr/help/17442)
+*   Mozilla Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies](https://support.mozilla.org/fr/kb/activer-desactiver-cookies)
+*   Safari : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac)
 
 Pour information, la plupart des navigateurs acceptent par défaut le dépôt de cookies. L’utilisateur peut modifier ses choix en matière de cookies à tout moment. Le paramétrage des cookies est susceptible de modifier les conditions de navigation sur le site internet, ainsi que les conditions d’accès à certains services, et d’entrainer des dysfonctionnements de certaines fonctionnalités.
 
@@ -145,8 +145,8 @@ Le site internet [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr
 
 France Travail décline toute responsabilité :
 
-* pour toute interruption du site pour raison de maintenance technique ou de mise à jour nécessaire au bon fonctionnement (du site internet) ;
-* pour survenance de bogues.
+*   pour toute interruption du site pour raison de maintenance technique ou de mise à jour nécessaire au bon fonctionnement (du site internet) ;
+*   pour survenance de bogues.
 
 France Travail ne peut être tenu pour responsable vis-à-vis de l’utilisateur des dommages de toute nature, directs ou indirects.
 
@@ -154,10 +154,10 @@ France Travail ne peut être tenu pour responsable vis-à-vis de l’utilisateur
 
 France Travail décline toute responsabilité envers l’utilisateur concernant notamment :
 
-* l’absence de résultat au regard des critères définis par l’utilisateur
-* la non-exhaustivité des résultats obtenus
-* la présence d’erreurs dans les résultats communiqués
-* le contenu et la disponibilité des sites tiers vers lesquels le site [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) renvoie.
+*   l’absence de résultat au regard des critères définis par l’utilisateur
+*   la non-exhaustivité des résultats obtenus
+*   la présence d’erreurs dans les résultats communiqués
+*   le contenu et la disponibilité des sites tiers vers lesquels le site [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) renvoie.
 
 Obligations de l’utilisateur
 ----------------------------
@@ -166,8 +166,8 @@ L’utilisateur du site reconnaît avoir pris connaissance et accepter les prés
 
 L’utilisation du site internet [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/) est soumise au respect par l’utilisateur de :
 
-* la législation française,
-* les présentes conditions d’utilisation.
+*   la législation française,
+*   les présentes conditions d’utilisation.
 
 Les présentes conditions d’utilisation peuvent être modifiées à tout moment ; la date de mise à jour est mentionnée. Ces modifications sont opposables à l’utilisateur dès leur mise en ligne sur le site internet [mes-aides.francetravail.fr](https://mes-aides.francetravail.fr/). L’utilisateur est donc invité à consulter régulièrement la dernière version mise à jour.
 
