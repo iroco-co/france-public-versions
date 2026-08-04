@@ -7,7 +7,9 @@ Les services du site internet www.francetravail.fr et les applications mobiles s
 
 Le « Système d'information France Travail », créé par l'opérateur France Travail, est un traitement automatisé de données à caractère personnel sous la responsabilité du directeur général de l'opérateur France Travail. Exceptionnellement, certaines opérations nécessitant l'intervention de partenaires publics ou privés sont réalisées en responsabilité conjointe.
 
-**Mise à jour : 08-01-2026**
+**Dans le cadre de l’offre de service dédiée à l’accompagnement à destination des demandeurs d’emploi en situation de handicap,** le traitement est réalisé en responsabilité conjointe avec les organismes spécialisés de placement (Cap emploi) conformément à l’article 26 du règlement général (UE) sur la protection des données n°2016/679 du 27 avril 2016. Ce traitement comporte les données sur le handicap énumérées par le décret n° 2022-1161 du 17 août 2022 relatif à la création d’un traitement de données à caractère personnel dénommé « Traitement des données de santé nécessaires à l’accompagnement adapté des demandeurs d’emploi en situation de handicap ».
+
+**Mise à jour : 04-08-2026**
 
     
 
@@ -55,6 +57,79 @@ France Travail enregistre et utilise les données personnelles des personnes à 
 *   Faciliter l’utilisation de services numériques d’organismes partenaires qui favorisent le retour à l’emploi ou simplifier la délivrance de justificatifs nécessaires à certaines démarches auprès d’organismes autres que les administrations, au moyen du dispositif FranceTravailConnect ;
 *   Simplifier les échanges entre administrations selon le principe « dites-le-nous-une-fois » dans les conditions prévues par les articles L. 114-8 et suivants du code des relations entre le public et l’administration, notamment dans le cadre de FranceConnect ou de l’API Particulier de la direction interministérielle du numérique (DINUM).
 
+Quelles sont les données enregistrées ?
+---------------------------------------
+
+Ne sont enregistrées dans le système d’information de France Travail que les informations strictement nécessaires. Les données traitées sont :
+
+### Pour les salariés :
+
+*   Les données d'identification et de contacts ;
+*   Les données relatives aux refus de contrats à durée indéterminée en application des articles [L. 1243-11-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000046773077&dateTexte=&categorieLien=cid) et L. 1251-33-1 ;
+*   Les données de la déclaration sociale nominative nécessaires à l'édition de l'attestation d'employeur mentionnée à l'article [R. 1234-9](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018483212&dateTexte=&categorieLien=cid), au relevé de mission de travail temporaire mentionné à l'article [L. 1251-46](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901302&dateTexte=&categorieLien=cid), au recouvrement des contributions des employeurs, à la proposition du contrat de sécurisation professionnelle, au développement d'une expertise sur l'évolution des emplois, des parcours professionnels et des compétences et à l'évaluation des résultats des actions d'accompagnement ;
+*   Les données relatives au compte personnel de formation ;
+
+### Pour les demandeurs d'emploi :
+
+*   Les données d'identification, y compris le numéro d'inscription au répertoire national d'identification des personnes physiques et l'identifiant commun attribué par l'opérateur France Travail, et de contact ;
+*   Les données relatives au droit au revenu de remplacement ou aux autres sommes versées par France Travail pour le compte de l'assurance chômage, de l'Etat ou pour son propre compte, ainsi que les données relatives au revenu de solidarité active ;
+*   Les données d'ordre économique et financier, ainsi que les données fiscales et bancaires ;
+*   Les données relatives à la situation familiale ;
+*   Les données relatives aux mesures de tutelle, de curatelle ou d'habilitation familiale ;
+*   Les données relatives à l'attestation de prise en charge par l'aide sociale à l'enfance ;
+*   Les données relatives aux saisies à tiers détenteur reçues par France Travail ;
+*   Les données relatives au parcours professionnel et aux droits sociaux ;
+*   Les données relatives à l'inscription sur la liste des demandeurs d'emploi, à la radiation et à la cessation d'inscription ;
+*   Les données relatives aux décisions d'orientation ou de réorientation ;
+*   Les données relatives au diagnostic ;
+*   Les données relatives au contrat d'engagement et au suivi des actions prévues dans le contrat ;
+*   Les données relatives au contrôle du respect des obligations énoncées dans le contrat d'engagement dont les données d’identifiation et de contact des employeurs contactés par les demandeurs d’emploi ;
+*   Les données relatives aux propositions de sanctions et aux sanctions prononcées ou engagées ;
+*   Les données relatives au titre de séjour et, le cas échéant, à la décision d'obligation de quitter le territoire français ;
+*   Les données relatives aux difficultés particulières rencontrées pour accéder à l'emploi ;
+*   Les données relatives à la scolarité, au parcours de formation et au niveau de qualification et de diplômes ainsi qu'aux compétences ;
+*   Les données relatives au mode de vie itinérant ;
+*   Les informations sur les étapes, le suivi, le contrôle et les décisions administratives intervenant tout au long du parcours du demandeur d'emploi ;
+*   Les données relatives aux échanges et contacts avec l'opérateur France Travail tout au long du parcours du demandeur d'emploi ;
+*   Les données relatives à la situation pénitentiaire des personnes sous main de justice aptes à exercer un emploi et disponibles dans un délai de six mois, y compris les données relatives à la durée de la peine, à son aménagement et à ses modalités d'exécution ;
+*   Les données relatives à la résidence en quartier prioritaire de la politique de la ville ou en zone de revitalisation rurale ;
+*   Les données relatives aux contentieux et à l'exécution des décisions liées à l'inscription et au suivi du demandeur d'emploi, à l'attribution et au versement des aides et allocations, à la discrimination, à la fausse déclaration et à la fraude, dont la date et la nature de la condamnation pénale prononcée à ce titre ;
+*   Les données de connexion et de traçabilité ;
+
+#### Pour les demandeurs d'emploi pour lesquels l'opérateur France Travail est l'organisme référent :
+
+*   Les données relatives aux contraintes rencontrées pour accéder à un emploi concernant l'accès et la maîtrise des outils numériques, la mobilité, la situation familiale y compris la présence d'un enfant en situation de handicap ou des problèmes de santé d'un enfant, l'état de santé, les capacités en lecture, écriture et calcul, la situation de logement, les ressources financières, incluant les ressources, l'endettement et l'accès bancaire, ainsi que la situation administrative, la confiance, la capacité à agir et la vie professionnelle ;
+
+#### Pour les demandeurs d’emploi en situation de handicap :
+
+*   Le titre justifiant de la reconnaissance de la qualité de travailleur handicapé ou du bénéfice de l'obligation d'emploi et les données nécessaires relatives aux décisions d'orientation prises par la commission des droits et de l'autonomie des personnes handicapées ;
+*   Les données de santé telles que le type et l'origine du handicap, le besoin lié à la compensation du handicap, le besoin lié au rétablissement de la personne en situation de handicap permettant d'identifier les modalités de soutien nécessaires à son insertion professionnelle, y compris ses habitudes de vie et interactions sociales, les limitations de capacités, le titre justifiant du bénéfice de l'obligation d'emploi.
+
+### Concernant les demandeurs d'emploi les personnes créant un compte pour accéder aux services numériques mis à disposition par l'opérateur France Travail :
+
+*   Les données d'identification et de contact ;
+*   Les données relatives au parcours professionnel ;
+*   Les données relatives à la scolarité, au parcours de formation et au niveau de qualification et de diplômes ainsi qu'aux compétences ;
+*   Les données relatives aux emplois recherchés et aux mises en relation avec un recruteur ou un conseiller de l'opérateur France Travail ;
+*   Les données d'identification, y compris le numéro d'inscription au répertoire national d'identification.
+
+### Pour les personnes en charge de mesures de curatelle, de tutelle ou d'habilitation familiale,
+
+*   Les données d’identification et de contact.
+
+### Pour les personnes en charge de mesures de curatelle, de tutelle ou d'habilitation familiale,
+
+*   Les données d’identification et de contact.
+
+### Pour les bénéficiaires du revenu de solidarité active, ainsi que pour leur conjoint, concubin ou partenaire auquel ils sont liés par un pacte civil de solidarité et les autres membres de leur foyer :
+
+*   Les données d'identification et de contacts, y compris le numéro d'inscription au répertoire national d'identification des personnes physiques, pour les bénéficiaires du revenu de solidarité active ainsi que leur conjoint, concubin ou partenaire auquel ils sont liés par un pacte civil de solidarité ;
+*   Les données relatives à la composition du foyer ainsi qu'à la perception de la majoration mentionnée à l'article L. 262-9 du code de l'action sociale et des familles et de prestations liées à une situation de handicap ou de proche aidant.
+
+### Pour les correspondants de l'opérateur France Travail au sein des organismes de formation, des prestataires, des partenaires et des entreprises ou des membres du réseau pour l'emploi :
+
+*   Les données d'identification et de contact.
+
 À qui sont transmises ces données ?
 -----------------------------------
 
@@ -91,10 +166,30 @@ Toutefois, **nous invitons les demandeurs d’emploi à être vigilants, à ne p
 Combien de temps sont conservées ces données ?
 ----------------------------------------------
 
-Pour les personnes qui ne sont pas inscrites sur la liste des demandeurs d’emploi, **les espaces personnels sont supprimés 13 mois après la dernière connexion.**  
-Pour les personnes inscrites sur la liste des demandeurs d’emploi, les espaces personnels et les données sont conservés pendant une durée maximale de 20 ans après la cessation d’inscription sur la liste des demandeurs d’emploi dans les conditions prévues à l’article R. 5312-44 du code du travail.  
-Les données à caractère personnel et les informations enregistrées dans le système d'information relatives à l'incarcération des personnes sous main de justice visées au f du 1° de l'article R. 5312-42 sont conservées pendant une durée de trois mois à compter de la fin de l'incarcération de ces personnes.  
-Les documents adressés à France Travail par les demandeurs d’emploi ou adressés aux demandeurs d’emploi par France Travail  sont conservés sur support numérique pour une durée de 10 ans (dont 7 ans en archivage intermédiaire avec accès restreint). Par exception, certains documents peuvent être conservés plus longtemps en cas de contentieux ou pour répondre à des obligations légales.
+Pour toute personne ne sollicitant pas son inscription sur la liste des demandeurs d'emploi ayant accompli des démarches auprès de l'opérateur France Travail en utilisant les services dématérialisés mentionnés à l'article R. 5312-39, les espaces personnels sont supprimés treize mois après la dernière connexion.
+
+Pour les personnes inscrites sur la liste des demandeurs d’emploi, les espaces personnels et les données sont conservés pendant une durée maximale de vingt ans après la cessation d’inscription sur la liste des demandeurs d’emploi dans les conditions prévues à l’article R. 5312-44 du code du travail. Dix ans après la cessation d’inscription, les données sont conservées en base intermédiaire.
+
+Les données à caractère personnel et les informations enregistrées dans le système d'information relatives à l'incarcération des personnes sous main de justice visées au v du 2° de l'article R. 5312-42 sont conservées pendant une durée de trois mois à compter de la fin de l'incarcération de ces personnes.
+
+Les documents adressés à France Travail par les demandeurs d’emploi ou adressés aux demandeurs d’emploi par France Travail sont conservés sur support numérique pour une durée maximale de trois ans en base active. Elles sont ensuite conservées pendant une durée maximale de sept ans en base d’archivage intermédiaire. Par exception, certains documents peuvent être conservés plus longtemps en cas de contentieux ou pour répondre à des obligations légales.
+
+Les données personnelles liées au handicap du demandeur d’emploi sont conservées jusqu’à six mois suivant sa cessation d’inscription, ou six mois à compter de la fin de validité du titre justifiant de la reconnaissance de la qualité de travailleur handicapé.
+
+Les coordonnées bancaires sont conservées dans le système d’information de France Travail pour les durées suivantes :
+
+*   2 ans après leur collecte si elles n’ont jamais été utilisées ;
+*   20 ans maximum après le dernier paiement ou prélèvement.
+
+Les données nécessaires à la réalisation des procédures de décharge, d'audit et de contrôle liées à l'utilisation des fonds alloués par le Fonds social européen mentionnées au 19° du II de l'article [R. 5312-38](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000032625767&dateTexte=&categorieLien=cid) sont conservées en archivage intermédiaire, pour les seules nécessités liées à cette finalité, pendant la durée du mandat de service d'intérêt économique général et pendant dix ans au moins à compter de la fin du mandat.
+
+Les données exclusivement nécessaires pour la mise à disposition d'un service numérique permettant la coordination des politiques d'accès à la formation (positionnement dématérialisé en formation/obtention des aides financières associées/gestion, pilotage et suivi des parcours de formation, etc.) mentionnée au 18° du II de l'article R. 5312-38 sont conservées pendant les durées suivantes :
+
+*   Six mois à compter de la collecte des données pour les bénéficiaires non-inscrits sur la liste des demandeurs d'emploi, sans projet de formation enregistré et n'ayant pas bénéficié d'un positionnement en formation ;
+*   Deux ans à compter de la collecte des données pour les bénéficiaires non-inscrits sur la liste des demandeurs d'emploi ayant un projet de formation mais n'ayant pas bénéficié d'un positionnement en formation ou d'une formation ;
+*   Dix ans à compter de la date de fin de la formation pour les personnes ayant bénéficié d'une formation financée par l'opérateur France Travail.
+
+En cas de contentieux, les délais mentionnés à l’article [R. 5312-44](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050947057) sont prorogés, le cas échéant, jusqu'à l'intervention d'une décision juridictionnelle devenue définitive.
 
 Gestion des données liées aux enregistrements d'appels téléphoniques
 --------------------------------------------------------------------
@@ -116,8 +211,8 @@ Les données personnelles peuvent être collectées lors de votre inscription en
 
 Votre IBAN est conservé dans le système d’information de France Travail pour les durées suivantes :
 
-*   2 ans après sa collecte dès lors qu’il n'y a jamais été utilisé.
-*   20 ans maximum après sa dernière utilisation.
+*   2 ans après sa collecte dès lors qu’il n'a jamais été utilisé.
+*   20 ans maximum après le dernier paiement ou prélèvement.
 
 Quels sont vos droits par rapport à vos données personnelles ?
 --------------------------------------------------------------
@@ -160,6 +255,6 @@ Notez-le en 1 clic
 
 Évaluation de larticle {0} :
 
-33 notes
+37 notes
 
 notÃ©  3 sur 5
