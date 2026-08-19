@@ -38,7 +38,7 @@ Equipe Projet « Choisir le Service Public »
 2 Boulevard Diderot   
 75012 Paris
 
-**Contact :** [assistance-candidat@choisirleservicepublic.gouv.fr](mailto:assistance-candidat@choisirleservicepublic.gouv.fr)
+Pour tout contact, vous pouvez vous rendre dans les rubriques d’aide de la plateforme.
 
 Accès et Utilisation des publications du site
 ---------------------------------------------
@@ -79,9 +79,7 @@ Le traitement est nécessaire à l’exécution d’une mission relevant de l’
 
 Elles sont conservées pendant une durée de 2 ans à compter de la dernière connexion et sont destinées à un usage interne. L’utilisateur peut accéder aux données le concernant ou demander leur effacement. Il dispose également d’un droit d’opposition, d’un droit de rectification et d’un droit à la limitation du traitement de ses données.
 
-Conformément aux dispositions de la loi modifiée du 6 janvier 1978, l’Utilisateur peut exercer, sur les données qui le concernent, ses droits d’opposition, d’accès et de rectification en utilisant les fonctionnalités prévues à cet effet dans son espace candidat ou en adressant sa demande à l’administrateur du site :
-
-[assistance-candidat@choisirleservicepublic.gouv.fr](mailto:assistance-candidat@choisirleservicepublic.gouv.fr).
+Conformément aux dispositions de la loi modifiée du 6 janvier 1978, l’Utilisateur peut exercer, sur les données qui le concernent, ses droits d’opposition, d’accès et de rectification en utilisant les fonctionnalités prévues à cet effet dans son espace candidat ou en adressant sa demande à l’administrateur du site ([formulaire](https://choisirleservicepublic.gouv.fr/contact/))
 
 L’utilisateur peut, en cas de difficultés, contacter le délégué à la protection des données du Ministère de la Transformation et de la Fonction Publiques  :
 
