@@ -5,6 +5,12 @@ Vérifié le 26 septembre 2025 - Service Public / Direction de l'information lé
 
 Les présentes conditions générales (« CGU ») s'imposent à tout usager du site www.service-public.gouv.fr
 
+*   « Service Public » (ci-après dénommé « le Site ») est un site gratuit mis en œuvre par la Direction de l'information légale et administrative (ci-après dénommée « la DILA») contribuant à simplifier l'information et les démarches administratives des usagers.
+
+*   Les usagers peuvent créer un compte pour leurs besoins personnels (compte personnel) et/ou pour les besoins de leur association (compte association).
+
+*   L'utilisation du Site est facultative. Les usagers choisissent librement les services en ligne auxquels ils souhaitent accéder de façon privilégiée, et les données qu'ils souhaitent conserver dans leur espace confidentiel (« espace de stockage » au sens du décret n°2009-730 du 18 juin 2009 modifié), le cas échéant.
+
 Tout déplier
 
 Fonctionnalités
