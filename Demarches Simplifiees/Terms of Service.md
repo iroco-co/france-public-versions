@@ -14,7 +14,7 @@ Au sens des présentes conditions générales d’utilisation, il faut entendre 
 
 **Service** : la plateforme « **demarche.numerique.gouv.fr** », qui permet à une administration de créer des démarches en ligne et d’instruire les dossiers déposés sur la plateforme.
 
-**Administration :** l’administration partenaire qui utilise le Service pour créer une démarche administrative en ligne. L’administration partenaire peut être issue des administrations de l’Etat, des collectivités territoriales, de leurs établissements publics administratifs et des organismes et personnes de droit public et privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale.
+**Administration :** l’administration partenaire qui utilise le Service pour créer une démarche administrative en ligne. L’administration partenaire peut être issue des administrations de l’État, des collectivités territoriales, de leurs établissements publics administratifs et des organismes et personnes de droit public et privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale.
 
 **Agent** : agent d’une Administration partenaire qui bénéficie dans le Service des droits d’administrateur ou d’instructeur d’une démarche administrative.
 
@@ -67,7 +67,7 @@ Ces arrêts exceptionnels peuvent être rendus nécessaires par exemple pour des
 
 L’indisponibilité du Service n’ouvre droit à aucune compensation de quelque nature que ce soit.
 
-La DINUM prend toute les précautions utiles pour préserver la sécurité de la plateforme et des outils mis en œuvre pour accomplir le Service, notamment s’agissant de l’accès au Service, de la gestion des comptes utilisateurs et du traitement des données collectées.
+La DINUM prend toutes les précautions utiles pour préserver la sécurité de la plateforme et des outils mis en œuvre pour accomplir le Service, notamment s’agissant de l’accès au Service, de la gestion des comptes utilisateurs et du traitement des données collectées.
 
 Le Service bénéficie d’une homologation de sécurité RGS de la direction interministérielle du numérique. L’attestation d’homologation est tenue à la disposition de l’Administration.
 
@@ -98,9 +98,9 @@ La liste des démarches mises en ligne est publiée tous les mois sur data.gouv.
 
 Compte tenu de l’intégration de la démarche dans son propre système d’information et des risques que les traitements liés à la démarche sont susceptibles d’engendrer pour les droits et libertés des usagers, il incombe à l’Administration d’apprécier le besoin de procéder à une homologation de sécurité RGS complémentaire pour son propre système d’information et à la réalisation d’une analyse d’impact sur la protection des données (AIPD) pour les traitements dont elle est responsable.
 
-L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
+L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions.
 
-Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de de sécurité complémentaires.
+Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de sécurité complémentaires.
 
 Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
 
@@ -114,15 +114,15 @@ L’instructeur est responsable, pour le compte de l’Administration, de l’in
 
 L’expert est invité par un instructeur pour formuler un avis sur un dossier. Il intervient sous la responsabilité de l’instructeur.
 
-L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 La DINUM est responsable des informations traitées dans le cadre du Service pour ce qui concerne la gestion de la plateforme et la gestion des comptes utilisateurs.
 
-A ce titre, elle respecte les obligations inhérentes à ces traitements, notamment celles relevant du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE dit règlement général sur la protection des données (RGPD) et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+À ce titre, elle respecte les obligations inhérentes à ces traitements, notamment celles relevant du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE dit règlement général sur la protection des données (RGPD) et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
 
 En sa qualité de responsable de traitement, l’Administration confie à la DINUM, qui agit en qualité de sous-traitant, les traitements nécessaires à la dématérialisation de ses démarches administratives, à l’instruction et au suivi des dossiers déposés par les usagers sur le Service.
 
-A ce titre, l’Administration autorise la DINUM à :
+À ce titre, l’Administration autorise la DINUM à :
 
 *   Collecter les données à caractère personnel des usagers qui réalisent une démarche administrative par l’intermédiaire du Service ;
     
@@ -159,15 +159,15 @@ Lorsqu’elle décide d’un audit, l’Administration en informe la DINUM au mi
 
 L’Administration est associée à la définition des besoins en matière de protection des données et au suivi des mesures apportées par la DINUM pour y répondre.
 
-La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès que celles-ci en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
+La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès qu’elle en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
-La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
-L’Administration peut faire connaitre à la DINUM son opposition à ce changement. Si à l’issue de l’étude des raisons invoquées par l’Administration, la DINUM décide de procéder à l’ajout ou au remplacement de sous-traitants ultérieurs, l’Administration a la possibilité de résilier son adhésion au Service dans les conditions prévues à l’article 7.e.ii. des conditions générales d’utilisation
+L’Administration peut faire connaître à la DINUM son opposition à ce changement. Si à l’issue de l’étude des raisons invoquées par l’Administration, la DINUM décide de procéder à l’ajout ou au remplacement de sous-traitants ultérieurs, l’Administration a la possibilité de résilier son adhésion au Service dans les conditions prévues à l’article 7.e.ii. des conditions générales d’utilisation
 
 Lorsque la DINUM recrute un sous-traitant ultérieur pour mener des activités de traitement spécifiques (pour le compte de l’Administration), elle le fait au moyen d’un contrat qui impose au sous-traitant ultérieur, en substance, les mêmes obligations en matière de protection des données que celles imposées à la DINUM en vertu des présentes clauses. La DINUM veille à ce que le sous-traitant ultérieur respecte les obligations auxquelles elle est elle-même soumise en vertu des présentes clauses et du règlement (UE) 2016/679.
 
@@ -218,13 +218,13 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18 h. Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
-L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les administrations et organismes publics est gratieux.
+L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les administrations et organismes publics est gratuit.
 
-En tant que porteur d'un commun numérique à impact national, la DINUM acceuille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
+En tant que porteur d'un commun numérique à impact national, la DINUM accueille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
 
-Ces contribution peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
+Ces contributions peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
 
 La DINUM peut modifier à tout moment les conditions générales d’utilisation dans le respect des modalités suivantes :
 
@@ -241,7 +241,7 @@ Si l’Administration n’est pas en mesure de respecter les modifications adopt
 
 Il appartient à l’Administration de se référer à la dernière version des conditions générales d’utilisation avant toute utilisation du Service.
 
-Le Service est développé conformément à l’état de l’art. Toutefois, il n’est pas garanti qu’il soit exempt d’anomalies ou d’erreurs. A ce titre, la DINUM ne peut être tenue responsable des pertes ou des préjudices, de quelque nature qu’ils soient, qui pourraient être causés à la suite d’un dysfonctionnement ou d’une indisponibilité du Service ou de son utilisation contraire aux présentes conditions générales d’utilisation. De telles situations n'ouvriront droit à aucune compensation financière.
+Le Service est développé conformément à l’état de l’art. Toutefois, il n’est pas garanti qu’il soit exempt d’anomalies ou d’erreurs. À ce titre, la DINUM ne peut être tenue responsable des pertes ou des préjudices, de quelque nature qu’ils soient, qui pourraient être causés à la suite d’un dysfonctionnement ou d’une indisponibilité du Service ou de son utilisation contraire aux présentes conditions générales d’utilisation. De telles situations n'ouvriront droit à aucune compensation financière.
 
 Le Service est mis à disposition de l’Administration pour une durée indéterminée.
 
