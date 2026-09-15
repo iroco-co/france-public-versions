@@ -141,5 +141,3 @@ Pour aller plus loin, vous pouvez consulter les ﬁches proposées par la Commis
 
 *   [Cookies & traceurs : que dit la loi ?](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies/que-dit-la-loi)
 *   [Cookies : les outils pour les maîtriser](https://www.cnil.fr/fr/cookies-et-autres-traceurs/comment-se-proteger/maitriser-votre-navigateur)
-
-Fermer
