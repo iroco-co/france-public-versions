@@ -162,7 +162,6 @@ En tout état de cause, l’ADEME s’engage à informer préalablement les Pers
 | Scalingo | France | France | Base de données | [https://scalingo.com/legal-notice](https://scalingo.com/legal-notice) |
 | Google | États-Unis | Etats-Unis | Mesure d'audience | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Posthog | États-Unis | Etats-Unis | Mesure d'audience | [https://posthog.com/privacy](https://posthog.com/privacy) |
-| Matomo | France | France (auto-hébergé ou serveur UE) | Mesure d'audience | [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/) |
 | Tally | Belgique | Europe / Irlande (AWS) | Formulaires en ligne | [https://tally.so/help/privacy-policy](https://tally.so/help/privacy-policy) |
 | Brevo | Union européenne | Union Européenne (OVH) | Campagne d’e-mailing | [https://www.brevo.com/fr/legal/termsofuse/](https://www.brevo.com/fr/legal/termsofuse/) |
 | SalesForce | Allemagne | Allemagne | Campagne d’e-mailing | [https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/legal/misc/salesforce-infrastructure-and-subprocessors.pdf) |
@@ -217,18 +216,11 @@ Enfin, le Site utilise également des cookies de performance, dans le but :
 | --- | --- | --- | --- | --- | --- |
 | Gestion et suivi de tags et de comportement | Posthog | 13 mois | Analyse de conversions | Posthog | États-Unis |
 | Gestion et suivi de tags et de comportement | Google Tag Manager | 13 mois | Analyse de suivi comportemental | Google | États-Unis |
-| Gestion et suivi de tags et de comportement | Matomo | 13 mois | Mesure d'audience anonymisée | Matomo & ADEME | France |
 | Mesure d'audience | Google Tag Manager | 13 mois | Mesure d'audience | Google | États-Unis |
 | Mesure d'audience | Google Ads | 13 mois | Mesure d'audience | Google | États-Unis |
 | Préférence utilisateur | Changement de langue / région | Session | Conservation des préférences linguistiques | Interne / CMS | France / UE |
 | Collecte de formulaires | Tally | 13 mois | Récolte de réponses à des formulaires | Tally | Belgique / UE |
 | Cookie de session | Cookie de session | Session | Maintien de la session utilisateur | Interne | France / UE |
-
-##### Matomo
-
-Voir la liste complètes des cookies Matomo [https://matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
-
-Nos Gestes Climat utilise la solution de mesure d’audience Matomo en l’ayant configuré en mode “exempté”, conformément aux [recommandations de la CNIL](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience). Elle ne nécessite donc pas le consentement des personnes concernées. Vous pouvez malgré tout vous opposer au suivi de votre navigation, en décochant la case ci-dessous.
 
 ##### Posthog
 
