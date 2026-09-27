@@ -255,6 +255,6 @@ Notez-le en 1 clic
 
 Évaluation de larticle {0} :
 
-47 notes
+48 notes
 
 notÃ©  3 sur 5
