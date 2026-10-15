@@ -288,7 +288,7 @@ CONDITIONS GENERALES DE DÉLIVRANCE ET D'UTILISATION DE LA CARTE FAMILLES NOMBRE
 
 _Version en vigueur au 15 juin 2023_
 
-En application de la Convention signée entre désigne Ministère de la Transition Ecologique et de la Cohésion des Territoires, direction générale des infrastructures, des transports et des mobilités (ci-après le « Ministère ») et la société Imprimerie Nationale SA, Société Anonyme au capital de 953 495 025 euros, ayant son siège social au 38 avenue de NEW YORK - 75116 PARIS, immatriculée sous le numéro 352 973 622 au RCS de Paris (ci-après « IN Groupe »), IN Groupe est seule habilitée à fournir les missions relatives à la délivrance et à la gestion des Cartes Famille Nombreuse (**ci-après les « CFN »**), et aux services y étant associés.
+En application de la Convention signée entre désigne Ministère de la Transition Ecologique et de la Cohésion des Territoires, direction générale des infrastructures, des transports et des mobilités (ci-après le « Ministère ») et la société Imprimerie Nationale SA, Société Anonyme au capital de 953 495 025 euros, ayant son siège social au 38 avenue de NEW YORK - 75116 PARIS, immatriculée sous le numéro 352 973 622 au RCS de Paris (ci-après « IN Groupe »), IN Groupe est seule habilitée à fournir les missions relatives à la délivrance et à la gestion des Cartes Familles Nombreuses (**ci-après les « CFN »**), et aux services y étant associés.
 
 Les présentes Conditions Générales de Délivrance et d’Utilisation (**ci-après les « CGDU »**) s’appliquent sous réserve des modifications apportées à la réglementation européenne et/ ou française, auquel cas celles-ci seront applicables et opposables dès leur entrée en vigueur.
 
@@ -429,7 +429,7 @@ Le parent ou les parents ayant ou ayant eu au moins 5 enfants majeurs peuvent b�
   
 La carte est utilisable en 1ère et 2nde classe, mais la réduction est toujours calculée sur le tarif loisir standard ou tarif normal de 2nde classe.
 
-En région parisienne, sous certaines conditions, la carte famille nombreuse permet de bénéficier d'une réduction de 50 % sur le réseau SNCF et RATP. Pour connaître ces conditions, l’Ayant-droits doit se renseigner auprès de la SNCF ou de la RATP.
+En région parisienne, sous certaines conditions, la carte Familles Nombreuses permet de bénéficier d'une réduction de 50 % sur le réseau SNCF et RATP. Pour connaître ces conditions, l’Ayant-droits doit se renseigner auprès de la SNCF ou de la RATP.
 
 Certaines enseignes commerciales affichant le logo Familles Nombreuses proposent également une réduction aux détenteurs de la Carte Familles Nombreuses : la liste des partenaires est consultable sur le Site.
 
