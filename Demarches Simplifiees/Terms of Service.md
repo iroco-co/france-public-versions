@@ -1,5 +1,3 @@
-For the complete documentation index, see [llms.txt](https://doc.demarches-simplifiees.fr/llms.txt). This page is also available as [Markdown](https://doc.demarches-simplifiees.fr/cgu.md).
-
 Copier
 
 Sur cette page
